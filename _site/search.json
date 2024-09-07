@@ -30,9 +30,9 @@
   {
     "objectID": "pages/Registration.html",
     "href": "pages/Registration.html",
-    "title": "Register for the Conference",
+    "title": "Registration",
     "section": "",
-    "text": "Register for the 2025 SUSAN Conference\nPlease fill in the form below to register for the conference.\n\n\nName: \nEmail: \nInstitution: \n\nRegister"
+    "text": "Name \n\n\nEmail \n\n\nInstitution \n\n\n\nRegister"
   },
   {
     "objectID": "pages/Registration.html#registration-online-registration",
@@ -81,6 +81,13 @@
     "href": "pages/thank-you.html",
     "title": "Thank You",
     "section": "",
-    "text": "Thank You for Registering!\nWe have received your registration. You will hear from us soon."
+    "text": "Thank you for registering! We’ll get back to you soon."
+  },
+  {
+    "objectID": "pages/Registration.html#register-for-the-2025-susan-conference",
+    "href": "pages/Registration.html#register-for-the-2025-susan-conference",
+    "title": "Registration",
+    "section": "",
+    "text": "Name \n\n\nEmail \n\n\nInstitution \n\n\n\nRegister"
   }
 ]

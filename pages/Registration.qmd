@@ -1,22 +1,21 @@
 ---
-title: "Register for the Conference"
----
+title: "Registration"
+format: html
+--- 
 
-# Register for the 2025 SUSAN Conference
+## Register for the 2025 SUSAN Conference
 
-Please fill in the form below to register for the conference.
-
-<form name="registration" method="POST" data-netlify="true" action="/thank-you">
-  <input type="hidden" name="form-name" value="registration">
-  
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name" required><br>
-
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="email" required><br>
-
-  <label for="institution">Institution:</label><br>
-  <input type="text" id="institution" name="institution" required><br>
-
-  <button type="submit">Register</button>
+<form name="contact" method="POST" data-netlify="true" action="/thank-you">
+  <p>
+    <label>Name <input type="text" name="name" required /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" required /></label>
+  </p>
+  <p>
+    <label>Institution <input type="text" name="institution" required /></label>
+  </p>
+  <p>
+    <button type="submit">Register</button>
+  </p>
 </form>

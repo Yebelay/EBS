@@ -2,6 +2,4 @@
 title: "Thank You"
 ---
 
-# Thank You for Registering!
-
-We have received your registration. You will hear from us soon.
+Thank you for registering! We'll get back to you soon.
