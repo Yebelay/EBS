@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SUSAN 2025",
+    "section": "",
+    "text": "SUSAN 2025 Conference\nLearn more about me →"
+  },
+  {
+    "objectID": "pages/Abstracts.html",
+    "href": "pages/Abstracts.html",
+    "title": "Submit Abstract",
+    "section": "",
+    "text": "Submit Your Abstract\n\n\nSubmit Abstract"
+  },
+  {
+    "objectID": "pages/about.html#history-of-the-society",
+    "href": "pages/about.html#history-of-the-society",
+    "title": "About",
+    "section": "History of the society",
+    "text": "History of the society"
+  },
+  {
+    "objectID": "pages/about.html#information-on-key-team-members-and-partnerships",
+    "href": "pages/about.html#information-on-key-team-members-and-partnerships",
+    "title": "About",
+    "section": "Information on key team members and partnerships",
+    "text": "Information on key team members and partnerships\n\n\n\nCausal inference,\nLongitudinal data analysis,\nSurvival analysis,\nJoint Model\n\n\n\nSpatial data analysis,\nMissing data management,\nDesign of clinical trials."
+  },
+  {
+    "objectID": "pages/Registration.html",
+    "href": "pages/Registration.html",
+    "title": "Register for the Conference",
+    "section": "",
+    "text": "Register for the 2025 SUSAN Conference\nPlease fill in the form below to register for the conference.\n\n\nName: \nEmail: \nInstitution: \n\nRegister"
+  },
+  {
+    "objectID": "pages/Registration.html#registration-online-registration",
+    "href": "pages/Registration.html#registration-online-registration",
+    "title": "Registration",
+    "section": "",
+    "text": "SUSAN Conference registration will be in South African Rands (ZAR). Online (late) registration now open and closes on 31 August 2019.\nLate registration - R6900 Late Student registration - R3000 Workshop registration - R 1200 Student workshop registration - R1000 Registration fee includes the following:\nAttendance to all sessions in the Programme Conference package Teas and lunches during the Conference Conference dinner Welcome reception For any registration queries, please contact the registration manager: Kefiloe Masemola Kefiloe.Masemola@mrc.ac.za or +27 21 938 0554.\nPlease note: Registration fees do not include accommodation, visa costs or airport transfers. Registration can only be confirmed once payment is received.\nTransport to and from the conference venue will be provided daily.\nPayment can be made by any of the following methods:\nCredit card: Payments will be done via PayU Bank transfer (EFT): If you are paying via bank/wire transfer, please clearly indicate your name and surname or your Billing information reference number on the deposit slip/confirmation of payment. A copy of the deposit slip/ confirmation of payment must be mailed to the registration manager, Kefiloe Masemola Kefiloe.Masemola@mrc.ac.za Note: The organisers will not be responsible for identifying funds if the delegate’s details or billing reference information are not mentioned.\nPayment Deadlines To qualify for the early bird registration fee, all registration fees must be paid by 31 July 2019.\nAll late registration payments should be paid in full by 31 August 2019.\nBank/wire transfers must be made payable to: Account holder name: SOUTH AFRICAN MEDICAL RESEARCH COUNCIL Account name: MRC CONFERENCE INCOME Absa account number: 90 6475 8975 Branch: ABS PBLCS W/C Branch code: 632005\nCancellations and Refunds Cancellations must be sent in writing to Kefiloe Masemola Kefiloe.Masemola@mrc.ac.za\nCancellations received before 30 July 2019 will qualify for a refund that is 25% less than the original amount paid to cover administration costs. As an alternative to cancellation, your registration may be transferred to another person before 30 July 2019 without incurring any cost penalty. Refunds and cancellations received after 30 July 2019 will be made in exceptional circumstances. Please note, that the payment for refunds will be processed 30 days after the last day of the conference."
+  },
+  {
+    "objectID": "pages/Programmes.html",
+    "href": "pages/Programmes.html",
+    "title": "Programmes",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pages/Programmes.html#quarto",
+    "href": "pages/Programmes.html#quarto",
+    "title": "Programmes",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pages/Programmes.html#running-code",
+    "href": "pages/Programmes.html#running-code",
+    "title": "Programmes",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to get in touch with me using the following contact details:\n\nEmail: yebelay.ma@gmail.com\nPhone: +251 93 245 3203\n\n\n\nYou can also reach me through social media or by filling out the contact form below.\n\n\nYour Name \nYour Email \nYour Message\n\n\nSend"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "You can also reach me through social media or by filling out the contact form below.\n\n\nYour Name \nYour Email \nYour Message\n\n\nSend"
+  },
+  {
+    "objectID": "pages/thank-you.html",
+    "href": "pages/thank-you.html",
+    "title": "Thank You",
+    "section": "",
+    "text": "Thank You for Registering!\nWe have received your registration. You will hear from us soon."
+  }
+]

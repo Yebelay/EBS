@@ -1,0 +1,9 @@
+---
+title: "Submit Abstract"
+---
+
+# Submit Your Abstract
+
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSctE-TraV6rwvSbSsNBMxo4UbAVS5Cb9h77wYsUff8BquOSgA/viewform" target="_blank">
+  <button type="submit" class="submit-button">Submit Abstract</button>
+</form>

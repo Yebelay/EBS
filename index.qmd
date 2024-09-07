@@ -1,0 +1,12 @@
+---
+title: "SUSAN 2025"
+about: 
+  image: pages/images/Yebe1.jpg
+  template: jolla
+---
+
+SUSAN 2025 Conference
+
+
+[Learn more about me &rarr;](pages/about.qmd)
+

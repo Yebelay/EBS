@@ -1,0 +1,30 @@
+---
+title: "About"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+
+## [Mission and vision statements]{style="color:red;"}
+
+
+## [History of the society]{style="color:red;"}
+
+## [Information on key team members and partnerships]{style="color:red;"}
+
+
+::: columns
+::: {.column width="50%"}
+- [Causal inference]{style="color:blue;"}, 
+- [Longitudinal data analysis]{style="color:blue;"}, 
+- [Survival analysis]{style="color:blue;"}, 
+- [Joint Model]{style="color:blue;"}
+
+::: 
+::: {.column width="50%"}
+- [Spatial data analysis]{style="color:blue;"}, 
+- [Missing data management]{style="color:blue;"}, 
+- [Design of clinical trials]{style="color:blue;"}.  
+:::
+:::
