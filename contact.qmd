@@ -1,75 +1,27 @@
 ---
-output:
-  html_document:
-    toc: true
-    toc_float: true
----
+title: ""
+--- 
+
 
 # Contact
 
-<section id="contact">
-  <h2>Contact Us</h2>
-  
-  <form name="contact-form" method="POST" data-netlify="true" action="/thank-you">
-    <p>
-      <label for="name">Name:</label>
-      <input type="text" id="name" name="name" required placeholder="Your Name">
-    </p>
-    
-    <p>
-      <label for="email">Email:</label>
-      <input type="email" id="email" name="email" required placeholder="Your Email">
-    </p>
-    
-    <p>
-      <label for="message">Message:</label>
-      <textarea id="message" name="message" required placeholder="Your Message" rows="5"></textarea>
-    </p>
-    
-    <p>
-      <button type="submit">Send Message</button>
-    </p>
-  </form>
-</section>
+<form action="https://formspree.io/f/xyzgvovj" method="POST">
+  <p>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required placeholder="Your Name">
+  </p>
 
-<style>
-  section#contact {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #f8f9fa;
-    border-radius: 10px;
-  }
+  <p>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required placeholder="Your Email">
+  </p>
 
-  form p {
-    margin-bottom: 15px;
-  }
+  <p>
+    <label for="message">Message:</label>
+    <textarea id="message" name="message" required placeholder="Your Message" rows="5"></textarea>
+  </p>
 
-  label {
-    display: block;
-    font-weight: bold;
-    margin-bottom: 5px;
-  }
-
-  input[type="text"], input[type="email"], textarea {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 1em;
-  }
-
-  button[type="submit"] {
-    padding: 10px 20px;
-    background-color: #006D6B;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 1em;
-  }
-
-  button[type="submit"]:hover {
-    background-color: #005a5a;
-  }
-</style>
+  <p>
+    <button type="submit">Send Message</button>
+  </p>
+</form>
