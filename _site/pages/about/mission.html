@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../Icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../Icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Home</span>
     </a>
   </div>
@@ -96,35 +96,35 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about-us">    
         <li>
-    <a class="dropdown-item" href="../pages/about/history.html">
+    <a class="dropdown-item" href="../../pages/about/history.html">
  <span class="dropdown-text">Who We Are</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../pages/about/mission.html">
+    <a class="dropdown-item" href="../../pages/about/mission.html">
  <span class="dropdown-text">Committee members</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../pages/about/team.html">
+    <a class="dropdown-item" href="../../pages/about/team.html">
  <span class="dropdown-text">ToC for SUSAN Conference</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="../pages/Registration.html" aria-current="page"> 
+    <a class="nav-link" href="../../pages/Registration.html"> 
 <span class="menu-text">Registration</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../pages/Abstracts.html"> 
+    <a class="nav-link" href="../../pages/Abstracts.html"> 
 <span class="menu-text">Submit Abstract</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../pages/Programmes.html"> 
+    <a class="nav-link" href="../../pages/Programmes.html"> 
 <span class="menu-text">Programmes</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item compact">
@@ -150,43 +150,55 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<h2 class="anchored">
-Register for the 2025 SUSAN Conference
-</h2>
-<!-- The button to display the form -->
-<button id="showFormButton" onclick="showForm()">
-Register Here
-</button>
-<!-- The form, hidden by default, with increased width -->
-<form id="registerForm" name="contact" method="POST" data-netlify="true" action="/thank-you" style="display: none; margin-top: 20px; width: 50%;">
-<p>
-<label>Name <input type="text" name="name" required=""></label>
-</p>
-<p>
-<label>Email <input type="email" name="email" required=""></label>
-</p>
-<p>
-<label>Institution <input type="text" name="institution" required=""></label>
-</p>
-<p>
-<button type="submit">
-Register
-</button>
-</p>
-</form>
-<!-- JavaScript to toggle form visibility -->
-<script>
-  function showForm() {
-    var form = document.getElementById("registerForm");
-    var button = document.getElementById("showFormButton");
-    
-    // Show the form and hide the button
-    form.style.display = "block";
-    button.style.display = "none";
-  }
-</script>
+<section id="officers" class="level2">
+<h2 class="anchored" data-anchor-id="officers"><strong>Officers</strong></h2>
+<table class="table">
+<colgroup>
+<col style="width: 43%">
+<col style="width: 56%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Tilahun Ferede Asena</td>
+<td>President</td>
+</tr>
+<tr class="even">
+<td>Gezahegn Mekonnen WeldeMariam</td>
+<td>Vice President</td>
+</tr>
+<tr class="odd">
+<td>Belachew Melese Hunde</td>
+<td>Secretary</td>
+</tr>
+<tr class="even">
+<td>Anteneh Tessema Yalew</td>
+<td>IBS Ethiopia Region Secretary</td>
+</tr>
+<tr class="odd">
+<td>Eskedar Girma</td>
+<td>Membership Coordinator</td>
+</tr>
+<tr class="even">
+<td>Fatuma Hassen</td>
+<td>Finance and Administrative Coordinator</td>
+</tr>
+<tr class="odd">
+<td>Yebelay Berelie Berhan</td>
+<td>Research and Project Coordinator</td>
+</tr>
+<tr class="even">
+<td>Diribsa Tsegaye Bedada</td>
+<td>Training Coordinator&nbsp;</td>
+</tr>
+<tr class="odd">
+<td>Sisay Wendaya</td>
+<td>Auditor&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

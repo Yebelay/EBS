@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SUSAN 2025",
+    "title": "Home",
     "section": "",
-    "text": "SUSAN 2025 Conference\nLearn more about me →"
+    "text": "SUSAN 2025 Conference\n\n\nThe Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.\n\n\nClick to learn more\n\n\n\n\n\nMore about SUSAN\n\n\nThis includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\n\n\nShow less\n\n\n\n\n\n\n\n\nAbout the Conference\n\n\nThe Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\nThe IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.\n\n\nClick to learn more\n\n\n\n\nContact Us\n\n\nClick to learn more\n\n\n\n\n\n&lt;span class=\"close\" onclick=\"hideSection('intro-details')\"&gt;&times;&lt;/span&gt;\n&lt;h2&gt;SUSAN 2025 Conference - Detailed Info&lt;/h2&gt;\n&lt;p&gt;More information about the conference will go here.&lt;/p&gt;\n\n\n\n\n&lt;span class=\"close\" onclick=\"hideSection('about-details')\"&gt;&times;&lt;/span&gt;\n&lt;h2&gt;About the Conference - Detailed Info&lt;/h2&gt;\n&lt;p&gt;Details about the SUSAN conference.&lt;/p&gt;\n\n\n\n\n&lt;span class=\"close\" onclick=\"hideSection('contact-details')\"&gt;&times;&lt;/span&gt;\n&lt;h2&gt;Contact Us - Detailed Info&lt;/h2&gt;\n&lt;p&gt;Reach out to us for more details.&lt;/p&gt;"
   },
   {
     "objectID": "pages/Abstracts.html",
@@ -30,9 +30,9 @@
   {
     "objectID": "pages/Registration.html",
     "href": "pages/Registration.html",
-    "title": "Registration",
+    "title": "Home",
     "section": "",
-    "text": "Name \n\n\nEmail \n\n\nInstitution \n\n\n\nRegister"
+    "text": "Register for the 2025 SUSAN Conference\n\n\n\nRegister Here\n\n\n\n\nName \n\n\nEmail \n\n\nInstitution \n\n\n\nRegister"
   },
   {
     "objectID": "pages/Registration.html#registration-online-registration",
@@ -67,7 +67,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Feel free to get in touch with me using the following contact details:\n\nEmail: yebelay.ma@gmail.com\nPhone: +251 93 245 3203\n\n\n\nYou can also reach me through social media or by filling out the contact form below.\n\n\nYour Name \nYour Email \nYour Message\n\n\nSend"
+    "text": "Contact\n\n\nContact Us\n\n\n\nName: \n\n\nEmail: \n\n\nMessage:\n\n\n\n\nSend Message"
   },
   {
     "objectID": "contact.html#get-in-touch",
@@ -86,8 +86,113 @@
   {
     "objectID": "pages/Registration.html#register-for-the-2025-susan-conference",
     "href": "pages/Registration.html#register-for-the-2025-susan-conference",
-    "title": "Registration",
+    "title": "Home",
     "section": "",
     "text": "Name \n\n\nEmail \n\n\nInstitution \n\n\n\nRegister"
+  },
+  {
+    "objectID": "index.html#susan-2025-conference",
+    "href": "index.html#susan-2025-conference",
+    "title": "Home",
+    "section": "",
+    "text": "Click to learn more\n\n\n\n\n\n\n\nClick to learn more\n\n\n\n\n\n\n\nClick to learn more\n\n\n\n\n\n&lt;span class=\"close\" onclick=\"hideSection('intro-details')\"&gt;&times;&lt;/span&gt;\n&lt;h2&gt;Conference Details&lt;/h2&gt;\n&lt;p&gt;More information...&lt;/p&gt;"
+  },
+  {
+    "objectID": "index.html#about-the-conference",
+    "href": "index.html#about-the-conference",
+    "title": "Home",
+    "section": "",
+    "text": "Click to learn more"
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "Home",
+    "section": "",
+    "text": "Click to learn more"
+  },
+  {
+    "objectID": "pages/about/team.html",
+    "href": "pages/about/team.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pages/about/team.html#quarto",
+    "href": "pages/about/team.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pages/about/team.html#running-code",
+    "href": "pages/about/team.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "pages/about/history.html",
+    "href": "pages/about/history.html",
+    "title": "Home",
+    "section": "",
+    "text": "The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\nThe IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa."
+  },
+  {
+    "objectID": "pages/about/history.html#quarto",
+    "href": "pages/about/history.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pages/about/history.html#running-code",
+    "href": "pages/about/history.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "pages/about/mission.html",
+    "href": "pages/about/mission.html",
+    "title": "Home",
+    "section": "",
+    "text": "Tilahun Ferede Asena\nPresident\n\n\nGezahegn Mekonnen WeldeMariam\nVice President\n\n\nBelachew Melese Hunde\nSecretary\n\n\nAnteneh Tessema Yalew\nIBS Ethiopia Region Secretary\n\n\nEskedar Girma\nMembership Coordinator\n\n\nFatuma Hassen\nFinance and Administrative Coordinator\n\n\nYebelay Berelie Berhan\nResearch and Project Coordinator\n\n\nDiribsa Tsegaye Bedada\nTraining Coordinator \n\n\nSisay Wendaya\nAuditor"
+  },
+  {
+    "objectID": "pages/about/mission.html#quarto",
+    "href": "pages/about/mission.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pages/about/mission.html#running-code",
+    "href": "pages/about/mission.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "pages/about/history.html#the-ethiopian-region-founded-in-1999-is-an-active-region-of-ibs.-in-addition-to-this-they-are-a-member-of-the-sub-sahara-african-network-or-susan-which-is-a-network-of-national-biometric-groups-of-the-sub-saharan-africa-countries-who-promote-the-advancement-of-life-sciences-through-development-application-and-dissemination-of-effective-mathematical-and-statistical-methods-to-its-members-and-collaborating-partners.-this-includes-applications-in-agriculture-medical-and-health-research-infectious-diseases-environment-and-ecology-climate-and-other-applied-sciences-such-as-the-areas-of-statistical-genetics-and-bioinformatics.",
+    "href": "pages/about/history.html#the-ethiopian-region-founded-in-1999-is-an-active-region-of-ibs.-in-addition-to-this-they-are-a-member-of-the-sub-sahara-african-network-or-susan-which-is-a-network-of-national-biometric-groups-of-the-sub-saharan-africa-countries-who-promote-the-advancement-of-life-sciences-through-development-application-and-dissemination-of-effective-mathematical-and-statistical-methods-to-its-members-and-collaborating-partners.-this-includes-applications-in-agriculture-medical-and-health-research-infectious-diseases-environment-and-ecology-climate-and-other-applied-sciences-such-as-the-areas-of-statistical-genetics-and-bioinformatics.",
+    "title": "Home",
+    "section": "",
+    "text": "The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa."
+  },
+  {
+    "objectID": "pages/about/mission.html#officers",
+    "href": "pages/about/mission.html#officers",
+    "title": "Home",
+    "section": "",
+    "text": "Tilahun Ferede Asena\nPresident\n\n\nGezahegn Mekonnen WeldeMariam\nVice President\n\n\nBelachew Melese Hunde\nSecretary\n\n\nAnteneh Tessema Yalew\nIBS Ethiopia Region Secretary\n\n\nEskedar Girma\nMembership Coordinator\n\n\nFatuma Hassen\nFinance and Administrative Coordinator\n\n\nYebelay Berelie Berhan\nResearch and Project Coordinator\n\n\nDiribsa Tsegaye Bedada\nTraining Coordinator \n\n\nSisay Wendaya\nAuditor"
+  },
+  {
+    "objectID": "index.html#susan-2025-conference-1",
+    "href": "index.html#susan-2025-conference-1",
+    "title": "Home",
+    "section": "",
+    "text": "Click to learn more"
   }
 ]

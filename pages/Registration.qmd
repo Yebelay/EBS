@@ -1,11 +1,14 @@
 ---
-title: "Registration"
-format: html
+title: ""
 --- 
 
-## Register for the 2025 SUSAN Conference
+<h2>Register for the 2025 SUSAN Conference</h2>
 
-<form name="contact" method="POST" data-netlify="true" action="/thank-you">
+<!-- The button to display the form -->
+<button id="showFormButton" onclick="showForm()">Register Here</button>
+
+<!-- The form, hidden by default, with increased width -->
+<form id="registerForm" name="contact" method="POST" data-netlify="true" action="/thank-you" style="display: none; margin-top: 20px; width: 50%;">
   <p>
     <label>Name <input type="text" name="name" required /></label>
   </p>
@@ -19,3 +22,16 @@ format: html
     <button type="submit">Register</button>
   </p>
 </form>
+
+<!-- JavaScript to toggle form visibility -->
+<script>
+  function showForm() {
+    var form = document.getElementById("registerForm");
+    var button = document.getElementById("showFormButton");
+    
+    // Show the form and hide the button
+    form.style.display = "block";
+    button.style.display = "none";
+  }
+</script>
+

@@ -259,20 +259,6 @@ body, p, div, span, li, blockquote, pre {
 }
 
 
-/* Center and style the title */
-#intro h2 {
-  color: #006d6b; /* Custom color */
-  font-size: 1em; /* Bigger size */
-  text-align: center; /* Center alignment */
-  font-weight: bold; /* Bold text */
-}
-
-#intro {
-  background-color: #f0f8ff; /* Optional background color */
-  padding: 20px;
-}
-
-
 /* Form styles for the registration form */
 form {
   background-color: #f4f4f4;
@@ -303,23 +289,19 @@ button:hover {
 }
 
 
-/* Blue background for the intro section */
+/* Apply background color for different sections */
 section#intro {
-  background-color: #e9d2c0; /* Blue background */
+  background-color: #f0f8ff; /* Light blue background */
   padding: 20px;
-  /*color: #ffffff;*/ /* White text for contrast */
 }
 
-/* Orange background for the about section */
 section#about {
-  background-color: #f0f8ff; /* Orange background */
+  background-color: #e9d2c0; /* Beige background */
   padding: 20px;
- /* color: #ffffff;*/ /* White text for contrast */
 }
 
-/* Red background for the contact section */
 section#contact {
-  background-color: #FF4500; /* Red background */
+  background-color: #006d6b; /* Green background */
+  color: #ffffff; /* White text */
   padding: 20px;
-  /*color: #ffffff;*/ /* White text for contrast */
 }

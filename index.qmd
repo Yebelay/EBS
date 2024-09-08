@@ -1,12 +1,88 @@
 ---
-title: "SUSAN 2025"
-about: 
-  image: pages/images/Yebe1.jpg
-  template: jolla
+title: ""
 ---
 
-SUSAN 2025 Conference
+<!-- Main section with a clickable link -->
+<section id="intro">
+  <h2>SUSAN 2025 Conference</h2>
+  <p>
+    The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.
+  </p>
+  <p>
+    <a href="#" onclick="showSection('intro-details'); return false;">Click to learn more</a>
+  </p>
+</section>
 
+<!-- Hidden section with more content -->
+<section id="intro-details" class="hidden">
+  <h3>More about SUSAN</h3>
+  <p>
+    This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.
+  </p>
+  <p>
+    <a href="#" onclick="hideSection('intro-details'); return false;">Show less</a>
+  </p>
+</section>
 
-[Learn more about me &rarr;](pages/about.qmd)
+<!-- JavaScript for showing/hiding content -->
+<script>
+  function showSection(sectionId) {
+    document.getElementById(sectionId).style.display = 'block';
+  }
 
+  function hideSection(sectionId) {
+    document.getElementById(sectionId).style.display = 'none';
+  }
+</script>
+
+<!-- CSS to hide the section initially -->
+<style>
+  .hidden {
+    display: none;
+  }
+</style>
+
+<section id="about">
+  <h2>About the Conference</h2>
+
+<p>
+The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics. 
+
+The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.
+<p>
+  <p>
+    <a href="#" onclick="showSection('about-details'); return false;">Click to learn more</a>
+  </p>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>
+    <a href="#" onclick="showSection('contact-details'); return false;">Click to learn more</a>
+  </p>
+</section>
+
+<!-- Hidden content for each section -->
+<div id="intro-details" class="modal hidden">
+  <div class="modal-content">
+    <span class="close" onclick="hideSection('intro-details')">&times;</span>
+    <h2>SUSAN 2025 Conference - Detailed Info</h2>
+    <p>More information about the conference will go here.</p>
+  </div>
+</div>
+
+<div id="about-details" class="modal hidden">
+  <div class="modal-content">
+    <span class="close" onclick="hideSection('about-details')">&times;</span>
+    <h2>About the Conference - Detailed Info</h2>
+    <p>Details about the SUSAN conference.</p>
+  </div>
+</div>
+
+<div id="contact-details" class="modal hidden">
+  <div class="modal-content">
+    <span class="close" onclick="hideSection('contact-details')">&times;</span>
+    <h2>Contact Us - Detailed Info</h2>
+    <p>Reach out to us for more details.</p>
+  </div>
+</div>

@@ -7,8 +7,16 @@ website:
   description: "Welcome to EBS website"
   navbar:
     left:
-      - href: pages/about.qmd
+      - text: "About Us"
+        menu:
+          - text: "Who We Are"
+            href: pages/about/history.qmd
+          - text: "Committee members"
+            href: pages/about/mission.qmd
+          - text: "ToC for SUSAN Conference"
+            href: pages/about/team.qmd
       - href: pages/Registration.qmd
+        text: "Registration"
       - href: pages/Abstracts.qmd
       - href: pages/Programmes.qmd
 
@@ -25,7 +33,7 @@ website:
 format:
   html:
     theme: [cosmo, theme.scss]
-    toc: true
+    toc: false
     link-external-newwindow: true
     metadata:
       pagetitle: "2025 SUSAN Conference"

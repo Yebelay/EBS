@@ -70,11 +70,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 <meta property="og:title" content="2025 SUSAN Conference">
-<meta property="og:description" content="Welcome to EBS website">
 <meta property="og:site_name" content="Home">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -91,10 +90,25 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./pages/about.html"> 
-<span class="menu-text">About</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-us" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About Us</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about-us">    
+        <li>
+    <a class="dropdown-item" href="./pages/about/history.html">
+ <span class="dropdown-text">Who We Are</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./pages/about/mission.html">
+ <span class="dropdown-text">Committee members</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./pages/about/team.html">
+ <span class="dropdown-text">ToC for SUSAN Conference</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./pages/Registration.html"> 
 <span class="menu-text">Registration</span></a>
@@ -129,18 +143,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#contact" id="toc-contact" class="nav-link active" data-scroll-target="#contact">Contact</a>
-  <ul class="collapse">
-  <li><a href="#get-in-touch" id="toc-get-in-touch" class="nav-link" data-scroll-target="#get-in-touch">Get in Touch</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -149,27 +152,71 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="contact" class="level1">
 <h1>Contact</h1>
-<p>Feel free to get in touch with me using the following contact details:</p>
-<ul>
-<li><strong>Email</strong>: <a href="mailto:yebelay.ma@gmail.com">yebelay.ma@gmail.com</a></li>
-<li><strong>Phone</strong>: +251 93 245 3203</li>
-</ul>
-<section id="get-in-touch" class="level2">
-<h2 class="anchored" data-anchor-id="get-in-touch">Get in Touch</h2>
-<p>You can also reach me through social media or by filling out the contact form below.</p>
-<!-- If you want to add a contact form, you can include HTML here. -->
-<form action="https://formspree.io/f/{your_form_id}" method="POST">
-<p><label for="name">Your Name</label> <input type="text" id="name" name="name" required=""></p>
-<p><label for="email">Your Email</label> <input type="email" id="email" name="email" required=""></p>
-<label for="message">Your Message</label>
-<textarea id="message" name="message" rows="4" required=""></textarea>
+<section id="contact">
+<h2 class="anchored" data-anchor-id="contact">
+Contact Us
+</h2>
+<form name="contact-form" method="POST" data-netlify="true" action="/thank-you">
+<p>
+<label for="name">Name:</label> <input type="text" id="name" name="name" required="" placeholder="Your Name">
+</p>
+<p>
+<label for="email">Email:</label> <input type="email" id="email" name="email" required="" placeholder="Your Email">
+</p>
+<p>
+<label for="message">Message:</label>
+<textarea id="message" name="message" required="" placeholder="Your Message" rows="5"></textarea>
+</p>
+<p>
 <button type="submit">
-Send
+Send Message
 </button>
+</p>
 </form>
-
-
 </section>
+<style>
+  section#contact {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+  }
+
+  form p {
+    margin-bottom: 15px;
+  }
+
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+
+  button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #006D6B;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+  }
+
+  button[type="submit"]:hover {
+    background-color: #005a5a;
+  }
+</style>
+
+
 </section>
 
 </main> <!-- /main -->
