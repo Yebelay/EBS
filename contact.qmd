@@ -24,12 +24,8 @@ title: ""
     <textarea id="message" name="message" required placeholder="Your Message" rows="5"></textarea>
   </p>
 
-  <!-- Hidden Field to Specify Reply-To -->
-  <input type="hidden" name="_replyto" value="">
-
   <!-- Submit Button -->
   <p>
     <button type="submit">Send Message</button>
   </p>
 </form>
-
