@@ -30,8 +30,12 @@ title: ""
     <textarea id="message" name="message" required placeholder="Your Message" rows="5"></textarea>
   </p>
 
+  <!-- Custom Subject -->
+  <input type="hidden" name="_subject" value="New message from {{name}}">
+
   <!-- Submit Button -->
   <p>
     <button type="submit">Send Message</button>
   </p>
 </form>
+

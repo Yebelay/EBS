@@ -45,11 +45,14 @@ title: ""
 <section id="about">
   <h2>About the Conference</h2>
 
-<p>
-The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics. 
+  <p>
+    The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics. 
+  </p>
+  
+  <p>
+    The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.
+  </p>
 
-The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.
-<p>
   <p>
     <a href="#" onclick="showSection('about-details'); return false;">Click to learn more</a>
   </p>
@@ -63,14 +66,6 @@ The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will p
 </section>
 
 <!-- Hidden content for each section -->
-<div id="intro-details" class="modal hidden">
-  <div class="modal-content">
-    <span class="close" onclick="hideSection('intro-details')">&times;</span>
-    <h2>SUSAN 2025 Conference - Detailed Info</h2>
-    <p>More information about the conference will go here.</p>
-  </div>
-</div>
-
 <div id="about-details" class="modal hidden">
   <div class="modal-content">
     <span class="close" onclick="hideSection('about-details')">&times;</span>

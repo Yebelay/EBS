@@ -1,0 +1,96 @@
+---
+title: ""
+---
+
+## Executive Committee for EBS, IBS Ethiopia Region and Advisory Board
+
+::: {style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;"}
+<div>
+
+<p>Tilahun Asena (PhD)</p>
+
+<img src="images/Tilahun.png" alt="Tilahun Ferede Asena" style="width: 150px; height: auto;"/>
+
+<p><strong style="color: blue;">President</strong></p>
+
+</div>
+
+<div>
+
+<p>Gezahegn WeldeMariam (PhD)</p>
+
+<img src="images/Gezahegn.png" alt="Gezahegn Mekonnen WeldeMariam" style="width: 150px; height: auto;"/>
+
+<p><strong style="color: blue;">Vice President</strong></p>
+
+</div>
+
+<div>
+
+<p>Belachew Hunde</p>
+
+<img src="images/belachew.png" alt="Belachew Melese Hunde" style="width: 150px; height: auto;"/>
+
+<p><strong style="color: blue;">Secretary</strong></p>
+
+</div>
+
+<div>
+
+<p>Anteneh Yalew</p>
+
+<img src="images/anteneh.png" alt="Anteneh Tessema Yalew" style="width: 150px; height: auto;"/>
+
+<p><strong style="color: blue;">IBS Ethiopia Region Secretary</strong></p>
+
+</div>
+
+<div>
+
+<p>Eskedar Girma</p>
+
+<img src="images/eskedar.png" alt="Eskedar Girma" style="width: 150px; height: auto;"/>
+
+<p><strong style="color: blue;">Membership Coordinator</strong></p>
+
+</div>
+
+<div>
+
+<p>Fatuma Hassen (PhD)</p>
+
+<img src="images/fantu.png" alt="Fatuma Hassen" style="width: 150px; height: auto;"/>
+
+<p><strong style="color: blue;">Finance and Administrative Coordinator</strong></p>
+
+</div>
+
+<div>
+
+<p>Yebelay Berhan</p>
+
+<img src="images/Photo_Yebelay.jpg" alt="Yebelay Berehan" style="width: 150px; height: 150px;"/>
+<p><strong style="color: blue;">Research and <br> Project Coordinator</strong></p>
+
+</div>
+
+<div>
+
+<p>Diribsa Bedada</p>
+
+<img src="images/diribsa.png" alt="Diribsa Tsegaye Bedada" style="width: 150px; height: auto;"/>
+
+<p><strong style="color: blue;">Training Coordinator</strong></p>
+
+</div>
+
+<div>
+
+<p>Sisay Wendaya</p>
+
+<img src="images/sisay.png" alt="Sisay Wendaya" style="width: 150px; height: auto;"/>
+
+<p><strong style="color: blue;">Auditor</strong></p>
+
+</div>
+:::

@@ -10,11 +10,11 @@ website:
       - text: "About Us"
         menu:
           - text: "Who We Are"
-            href: pages/about/history.qmd
+            href: pages/about/whoweare.qmd
           - text: "Committee members"
-            href: pages/about/mission.qmd
+            href: pages/about/ourteam.qmd
           - text: "ToC for SUSAN Conference"
-            href: pages/about/team.qmd
+            href: pages/about/commitee.qmd
       - href: pages/Registration.qmd
         text: "Registration"
       - href: pages/Abstracts.qmd

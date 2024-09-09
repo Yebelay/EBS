@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "SUSAN 2025 Conference\n\n\nThe Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.\n\n\nClick to learn more\n\n\n\n\n\nMore about SUSAN\n\n\nThis includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\n\n\nShow less\n\n\n\n\n\n\n\n\nAbout the Conference\n\n\nThe Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\nThe IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.\n\n\nClick to learn more\n\n\n\n\nContact Us\n\n\nClick to learn more\n\n\n\n\n\n&lt;span class=\"close\" onclick=\"hideSection('intro-details')\"&gt;&times;&lt;/span&gt;\n&lt;h2&gt;SUSAN 2025 Conference - Detailed Info&lt;/h2&gt;\n&lt;p&gt;More information about the conference will go here.&lt;/p&gt;\n\n\n\n\n&lt;span class=\"close\" onclick=\"hideSection('about-details')\"&gt;&times;&lt;/span&gt;\n&lt;h2&gt;About the Conference - Detailed Info&lt;/h2&gt;\n&lt;p&gt;Details about the SUSAN conference.&lt;/p&gt;\n\n\n\n\n&lt;span class=\"close\" onclick=\"hideSection('contact-details')\"&gt;&times;&lt;/span&gt;\n&lt;h2&gt;Contact Us - Detailed Info&lt;/h2&gt;\n&lt;p&gt;Reach out to us for more details.&lt;/p&gt;"
+    "text": "SUSAN 2025 Conference\n\n\nThe Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.\n\n\nClick to learn more\n\n\n\n\n\nMore about SUSAN\n\n\nThis includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\n\n\nShow less\n\n\n\n\n\n\n\n\nAbout the Conference\n\n\nThe Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\n\n\nThe IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.\n\n\nClick to learn more\n\n\n\n\nContact Us\n\n\nClick to learn more\n\n\n\n\n\n&lt;span class=\"close\" onclick=\"hideSection('about-details')\"&gt;&times;&lt;/span&gt;\n&lt;h2&gt;About the Conference - Detailed Info&lt;/h2&gt;\n&lt;p&gt;Details about the SUSAN conference.&lt;/p&gt;\n\n\n\n\n&lt;span class=\"close\" onclick=\"hideSection('contact-details')\"&gt;&times;&lt;/span&gt;\n&lt;h2&gt;Contact Us - Detailed Info&lt;/h2&gt;\n&lt;p&gt;Reach out to us for more details.&lt;/p&gt;"
   },
   {
     "objectID": "pages/Abstracts.html",
@@ -67,7 +67,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact\n\n\n\nName: \n\n\n\nEmail: \n\n\n\nSubject: \n\n\n\nMessage:\n\n\n\n\n\nSend Message"
+    "text": "Contact\n\n\n\nName: \n\n\n\nEmail: \n\n\n\nSubject: \n\n\n\nMessage:\n\n\n\n\n\n\n\nSend Message"
   },
   {
     "objectID": "contact.html#get-in-touch",
@@ -194,5 +194,68 @@
     "title": "Home",
     "section": "",
     "text": "Click to learn more"
+  },
+  {
+    "objectID": "pages/about/whoweare.html",
+    "href": "pages/about/whoweare.html",
+    "title": "Home",
+    "section": "",
+    "text": "The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\nThe IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa."
+  },
+  {
+    "objectID": "pages/about/commitee.html",
+    "href": "pages/about/commitee.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pages/about/commitee.html#quarto",
+    "href": "pages/about/commitee.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pages/about/commitee.html#running-code",
+    "href": "pages/about/commitee.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "pages/about/ourteam.html",
+    "href": "pages/about/ourteam.html",
+    "title": "Home",
+    "section": "",
+    "text": "Tilahun Asena (PhD)\n\n\n\nPresident\n\n\n\n\nGezahegn WeldeMariam (PhD)\n\n\n\nVice President\n\n\n\n\nBelachew Hunde\n\n\n\nSecretary\n\n\n\n\nAnteneh Yalew\n\n\n\nIBS Ethiopia Region Secretary\n\n\n\n\nEskedar Girma\n\n\n\nMembership Coordinator\n\n\n\n\nFatuma Hassen (PhD)\n\n\n\nFinance and Administrative Coordinator\n\n\n\n\nYebelay Berhan\n\n\n\nResearch and  Project Coordinator\n\n\n\n\nDiribsa Bedada\n\n\n\nTraining Coordinator\n\n\n\n\nSisay Wendaya\n\n\n\nAuditor"
+  },
+  {
+    "objectID": "pages/about/ourteam.html#officers",
+    "href": "pages/about/ourteam.html#officers",
+    "title": "Home",
+    "section": "",
+    "text": "Tilahun Ferede Asena\nPresident\n\n\nGezahegn Mekonnen WeldeMariam\nVice President\n\n\nBelachew Melese Hunde\nSecretary\n\n\nAnteneh Tessema Yalew\nIBS Ethiopia Region Secretary\n\n\nEskedar Girma\nMembership Coordinator\n\n\nFatuma Hassen\nFinance and Administrative Coordinator\n\n\nYebelay Berelie Berhan\nResearch and Project Coordinator\n\n\nDiribsa Tsegaye Bedada\nTraining Coordinator \n\n\nSisay Wendaya\nAuditor"
+  },
+  {
+    "objectID": "pages/about/ourteam.html#section",
+    "href": "pages/about/ourteam.html#section",
+    "title": "Home",
+    "section": "",
+    "text": "Tilahun Ferede Asena\nPresident\n\n\nGezahegn Mekonnen WeldeMariam\nVice President\n\n\nBelachew Melese Hunde\nSecretary\n\n\nAnteneh Tessema Yalew\nIBS Ethiopia Region Secretary\n\n\nEskedar Girma\nMembership Coordinator\n\n\nFatuma Hassen\nFinance and Administrative Coordinator\n\n\nYebelay Berelie Berhan\nResearch and Project Coordinator\n\n\nDiribsa Tsegaye Bedada\nTraining Coordinator\n\n\nSisay Wendaya\nAuditor"
+  },
+  {
+    "objectID": "pages/about/ourteam.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board",
+    "href": "pages/about/ourteam.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board",
+    "title": "Home",
+    "section": "",
+    "text": "Tilahun Asena (PhD)\n\n\n\nPresident\n\n\n\n\nGezahegn WeldeMariam (PhD)\n\n\n\nVice President\n\n\n\n\nBelachew Hunde\n\n\n\nSecretary\n\n\n\n\nAnteneh Yalew\n\n\n\nIBS Ethiopia Region Secretary\n\n\n\n\nEskedar Girma\n\n\n\nMembership Coordinator\n\n\n\n\nFatuma Hassen (PhD)\n\n\n\nFinance and Administrative Coordinator\n\n\n\n\nYebelay Berhan\n\n\n\nResearch and  Project Coordinator\n\n\n\n\nDiribsa Bedada\n\n\n\nTraining Coordinator\n\n\n\n\nSisay Wendaya\n\n\n\nAuditor"
+  },
+  {
+    "objectID": "pages/about/ourteam.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board-1",
+    "href": "pages/about/ourteam.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board-1",
+    "title": "Home",
+    "section": "Executive Committee for EBS, IBS Ethiopia Region and Advisory Board",
+    "text": "Executive Committee for EBS, IBS Ethiopia Region and Advisory Board\n\n\n\nTilahun Ferede Asena\n\n\n\nPresident\n\n\n\n\nGezahegn Mekonnen WeldeMariam\n\n\n\nVice President\n\n\n\n\nBelachew Melese Hunde\n\n\n\nSecretary\n\n\n\n\nAnteneh Tessema Yalew\n\n\n\nIBS Ethiopia Region Secretary\n\n\n\n\nEskedar Girma\n\n\n\nMembership Coordinator\n\n\n\n\nFatuma Hassen\n\n\n\nFinance and Administrative Coordinator\n\n\n\n\nYebelay Berelie Berhan\n\n\n\nResearch and Project Coordinator\n\n\n\n\nDiribsa Tsegaye Bedada\n\n\n\nTraining Coordinator\n\n\n\n\nSisay Wendaya\n\n\n\nAuditor"
   }
 ]
