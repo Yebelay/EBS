@@ -6,7 +6,7 @@
 $primary-color: #ffffff;
 /* $body-bg: #E9D2C0; */
 $body-color: #03346E;
-$navbar-bg: #006D6B;
+$navbar-bg: #1E90FF;
 $link-color: blue;
 $navbar-font-family: "Phudu";
 $headings-font-family: "Phudu";
@@ -302,24 +302,3 @@ button:hover {
   background-color: #004d4d;
 }
 
-
-/* Blue background for the intro section */
-section#intro {
-  background-color: #e9d2c0; /* Blue background */
-  padding: 20px;
-  /*color: #ffffff;*/ /* White text for contrast */
-}
-
-/* Orange background for the about section */
-section#about {
-  background-color: #f0f8ff; /* Orange background */
-  padding: 20px;
- /* color: #ffffff;*/ /* White text for contrast */
-}
-
-/* Red background for the contact section */
-section#contact {
-  background-color: #FF4500; /* Red background */
-  padding: 20px;
-  /*color: #ffffff;*/ /* White text for contrast */
-}

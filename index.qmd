@@ -2,82 +2,78 @@
 title: ""
 ---
 
-<!-- Main section with a clickable link -->
-<section id="intro">
-  <h2>SUSAN 2025 Conference</h2>
-  <p>
-    The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.
-  </p>
-  <p>
-    <a href="#" onclick="showSection('intro-details'); return false;">Click to learn more</a>
-  </p>
+<!-- Welcome Section with large, stylish text -->
+<section id="welcome" class="welcome-section">
+  <h1 class="welcome-heading">Welcome to the Ethiopian Society</h1>
+  <p class="welcome-subtitle">Advancing Life Sciences through Statistical Excellence</p>
 </section>
 
-<!-- Hidden section with more content -->
-<section id="intro-details" class="hidden">
-  <h3>More about SUSAN</h3>
+## SUSAN 2025 Conference
+
+The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.
+
+<a href="#" onclick="toggleSection('intro-details'); return false;">Click to learn more</a>
+
+<div id="intro-details" class="hidden-content">
   <p>
     This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.
   </p>
+  <a href="#" onclick="toggleSection('intro-details'); return false;">Show less</a>
+</div>
+
+## About the Conference
+
+The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.
+
+<a href="#" onclick="toggleSection('about-details'); return false;">Click to learn more</a>
+
+<div id="about-details" class="hidden-content">
   <p>
-    <a href="#" onclick="hideSection('intro-details'); return false;">Show less</a>
+    This includes applications in agriculture, medical and health research, infectious diseases, and more.
   </p>
-</section>
+  <a href="#" onclick="toggleSection('about-details'); return false;">Show less</a>
+</div>
 
-<!-- JavaScript for showing/hiding content -->
-<script>
-  function showSection(sectionId) {
-    document.getElementById(sectionId).style.display = 'block';
-  }
+## Contact Us
 
-  function hideSection(sectionId) {
-    document.getElementById(sectionId).style.display = 'none';
-  }
-</script>
+<a href="#" onclick="toggleSection('contact-details'); return false;">Click to learn more</a>
 
-<!-- CSS to hide the section initially -->
+<div id="contact-details" class="hidden-content">
+  <p>
+    Reach out to us for more details about the SUSAN 2025 conference.
+  </p>
+  <a href="#" onclick="toggleSection('contact-details'); return false;">Show less</a>
+</div>
+
+<!-- CSS for hidden content and welcome section -->
 <style>
-  .hidden {
+  .hidden-content {
     display: none;
+    margin: 0;
+  }
+
+  .welcome-section {
+    background-color: #e9d2c0; /* Background color */
+    padding: 60px; /* Increased padding for more emphasis */
+    text-align: center;
+    border-bottom: 2px solid #ddd; /* Optional border for separation */
+  }
+
+  .welcome-heading {
+    font-size: 4em; /* Larger text for the heading */
+    margin: 0;
+  }
+
+  .welcome-subtitle {
+    font-size: 2em; /* Larger text for the subtitle */
+    margin-top: 15px;
   }
 </style>
 
-<section id="about">
-  <h2>About the Conference</h2>
-
-  <p>
-    The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics. 
-  </p>
-  
-  <p>
-    The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.
-  </p>
-
-  <p>
-    <a href="#" onclick="showSection('about-details'); return false;">Click to learn more</a>
-  </p>
-</section>
-
-<section id="contact">
-  <h2>Contact Us</h2>
-  <p>
-    <a href="#" onclick="showSection('contact-details'); return false;">Click to learn more</a>
-  </p>
-</section>
-
-<!-- Hidden content for each section -->
-<div id="about-details" class="modal hidden">
-  <div class="modal-content">
-    <span class="close" onclick="hideSection('about-details')">&times;</span>
-    <h2>About the Conference - Detailed Info</h2>
-    <p>Details about the SUSAN conference.</p>
-  </div>
-</div>
-
-<div id="contact-details" class="modal hidden">
-  <div class="modal-content">
-    <span class="close" onclick="hideSection('contact-details')">&times;</span>
-    <h2>Contact Us - Detailed Info</h2>
-    <p>Reach out to us for more details.</p>
-  </div>
-</div>
+<!-- JavaScript for showing/hiding content -->
+<script>
+  function toggleSection(sectionId) {
+    const section = document.getElementById(sectionId);
+    section.classList.toggle('hidden-content');
+  }
+</script>
