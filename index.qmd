@@ -4,46 +4,36 @@ title: ""
 
 <!-- Welcome Section with large, stylish text -->
 <section id="welcome" class="welcome-section">
-  <h1 class="welcome-heading">Welcome to the Ethiopian Society</h1>
+  <h1 class="welcome-heading">Welcome to the Ethiopian Biometric Society</h1>
   <p class="welcome-subtitle">Advancing Life Sciences through Statistical Excellence</p>
 </section>
 
-## SUSAN 2025 Conference
+## Ethiopiaan Biometry Society (EBS)
 
 The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.
 
-<a href="#" onclick="toggleSection('intro-details'); return false;">Click to learn more</a>
+<a href="#" id="learn-more-intro" onclick="toggleSection('intro-details', 'learn-more-intro'); return false;">Click to learn more</a>
 
 <div id="intro-details" class="hidden-content">
   <p>
     This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.
   </p>
-  <a href="#" onclick="toggleSection('intro-details'); return false;">Show less</a>
+  <a href="#" onclick="toggleSection('intro-details', 'learn-more-intro'); return false;">Show less</a>
 </div>
 
 ## About the Conference
 
 The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.
 
-<a href="#" onclick="toggleSection('about-details'); return false;">Click to learn more</a>
+<a href="#" id="learn-more-about" onclick="toggleSection('about-details', 'learn-more-about'); return false;">Click to learn more</a>
 
 <div id="about-details" class="hidden-content">
   <p>
     This includes applications in agriculture, medical and health research, infectious diseases, and more.
   </p>
-  <a href="#" onclick="toggleSection('about-details'); return false;">Show less</a>
+  <a href="#" onclick="toggleSection('about-details', 'learn-more-about'); return false;">Show less</a>
 </div>
 
-## Contact Us
-
-<a href="#" onclick="toggleSection('contact-details'); return false;">Click to learn more</a>
-
-<div id="contact-details" class="hidden-content">
-  <p>
-    Reach out to us for more details about the SUSAN 2025 conference.
-  </p>
-  <a href="#" onclick="toggleSection('contact-details'); return false;">Show less</a>
-</div>
 
 <!-- CSS for hidden content and welcome section -->
 <style>
@@ -53,27 +43,39 @@ The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will p
   }
 
   .welcome-section {
-    background-color: #e9d2c0; /* Background color */
+    background-color: #10A5F5; /* Background color */
     padding: 60px; /* Increased padding for more emphasis */
     text-align: center;
     border-bottom: 2px solid #ddd; /* Optional border for separation */
   }
 
   .welcome-heading {
-    font-size: 4em; /* Larger text for the heading */
+    font-size: 2em; /* Larger text for the heading */
     margin: 0;
+    color: white; /* Changed text color to white */
   }
 
   .welcome-subtitle {
-    font-size: 2em; /* Larger text for the subtitle */
+    font-size: 1em; /* Larger text for the subtitle */
     margin-top: 15px;
+    color: white; /* Changed text color to white */
   }
 </style>
 
 <!-- JavaScript for showing/hiding content -->
 <script>
-  function toggleSection(sectionId) {
+  function toggleSection(sectionId, linkId) {
     const section = document.getElementById(sectionId);
+    const link = document.getElementById(linkId);
+    
+  // Toggle the hidden content
     section.classList.toggle('hidden-content');
+    
+  // Hide the "Click to learn more" link when content is displayed
+    if (!section.classList.contains('hidden-content')) {
+      link.style.display = 'none'; // Hide the link
+    } else {
+      link.style.display = 'inline'; // Show the link again if the section is hidden
+    }
   }
 </script>

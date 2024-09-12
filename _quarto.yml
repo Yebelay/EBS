@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
- # site-url: "https://yebelay.rbind.io/"
+  # site-url: "https://yebelay.rbind.io/"
   title: "Home"
   description: "Welcome to EBS website"
   navbar:
@@ -11,25 +11,37 @@ website:
         menu:
           - text: "Who We Are"
             href: pages/about/whoweare.qmd
-          - text: "Committee members"
+          - text: "EBS board members"
             href: pages/about/ourteam.qmd
-          - text: "ToC for SUSAN Conference"
+          - text: "Committee for SUSAN Conference"
             href: pages/about/commitee.qmd
       - href: pages/Registration.qmd
         text: "Registration"
       - href: pages/Abstracts.qmd
-      - href: pages/Programmes.qmd
+      - text: "Programmes"
+        menu:
+          - text: "Conference programme"
+            href: pages/Programmes/conference.qmd
+          - text: "Workshop programme"
+            href: pages/Programmes/workshop.qmd
+          - text: "other program"
+            href: pages/Programmes/other.qmd
 
     right:
       - href: contact.qmd
         text: Contact
-      - icon: github
-        href: https://github.com/Yebelay
-  page-footer: 
-    center: "Copyright 2024, EBS" 
-    border: true
-  open-graph: true
-  favicon: Icon.png  
+      - icon: twitter
+        href: https://x.com/ethiopian_BS
+
+  # Add email and phone to page footer
+  page-footer:
+    center: |
+      <p>**Email:** <a href="mailto:ethiopianbiometricssociety@gmail.com">ethiopianbiometricssociety@gmail.com</a>; **Phone:** +251 92 553 9772 / +251 99 391 6717</p>
+    border: false
+
+  open-graph: false
+  favicon: Icon.png
+
 format:
   html:
     theme: [cosmo, theme.scss]
@@ -37,6 +49,3 @@ format:
     link-external-newwindow: true
     metadata:
       pagetitle: "2025 SUSAN Conference"
-
-#header-includes:
-#    - '<meta name="google-site-verification" content="X-rOcrlZrFLBgUJZQigAahlBd2T_crpYhrBMXuzl6IA" />'

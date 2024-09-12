@@ -69,9 +69,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="2025 SUSAN Conference">
-<meta property="og:description" content="Welcome to EBS website">
-<meta property="og:site_name" content="Home">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -102,11 +99,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./pages/about/ourteam.html">
- <span class="dropdown-text">Committee members</span></a>
+ <span class="dropdown-text">EBS board members</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./pages/about/commitee.html">
- <span class="dropdown-text">ToC for SUSAN Conference</span></a>
+ <span class="dropdown-text">Committee for SUSAN Conference</span></a>
   </li>  
     </ul>
   </li>
@@ -118,10 +115,25 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./pages/Abstracts.html"> 
 <span class="menu-text">Submit Abstract</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./pages/Programmes.html"> 
-<span class="menu-text">Programmes</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-programmes" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Programmes</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-programmes">    
+        <li>
+    <a class="dropdown-item" href="./pages/Programmes/conference.qmd">
+ <span class="dropdown-text">Conference programme</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./pages/Programmes/workshop.html">
+ <span class="dropdown-text">Workshop programme</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./pages/Programmes/other.html">
+ <span class="dropdown-text">other program</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -129,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/Yebelay"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://x.com/ethiopian_BS"> <i class="bi bi-twitter" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -154,42 +166,32 @@ ul.task-list li input[type="checkbox"] {
 <!-- Welcome Section with large, stylish text -->
 <section id="welcome" class="welcome-section">
 <h1 class="welcome-heading">
-Welcome to the Ethiopian Society
+Welcome to the Ethiopian Biometric Society
 </h1>
 <p class="welcome-subtitle">
 Advancing Life Sciences through Statistical Excellence
 </p>
 </section>
-<section id="susan-2025-conference" class="level2">
-<h2 class="anchored" data-anchor-id="susan-2025-conference">SUSAN 2025 Conference</h2>
+<section id="ethiopiaan-biometry-society-ebs" class="level2">
+<h2 class="anchored" data-anchor-id="ethiopiaan-biometry-society-ebs">Ethiopiaan Biometry Society (EBS)</h2>
 <p>The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.</p>
-<p><a href="#" onclick="toggleSection('intro-details'); return false;">Click to learn more</a></p>
+<p><a href="#" id="learn-more-intro" onclick="toggleSection('intro-details', 'learn-more-intro'); return false;">Click to learn more</a></p>
 <div id="intro-details" class="hidden-content">
 <p>
 This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.
 </p>
-<p><a href="#" onclick="toggleSection('intro-details'); return false;">Show less</a></p>
+<p><a href="#" onclick="toggleSection('intro-details', 'learn-more-intro'); return false;">Show less</a></p>
 </div>
 </section>
 <section id="about-the-conference" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-conference">About the Conference</h2>
 <p>The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.</p>
-<p><a href="#" onclick="toggleSection('about-details'); return false;">Click to learn more</a></p>
+<p><a href="#" id="learn-more-about" onclick="toggleSection('about-details', 'learn-more-about'); return false;">Click to learn more</a></p>
 <div id="about-details" class="hidden-content">
 <p>
 This includes applications in agriculture, medical and health research, infectious diseases, and more.
 </p>
-<p><a href="#" onclick="toggleSection('about-details'); return false;">Show less</a></p>
-</div>
-</section>
-<section id="contact-us" class="level2">
-<h2 class="anchored" data-anchor-id="contact-us">Contact Us</h2>
-<p><a href="#" onclick="toggleSection('contact-details'); return false;">Click to learn more</a></p>
-<div id="contact-details" class="hidden-content">
-<p>
-Reach out to us for more details about the SUSAN 2025 conference.
-</p>
-<p><a href="#" onclick="toggleSection('contact-details'); return false;">Show less</a></p>
+<p><a href="#" onclick="toggleSection('about-details', 'learn-more-about'); return false;">Show less</a></p>
 </div>
 <!-- CSS for hidden content and welcome section -->
 <style>
@@ -199,27 +201,39 @@ Reach out to us for more details about the SUSAN 2025 conference.
   }
 
   .welcome-section {
-    background-color: #e9d2c0; /* Background color */
+    background-color: #10A5F5; /* Background color */
     padding: 60px; /* Increased padding for more emphasis */
     text-align: center;
     border-bottom: 2px solid #ddd; /* Optional border for separation */
   }
 
   .welcome-heading {
-    font-size: 4em; /* Larger text for the heading */
+    font-size: 2em; /* Larger text for the heading */
     margin: 0;
+    color: white; /* Changed text color to white */
   }
 
   .welcome-subtitle {
-    font-size: 2em; /* Larger text for the subtitle */
+    font-size: 1em; /* Larger text for the subtitle */
     margin-top: 15px;
+    color: white; /* Changed text color to white */
   }
 </style>
 <!-- JavaScript for showing/hiding content -->
 <script>
-  function toggleSection(sectionId) {
+  function toggleSection(sectionId, linkId) {
     const section = document.getElementById(sectionId);
+    const link = document.getElementById(linkId);
+    
+  // Toggle the hidden content
     section.classList.toggle('hidden-content');
+    
+  // Hide the "Click to learn more" link when content is displayed
+    if (!section.classList.contains('hidden-content')) {
+      link.style.display = 'none'; // Hide the link
+    } else {
+      link.style.display = 'inline'; // Show the link again if the section is hidden
+    }
   }
 </script>
 
@@ -639,7 +653,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Copyright 2024, EBS</p>
+<p>
+<strong>Email:</strong> <a href="mailto:ethiopianbiometricssociety@gmail.com">ethiopianbiometricssociety@gmail.com</a>; <strong>Phone:</strong> +251 92 553 9772 / +251 99 391 6717
+</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

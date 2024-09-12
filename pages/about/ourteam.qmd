@@ -42,55 +42,47 @@ title: ""
 <img src="images/anteneh.png" alt="Anteneh Tessema Yalew" style="width: 150px; height: auto;"/>
 
 <p><strong style="color: blue;">IBS Ethiopia Region Secretary</strong></p>
-
 </div>
 
 <div>
-
 <p>Eskedar Girma</p>
-
 <img src="images/eskedar.png" alt="Eskedar Girma" style="width: 150px; height: auto;"/>
-
 <p><strong style="color: blue;">Membership Coordinator</strong></p>
-
 </div>
 
 <div>
-
 <p>Fatuma Hassen (PhD)</p>
-
 <img src="images/fantu.png" alt="Fatuma Hassen" style="width: 150px; height: auto;"/>
-
 <p><strong style="color: blue;">Finance and Administrative Coordinator</strong></p>
-
 </div>
 
 <div>
-
 <p>Yebelay Berhan</p>
-
 <img src="images/Photo_Yebelay.jpg" alt="Yebelay Berehan" style="width: 150px; height: 150px;"/>
 <p><strong style="color: blue;">Research and <br> Project Coordinator</strong></p>
-
 </div>
 
 <div>
-
 <p>Diribsa Bedada</p>
-
 <img src="images/diribsa.png" alt="Diribsa Tsegaye Bedada" style="width: 150px; height: auto;"/>
-
 <p><strong style="color: blue;">Training Coordinator</strong></p>
-
 </div>
 
 <div>
-
 <p>Sisay Wendaya</p>
-
 <img src="images/sisay.png" alt="Sisay Wendaya" style="width: 150px; height: auto;"/>
-
 <p><strong style="color: blue;">Auditor</strong></p>
+</div>
 
+<div>
+<p>Girma Taye (Prof.)</p>
+<img src="images/girma.png" alt="Prof Girma" style="width: 150px; height: auto;"/>
+<p><strong style="color: blue;">IBS SUSAN Secretary & EBS Advisory Board </strong></p>
+</div>
+
+<div>
+<p>Gash Amare Dejene</p>
+<img src="images/amare.png" alt="Gas Amare" style="width: 150px; height: auto;"/>
+<p><strong style="color: blue;">EBS Advisory Board Member</strong></p>
 </div>
 :::

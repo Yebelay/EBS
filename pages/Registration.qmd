@@ -8,15 +8,21 @@ title: ""
 <button id="showFormButton" onclick="showForm()">Register Here</button>
 
 <!-- The form, hidden by default, with increased width -->
-<form id="registerForm" name="contact" method="POST" data-netlify="true" action="/thank-you" style="display: none; margin-top: 20px; width: 50%;">
+<form id="registerForm" name="contact" method="POST" data-netlify="true" action="/thank-you" style="display: none; margin-top: 20px; width: 80%;">
   <p>
-    <label>Name <input type="text" name="name" required /></label>
+    <label>Name: 
+      <input type="text" name="name" required style="width: 200%; padding: 10px; font-size: 16px;" />
+    </label>
   </p>
   <p>
-    <label>Email <input type="email" name="email" required /></label>
+    <label>Email: 
+      <input type="email" name="email" required style="width: 200%; padding: 10px; font-size: 16px;" />
+    </label>
   </p>
   <p>
-    <label>Institution <input type="text" name="institution" required /></label>
+    <label>Institution: 
+      <input type="text" name="institution" required style="width: 200%; padding: 10px; font-size: 16px;" />
+    </label>
   </p>
   <p>
     <button type="submit">Register</button>
@@ -28,10 +34,9 @@ title: ""
   function showForm() {
     var form = document.getElementById("registerForm");
     var button = document.getElementById("showFormButton");
-    
+
     // Show the form and hide the button
     form.style.display = "block";
     button.style.display = "none";
   }
 </script>
-

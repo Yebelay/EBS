@@ -2,32 +2,41 @@
 title: ""
 --- 
 
+<h2>Contact Us</h2>
 
-# Contact
+ 
+<!-- The button to display the form -->
 
-<form action="https://formspree.io/f/xyzgvovj" method="POST">
+<button id="showContactFormButton" onclick="showContactForm()">Contact Us</button>
+
+<!-- The contact form, hidden by default, with increased width for input fields -->
+<form id="contactForm" action="https://formspree.io/f/xyzgvovj" method="POST" style="display: none; margin-top: 20px; width: 100%;">
   <!-- Sender's Name -->
   <p>
-    <label for="name">Name:</label>
-    <input type="text" id="name" name="name" required placeholder="Your Name">
+    <label>Name: 
+      <input type="text" name="name" required placeholder="Your Name" style="width: 150%; padding: 10px; font-size: 16px;" />
+    </label>
   </p>
 
   <!-- Sender's Email -->
   <p>
-    <label for="email">Email:</label>
-    <input type="email" id="email" name="_replyto" required placeholder="Your Email">
+    <label>Email: 
+      <input type="email" name="_replyto" required placeholder="Your Email" style="width: 150%; padding: 10px; font-size: 16px;" />
+    </label>
   </p>
 
   <!-- Subject -->
   <p>
-    <label for="subject">Subject:</label>
-    <input type="text" id="subject" name="subject" required placeholder="Subject">
+    <label>Subject: 
+      <input type="text" name="subject" required placeholder="Subject" style="width: 150%; padding: 10px; font-size: 16px;" />
+    </label>
   </p>
 
   <!-- Message -->
   <p>
-    <label for="message">Message:</label>
-    <textarea id="message" name="message" required placeholder="Your Message" rows="5"></textarea>
+    <label>Message: 
+      <textarea name="message" required placeholder="Your Message" rows="8" style="width: 250%; padding: 10px; font-size: 16px;"></textarea>
+    </label>
   </p>
 
   <!-- Custom Subject -->
@@ -39,3 +48,14 @@ title: ""
   </p>
 </form>
 
+<!-- JavaScript to toggle form visibility -->
+<script>
+  function showContactForm() {
+    var form = document.getElementById("contactForm");
+    var button = document.getElementById("showContactFormButton");
+
+    // Show the form and hide the button
+    form.style.display = "block";
+    button.style.display = "none";
+  }
+</script>

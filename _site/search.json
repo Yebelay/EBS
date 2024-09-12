@@ -2,44 +2,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nWelcome to the Ethiopian Society\n",
+    "title": "\nWelcome to the Ethiopian Biometric Society\n",
     "section": "",
     "text": "Advancing Life Sciences through Statistical Excellence"
   },
   {
-    "objectID": "pages/Abstracts.html",
-    "href": "pages/Abstracts.html",
-    "title": "Submit Abstract",
+    "objectID": "index.html#susan-2025-conference",
+    "href": "index.html#susan-2025-conference",
+    "title": "\nWelcome to the Ethiopian Society\n",
+    "section": "SUSAN 2025 Conference",
+    "text": "SUSAN 2025 Conference\nThe Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.\nClick to learn more\n\n\nThis includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\n\nShow less"
+  },
+  {
+    "objectID": "index.html#about-the-conference",
+    "href": "index.html#about-the-conference",
+    "title": "\nWelcome to the Ethiopian Biometric Society\n",
+    "section": "About the Conference",
+    "text": "About the Conference\nThe IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.\nClick to learn more\n\n\nThis includes applications in agriculture, medical and health research, infectious diseases, and more.\n\nShow less"
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "\nWelcome to the Ethiopian Society\n",
+    "section": "Contact Us",
+    "text": "Contact Us\nClick to learn more\n\n\nReach out to us for more details about the SUSAN 2025 conference.\n\nShow less"
+  },
+  {
+    "objectID": "pages/thank-you.html",
+    "href": "pages/thank-you.html",
+    "title": "Thank You",
     "section": "",
-    "text": "Submit Your Abstract\n\n\nSubmit Abstract"
-  },
-  {
-    "objectID": "pages/about.html#history-of-the-society",
-    "href": "pages/about.html#history-of-the-society",
-    "title": "About",
-    "section": "History of the society",
-    "text": "History of the society"
-  },
-  {
-    "objectID": "pages/about.html#information-on-key-team-members-and-partnerships",
-    "href": "pages/about.html#information-on-key-team-members-and-partnerships",
-    "title": "About",
-    "section": "Information on key team members and partnerships",
-    "text": "Information on key team members and partnerships\n\n\n\nCausal inference,\nLongitudinal data analysis,\nSurvival analysis,\nJoint Model\n\n\n\nSpatial data analysis,\nMissing data management,\nDesign of clinical trials."
-  },
-  {
-    "objectID": "pages/Registration.html",
-    "href": "pages/Registration.html",
-    "title": "Home",
-    "section": "",
-    "text": "Register for the 2025 SUSAN Conference\n\n\n\nRegister Here\n\n\n\n\nName \n\n\nEmail \n\n\nInstitution \n\n\n\nRegister"
-  },
-  {
-    "objectID": "pages/Registration.html#registration-online-registration",
-    "href": "pages/Registration.html#registration-online-registration",
-    "title": "Registration",
-    "section": "",
-    "text": "SUSAN Conference registration will be in South African Rands (ZAR). Online (late) registration now open and closes on 31 August 2019.\nLate registration - R6900 Late Student registration - R3000 Workshop registration - R 1200 Student workshop registration - R1000 Registration fee includes the following:\nAttendance to all sessions in the Programme Conference package Teas and lunches during the Conference Conference dinner Welcome reception For any registration queries, please contact the registration manager: Kefiloe Masemola Kefiloe.Masemola@mrc.ac.za or +27 21 938 0554.\nPlease note: Registration fees do not include accommodation, visa costs or airport transfers. Registration can only be confirmed once payment is received.\nTransport to and from the conference venue will be provided daily.\nPayment can be made by any of the following methods:\nCredit card: Payments will be done via PayU Bank transfer (EFT): If you are paying via bank/wire transfer, please clearly indicate your name and surname or your Billing information reference number on the deposit slip/confirmation of payment. A copy of the deposit slip/ confirmation of payment must be mailed to the registration manager, Kefiloe Masemola Kefiloe.Masemola@mrc.ac.za Note: The organisers will not be responsible for identifying funds if the delegate’s details or billing reference information are not mentioned.\nPayment Deadlines To qualify for the early bird registration fee, all registration fees must be paid by 31 July 2019.\nAll late registration payments should be paid in full by 31 August 2019.\nBank/wire transfers must be made payable to: Account holder name: SOUTH AFRICAN MEDICAL RESEARCH COUNCIL Account name: MRC CONFERENCE INCOME Absa account number: 90 6475 8975 Branch: ABS PBLCS W/C Branch code: 632005\nCancellations and Refunds Cancellations must be sent in writing to Kefiloe Masemola Kefiloe.Masemola@mrc.ac.za\nCancellations received before 30 July 2019 will qualify for a refund that is 25% less than the original amount paid to cover administration costs. As an alternative to cancellation, your registration may be transferred to another person before 30 July 2019 without incurring any cost penalty. Refunds and cancellations received after 30 July 2019 will be made in exceptional circumstances. Please note, that the payment for refunds will be processed 30 days after the last day of the conference."
+    "text": "Thank you for registering! We’ll get back to you soon."
   },
   {
     "objectID": "pages/Programmes.html",
@@ -63,137 +56,18 @@
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\n\n\n\nName: \n\n\n\nEmail: \n\n\n\nSubject: \n\n\n\nMessage:\n\n\n\n\n\n\n\nSend Message"
-  },
-  {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact",
-    "section": "",
-    "text": "You can also reach me through social media or by filling out the contact form below.\n\n\nYour Name \nYour Email \nYour Message\n\n\nSend"
-  },
-  {
-    "objectID": "pages/thank-you.html",
-    "href": "pages/thank-you.html",
-    "title": "Thank You",
-    "section": "",
-    "text": "Thank you for registering! We’ll get back to you soon."
-  },
-  {
-    "objectID": "pages/Registration.html#register-for-the-2025-susan-conference",
-    "href": "pages/Registration.html#register-for-the-2025-susan-conference",
-    "title": "Home",
-    "section": "",
-    "text": "Name \n\n\nEmail \n\n\nInstitution \n\n\n\nRegister"
-  },
-  {
-    "objectID": "index.html#susan-2025-conference",
-    "href": "index.html#susan-2025-conference",
-    "title": "\nWelcome to the Ethiopian Society\n",
-    "section": "SUSAN 2025 Conference",
-    "text": "SUSAN 2025 Conference\nThe Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.\nClick to learn more\n\n\nThis includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\n\nShow less"
-  },
-  {
-    "objectID": "index.html#about-the-conference",
-    "href": "index.html#about-the-conference",
-    "title": "\nWelcome to the Ethiopian Society\n",
-    "section": "About the Conference",
-    "text": "About the Conference\nThe IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.\nClick to learn more\n\n\nThis includes applications in agriculture, medical and health research, infectious diseases, and more.\n\nShow less"
-  },
-  {
-    "objectID": "index.html#contact-us",
-    "href": "index.html#contact-us",
-    "title": "\nWelcome to the Ethiopian Society\n",
-    "section": "Contact Us",
-    "text": "Contact Us\nClick to learn more\n\n\nReach out to us for more details about the SUSAN 2025 conference.\n\nShow less"
-  },
-  {
-    "objectID": "pages/about/team.html",
-    "href": "pages/about/team.html",
-    "title": "Untitled",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "pages/about/team.html#quarto",
-    "href": "pages/about/team.html#quarto",
-    "title": "Untitled",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "pages/about/team.html#running-code",
-    "href": "pages/about/team.html#running-code",
-    "title": "Untitled",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "pages/about/history.html",
-    "href": "pages/about/history.html",
+    "objectID": "pages/Programmes/other.html",
+    "href": "pages/Programmes/other.html",
     "title": "Home",
     "section": "",
     "text": "The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application and dissemination of effective mathematical and statistical methods to its members and collaborating partners. This includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\nThe IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa."
   },
   {
-    "objectID": "pages/about/history.html#quarto",
-    "href": "pages/about/history.html#quarto",
-    "title": "Untitled",
+    "objectID": "pages/Abstracts.html",
+    "href": "pages/Abstracts.html",
+    "title": "Submit Abstract",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "pages/about/history.html#running-code",
-    "href": "pages/about/history.html#running-code",
-    "title": "Untitled",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "pages/about/mission.html",
-    "href": "pages/about/mission.html",
-    "title": "Home",
-    "section": "",
-    "text": "Tilahun Ferede Asena\nPresident\n\n\nGezahegn Mekonnen WeldeMariam\nVice President\n\n\nBelachew Melese Hunde\nSecretary\n\n\nAnteneh Tessema Yalew\nIBS Ethiopia Region Secretary\n\n\nEskedar Girma\nMembership Coordinator\n\n\nFatuma Hassen\nFinance and Administrative Coordinator\n\n\nYebelay Berelie Berhan\nResearch and Project Coordinator\n\n\nDiribsa Tsegaye Bedada\nTraining Coordinator \n\n\nSisay Wendaya\nAuditor"
-  },
-  {
-    "objectID": "pages/about/mission.html#quarto",
-    "href": "pages/about/mission.html#quarto",
-    "title": "Untitled",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "pages/about/mission.html#running-code",
-    "href": "pages/about/mission.html#running-code",
-    "title": "Untitled",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "pages/about/history.html#the-ethiopian-region-founded-in-1999-is-an-active-region-of-ibs.-in-addition-to-this-they-are-a-member-of-the-sub-sahara-african-network-or-susan-which-is-a-network-of-national-biometric-groups-of-the-sub-saharan-africa-countries-who-promote-the-advancement-of-life-sciences-through-development-application-and-dissemination-of-effective-mathematical-and-statistical-methods-to-its-members-and-collaborating-partners.-this-includes-applications-in-agriculture-medical-and-health-research-infectious-diseases-environment-and-ecology-climate-and-other-applied-sciences-such-as-the-areas-of-statistical-genetics-and-bioinformatics.",
-    "href": "pages/about/history.html#the-ethiopian-region-founded-in-1999-is-an-active-region-of-ibs.-in-addition-to-this-they-are-a-member-of-the-sub-sahara-african-network-or-susan-which-is-a-network-of-national-biometric-groups-of-the-sub-saharan-africa-countries-who-promote-the-advancement-of-life-sciences-through-development-application-and-dissemination-of-effective-mathematical-and-statistical-methods-to-its-members-and-collaborating-partners.-this-includes-applications-in-agriculture-medical-and-health-research-infectious-diseases-environment-and-ecology-climate-and-other-applied-sciences-such-as-the-areas-of-statistical-genetics-and-bioinformatics.",
-    "title": "Home",
-    "section": "",
-    "text": "The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa."
-  },
-  {
-    "objectID": "pages/about/mission.html#officers",
-    "href": "pages/about/mission.html#officers",
-    "title": "Home",
-    "section": "",
-    "text": "Tilahun Ferede Asena\nPresident\n\n\nGezahegn Mekonnen WeldeMariam\nVice President\n\n\nBelachew Melese Hunde\nSecretary\n\n\nAnteneh Tessema Yalew\nIBS Ethiopia Region Secretary\n\n\nEskedar Girma\nMembership Coordinator\n\n\nFatuma Hassen\nFinance and Administrative Coordinator\n\n\nYebelay Berelie Berhan\nResearch and Project Coordinator\n\n\nDiribsa Tsegaye Bedada\nTraining Coordinator \n\n\nSisay Wendaya\nAuditor"
-  },
-  {
-    "objectID": "index.html#susan-2025-conference-1",
-    "href": "index.html#susan-2025-conference-1",
-    "title": "Home",
-    "section": "",
-    "text": "Click to learn more"
+    "text": "Submit Your Abstract\n\n\nSubmit Abstract"
   },
   {
     "objectID": "pages/about/whoweare.html",
@@ -210,59 +84,73 @@
     "text": "Name\n\n\nCountry\n\n\nPosition/Role\n\n\n\n\n\n\nDr. Girma Taye\n\n\nEthiopia\n\n\nSUSAN Secretary and Chair of AC\n\n\n\n\nDr. Tilahun Asena\n\n\nEthiopia\n\n\nPresident of EBS and Secretary of AC\n\n\n\n\nMrs. Jemila Mohammed\n\n\nEthiopia\n\n\nDDG, Ethiopian Statistical Service (ESS)\n\n\n\n\nMr. Molla Asmare\n\n\nEthiopia\n\n\nUNECA ACS\n\n\n\n\nProf. Alhassan Abukari\n\n\nGhana\n\n\nSUSAN Coordinator\n\n\n\n\nDr. Nohlalnla Zuma\n\n\nSouth Africa\n\n\nSUSAN Mentor-Mentee Coordinator\n\n\n\n\nDr. Brenda Yankam\n\n\nCameroon\n\n\nSUSAN Students Forum Coordinator\n\n\n\n\nProf. Tarylee Reddy\n\n\nSouth Africa\n\n\nIBS Secretary & South African Medical Research Council\n\n\n\n\nProf. Nokoe Sagary\n\n\nGhana\n\n\nCo-founder of SUSAN\n\n\n\n\nProf. Atinuke Adebanji\n\n\nGhana\n\n\nSUSAN2023 Conference LOC Chair\n\n\n\n\nProf. Thomas Achia\n\n\nKenya\n\n\nFormer SUSAN Coordinator\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition/Role\n\n\nAffiliation\n\n\n\n\n\n\nDr. Tilahun Asena\n\n\nChair\n\n\nEPHI and President of EBS\n\n\n\n\nDr. Girma Taye\n\n\nVice Chair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMr. Anteneh Yalew\n\n\nSecretary\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\nYebelay Berehan\n\n\nWebsite\n\n\nDebre Markos University and C4ED, Ethiopia\n\n\n\n\nDr. Gezahegn Mekonnen\n\n\n-\n\n\nHawassa University, Ethiopia\n\n\n\n\nBelachew Hundie\n\n\n-\n\n\nArsi University, Ethiopia\n\n\n\n\nMinik Tsega\n\n\n-\n\n\nEthiopian Agricultural Research Institute\n\n\n\n\nDr. Merga Belina\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition\n\n\nAffiliation\n\n\n\n\n\n\nDr. Girma Taye\n\n\nChair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMr. Anteneh Yalew\n\n\nVice Chair\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\nMr. Diribsa Bedada\n\n\nSecretary\n\n\nUniversity of Waterloo, Canada\n\n\n\n\nDr. Tilahun Asena\n\n\n-\n\n\nEPHI and President of EBS\n\n\n\n\nDr. Gezahegn Mekonnen\n\n\n-\n\n\nHawassa University, Ethiopia\n\n\n\n\nProf. Tadesse Ayele\n\n\n-\n\n\nUniversity of Gondar, Ethiopia\n\n\n\n\nProf. Temesgen Zewotir\n\n\n-\n\n\nUniversity of KwaZulu-Natal, South Africa\n\n\n\n\nProf. Legesse Debusho\n\n\n-\n\n\nUniversity of South Africa, South Africa\n\n\n\n\nProf. Tobias Chirwa\n\n\n-\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\nProf. Henry Mwambi\n\n\n-\n\n\nUniversity of KwaZulu-Natal, South Africa\n\n\n\n\nProf. Tarylee Reddy\n\n\nIBS Secretary\n\n\nSouth African Medical Research Council, South Africa\n\n\n\n\nDr. Zeytu Asfaw\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Dejen Tesfaw\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Bisrat Misganaw\n\n\n-\n\n\nUniversity of Gondar, Ethiopia\n\n\n\n\nDr. Derebachew Asefaw\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Tigist Liulseged\n\n\n-\n\n\nMedical Research Lounge & Saint Paul’s Millennium Medical College, Ethiopia\n\n\n\n\nDr. Denekew Bitew\n\n\n-\n\n\nUniversity of Pretoria, South Africa\n\n\n\n\nDr. Innocent Maphosa\n\n\n-\n\n\nStellenbosch University, South Africa\n\n\n\n\nDr. Habte Tadesse\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Yegnanew Shiferaw\n\n\n-\n\n\nUniversity of Johannesburg, South Africa\n\n\n\n\nDr. Alemtsehai Turasie\n\n\n-\n\n\nAdelphi University, USA\n\n\n\n\nProf. Yihenew Getachew\n\n\n-\n\n\nUSA\n\n\n\n\nDr. Seyifemickael Amare\n\n\n-\n\n\nDebre Tabor University, Ethiopia\n\n\n\n\nDr. Taddesse Kassahun\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Yonas Shuke\n\n\n-\n\n\nHawassa University, Ethiopia\n\n\n\n\nDr. Clarence Yah\n\n\n-\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition\n\n\nAffiliation\n\n\n\n\n\n\nDr. Gezahegn Mekonnen\n\n\nChair\n\n\nHawassa University, Ethiopia\n\n\n\n\nDr. Girma Taye\n\n\nVice Chair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMrs. Eskedar Girma\n\n\nSecretary\n\n\nHaramaya University, Ethiopia\n\n\n\n\nDr. Tilahun Ferede\n\n\n-\n\n\nEthiopian Public Health Institute, Ethiopia\n\n\n\n\nDr. Asnake Worku\n\n\n-\n\n\nEthiopian Public Health Institute, Ethiopia\n\n\n\n\nProf. Nokoe Sagary\n\n\n-\n\n\nGhana\n\n\n\n\nProf. Tarylee Reddy\n\n\nIBS Secretary\n\n\nSouth African Medical Research Council, South Africa\n\n\n\n\nDr. Halima Twabi\n\n\nSUSAN Treasurer\n\n\nMalawi\n\n\n\n\nDr. Wende Safari\n\n\nFormer SUSAN Treasurer\n\n\nTanzania\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition\n\n\nAffiliation\n\n\n\n\n\n\nDr. Sisay Wondaya\n\n\nChair\n\n\nEthiopian Public Health Institute, Ethiopia\n\n\n\n\nDr. Fatuma Hassen\n\n\nVice Chair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMr. Awgchew Kiíe\n\n\nSecretary\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMrs. Eskedar Girma\n\n\n-\n\n\nHaramaya University, Ethiopia\n\n\n\n\nMr. Yeblay Berelie\n\n\n-\n\n\nDebre Markos University and C4ED, Ethiopia\n\n\n\n\nMr. Belachew Melese\n\n\n-\n\n\nArsi University, Ethiopia"
   },
   {
-    "objectID": "pages/about/commitee.html#quarto",
-    "href": "pages/about/commitee.html#quarto",
-    "title": "Untitled",
+    "objectID": "pages/about/commitee.html#compositions-of-members-for-each-committee-ibs-susan-2025-conference",
+    "href": "pages/about/commitee.html#compositions-of-members-for-each-committee-ibs-susan-2025-conference",
+    "title": "Home",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Name\n\n\nCountry\n\n\nPosition/Role\n\n\n\n\n\n\nDr. Girma Taye\n\n\nEthiopia\n\n\nSUSAN Secretary and Chair of AC\n\n\n\n\nDr. Tilahun Asena\n\n\nEthiopia\n\n\nPresident of EBS and Secretary of AC\n\n\n\n\nMrs. Jemila Mohammed\n\n\nEthiopia\n\n\nDDG, Ethiopian Statistical Service (ESS)\n\n\n\n\nMr. Molla Asmare\n\n\nEthiopia\n\n\nUNECA ACS\n\n\n\n\nProf. Alhassan Abukari\n\n\nGhana\n\n\nSUSAN Coordinator\n\n\n\n\nDr. Nohlalnla Zuma\n\n\nSouth Africa\n\n\nSUSAN Mentor-Mentee Coordinator\n\n\n\n\nDr. Brenda Yankam\n\n\nCameroon\n\n\nSUSAN Students Forum Coordinator\n\n\n\n\nProf. Tarylee Reddy\n\n\nSouth Africa\n\n\nIBS Secretary & South African Medical Research Council\n\n\n\n\nProf. Nokoe Sagary\n\n\nGhana\n\n\nCo-founder of SUSAN\n\n\n\n\nProf. Atinuke Adebanji\n\n\nGhana\n\n\nSUSAN2023 Conference LOC Chair\n\n\n\n\nProf. Thomas Achia\n\n\nKenya\n\n\nFormer SUSAN Coordinator\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition/Role\n\n\nAffiliation\n\n\n\n\n\n\nDr. Tilahun Asena\n\n\nChair\n\n\nEPHI and President of EBS\n\n\n\n\nDr. Girma Taye\n\n\nVice Chair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMr. Anteneh Yalew\n\n\nSecretary\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\nYebelay Berehan\n\n\nWebsite\n\n\nDebre Markos University and C4ED, Ethiopia\n\n\n\n\nDr. Gezahegn Mekonnen\n\n\n-\n\n\nHawassa University, Ethiopia\n\n\n\n\nBelachew Hundie\n\n\n-\n\n\nArsi University, Ethiopia\n\n\n\n\nMinik Tsega\n\n\n-\n\n\nEthiopian Agricultural Research Institute\n\n\n\n\nDr. Merga Belina\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition\n\n\nAffiliation\n\n\n\n\n\n\nDr. Girma Taye\n\n\nChair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMr. Anteneh Yalew\n\n\nVice Chair\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\nMr. Diribsa Bedada\n\n\nSecretary\n\n\nUniversity of Waterloo, Canada\n\n\n\n\nDr. Tilahun Asena\n\n\n-\n\n\nEPHI and President of EBS\n\n\n\n\nDr. Gezahegn Mekonnen\n\n\n-\n\n\nHawassa University, Ethiopia\n\n\n\n\nProf. Tadesse Ayele\n\n\n-\n\n\nUniversity of Gondar, Ethiopia\n\n\n\n\nProf. Temesgen Zewotir\n\n\n-\n\n\nUniversity of KwaZulu-Natal, South Africa\n\n\n\n\nProf. Legesse Debusho\n\n\n-\n\n\nUniversity of South Africa, South Africa\n\n\n\n\nProf. Tobias Chirwa\n\n\n-\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\nProf. Henry Mwambi\n\n\n-\n\n\nUniversity of KwaZulu-Natal, South Africa\n\n\n\n\nProf. Tarylee Reddy\n\n\nIBS Secretary\n\n\nSouth African Medical Research Council, South Africa\n\n\n\n\nDr. Zeytu Asfaw\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Dejen Tesfaw\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Bisrat Misganaw\n\n\n-\n\n\nUniversity of Gondar, Ethiopia\n\n\n\n\nDr. Derebachew Asefaw\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Tigist Liulseged\n\n\n-\n\n\nMedical Research Lounge & Saint Paul’s Millennium Medical College, Ethiopia\n\n\n\n\nDr. Denekew Bitew\n\n\n-\n\n\nUniversity of Pretoria, South Africa\n\n\n\n\nDr. Innocent Maphosa\n\n\n-\n\n\nStellenbosch University, South Africa\n\n\n\n\nDr. Habte Tadesse\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Yegnanew Shiferaw\n\n\n-\n\n\nUniversity of Johannesburg, South Africa\n\n\n\n\nDr. Alemtsehai Turasie\n\n\n-\n\n\nAdelphi University, USA\n\n\n\n\nProf. Yihenew Getachew\n\n\n-\n\n\nUSA\n\n\n\n\nDr. Seyifemickael Amare\n\n\n-\n\n\nDebre Tabor University, Ethiopia\n\n\n\n\nDr. Taddesse Kassahun\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Yonas Shuke\n\n\n-\n\n\nHawassa University, Ethiopia\n\n\n\n\nDr. Clarence Yah\n\n\n-\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition\n\n\nAffiliation\n\n\n\n\n\n\nDr. Gezahegn Mekonnen\n\n\nChair\n\n\nHawassa University, Ethiopia\n\n\n\n\nDr. Girma Taye\n\n\nVice Chair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMrs. Eskedar Girma\n\n\nSecretary\n\n\nHaramaya University, Ethiopia\n\n\n\n\nDr. Tilahun Ferede\n\n\n-\n\n\nEthiopian Public Health Institute, Ethiopia\n\n\n\n\nDr. Asnake Worku\n\n\n-\n\n\nEthiopian Public Health Institute, Ethiopia\n\n\n\n\nProf. Nokoe Sagary\n\n\n-\n\n\nGhana\n\n\n\n\nProf. Tarylee Reddy\n\n\nIBS Secretary\n\n\nSouth African Medical Research Council, South Africa\n\n\n\n\nDr. Halima Twabi\n\n\nSUSAN Treasurer\n\n\nMalawi\n\n\n\n\nDr. Wende Safari\n\n\nFormer SUSAN Treasurer\n\n\nTanzania\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition\n\n\nAffiliation\n\n\n\n\n\n\nDr. Sisay Wondaya\n\n\nChair\n\n\nEthiopian Public Health Institute, Ethiopia\n\n\n\n\nDr. Fatuma Hassen\n\n\nVice Chair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMr. Awgchew Kiíe\n\n\nSecretary\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMrs. Eskedar Girma\n\n\n-\n\n\nHaramaya University, Ethiopia\n\n\n\n\nMr. Yeblay Berelie\n\n\n-\n\n\nDebre Markos University and C4ED, Ethiopia\n\n\n\n\nMr. Belachew Melese\n\n\n-\n\n\nArsi University, Ethiopia"
   },
   {
-    "objectID": "pages/about/commitee.html#running-code",
-    "href": "pages/about/commitee.html#running-code",
-    "title": "Untitled",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Home",
+    "section": "",
+    "text": "Contact Us\n\n\n\nContact Us\n\n\n\n\n\nName:  \n\n\n\nEmail:  \n\n\n\nSubject:  \n\n\n\nMessage:\n\n\n\n\n\n\n\n\nSend Message"
   },
   {
     "objectID": "pages/about/ourteam.html",
     "href": "pages/about/ourteam.html",
     "title": "Home",
     "section": "",
-    "text": "Tilahun Asena (PhD)\n\n\n\nPresident\n\n\n\n\nGezahegn WeldeMariam (PhD)\n\n\n\nVice President\n\n\n\n\nBelachew Hunde\n\n\n\nSecretary\n\n\n\n\nAnteneh Yalew\n\n\n\nIBS Ethiopia Region Secretary\n\n\n\n\nEskedar Girma\n\n\n\nMembership Coordinator\n\n\n\n\nFatuma Hassen (PhD)\n\n\n\nFinance and Administrative Coordinator\n\n\n\n\nYebelay Berhan\n\n\n\nResearch and  Project Coordinator\n\n\n\n\nDiribsa Bedada\n\n\n\nTraining Coordinator\n\n\n\n\nSisay Wendaya\n\n\n\nAuditor"
-  },
-  {
-    "objectID": "pages/about/ourteam.html#officers",
-    "href": "pages/about/ourteam.html#officers",
-    "title": "Home",
-    "section": "",
-    "text": "Tilahun Ferede Asena\nPresident\n\n\nGezahegn Mekonnen WeldeMariam\nVice President\n\n\nBelachew Melese Hunde\nSecretary\n\n\nAnteneh Tessema Yalew\nIBS Ethiopia Region Secretary\n\n\nEskedar Girma\nMembership Coordinator\n\n\nFatuma Hassen\nFinance and Administrative Coordinator\n\n\nYebelay Berelie Berhan\nResearch and Project Coordinator\n\n\nDiribsa Tsegaye Bedada\nTraining Coordinator \n\n\nSisay Wendaya\nAuditor"
-  },
-  {
-    "objectID": "pages/about/ourteam.html#section",
-    "href": "pages/about/ourteam.html#section",
-    "title": "Home",
-    "section": "",
-    "text": "Tilahun Ferede Asena\nPresident\n\n\nGezahegn Mekonnen WeldeMariam\nVice President\n\n\nBelachew Melese Hunde\nSecretary\n\n\nAnteneh Tessema Yalew\nIBS Ethiopia Region Secretary\n\n\nEskedar Girma\nMembership Coordinator\n\n\nFatuma Hassen\nFinance and Administrative Coordinator\n\n\nYebelay Berelie Berhan\nResearch and Project Coordinator\n\n\nDiribsa Tsegaye Bedada\nTraining Coordinator\n\n\nSisay Wendaya\nAuditor"
+    "text": "Tilahun Asena (PhD)\n\n\n\nPresident\n\n\n\n\nGezahegn WeldeMariam (PhD)\n\n\n\nVice President\n\n\n\n\nBelachew Hunde\n\n\n\nSecretary\n\n\n\n\nAnteneh Yalew\n\n\n\nIBS Ethiopia Region Secretary\n\n\n\n\nEskedar Girma\n\n\n\nMembership Coordinator\n\n\n\n\nFatuma Hassen (PhD)\n\n\n\nFinance and Administrative Coordinator\n\n\n\n\nYebelay Berhan\n\n\n\nResearch and  Project Coordinator\n\n\n\n\nDiribsa Bedada\n\n\n\nTraining Coordinator\n\n\n\n\nSisay Wendaya\n\n\n\nAuditor\n\n\n\n\nGirma Taye (Prof.)\n\n\n\nIBS SUSAN Secretary & EBS Advisory Board \n\n\n\n\nGash Amare Dejene\n\n\n\nEBS Advisory Board Member"
   },
   {
     "objectID": "pages/about/ourteam.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board",
     "href": "pages/about/ourteam.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board",
     "title": "Home",
     "section": "",
+    "text": "Tilahun Asena (PhD)\n\n\n\nPresident\n\n\n\n\nGezahegn WeldeMariam (PhD)\n\n\n\nVice President\n\n\n\n\nBelachew Hunde\n\n\n\nSecretary\n\n\n\n\nAnteneh Yalew\n\n\n\nIBS Ethiopia Region Secretary\n\n\n\n\nEskedar Girma\n\n\n\nMembership Coordinator\n\n\n\n\nFatuma Hassen (PhD)\n\n\n\nFinance and Administrative Coordinator\n\n\n\n\nYebelay Berhan\n\n\n\nResearch and  Project Coordinator\n\n\n\n\nDiribsa Bedada\n\n\n\nTraining Coordinator\n\n\n\n\nSisay Wendaya\n\n\n\nAuditor\n\n\n\n\nGirma Taye (Prof.)\n\n\n\nIBS SUSAN Secretary & EBS Advisory Board \n\n\n\n\nGash Amare Dejene\n\n\n\nEBS Advisory Board Member"
+  },
+  {
+    "objectID": "pages/about.html#history-of-the-society",
+    "href": "pages/about.html#history-of-the-society",
+    "title": "About",
+    "section": "History of the society",
+    "text": "History of the society"
+  },
+  {
+    "objectID": "pages/about.html#information-on-key-team-members-and-partnerships",
+    "href": "pages/about.html#information-on-key-team-members-and-partnerships",
+    "title": "About",
+    "section": "Information on key team members and partnerships",
+    "text": "Information on key team members and partnerships\n\n\n\nCausal inference,\nLongitudinal data analysis,\nSurvival analysis,\nJoint Model\n\n\n\nSpatial data analysis,\nMissing data management,\nDesign of clinical trials."
+  },
+  {
+    "objectID": "pages/Programmes/workshop.html",
+    "href": "pages/Programmes/workshop.html",
+    "title": "Home",
+    "section": "",
     "text": "Tilahun Asena (PhD)\n\n\n\nPresident\n\n\n\n\nGezahegn WeldeMariam (PhD)\n\n\n\nVice President\n\n\n\n\nBelachew Hunde\n\n\n\nSecretary\n\n\n\n\nAnteneh Yalew\n\n\n\nIBS Ethiopia Region Secretary\n\n\n\n\nEskedar Girma\n\n\n\nMembership Coordinator\n\n\n\n\nFatuma Hassen (PhD)\n\n\n\nFinance and Administrative Coordinator\n\n\n\n\nYebelay Berhan\n\n\n\nResearch and  Project Coordinator\n\n\n\n\nDiribsa Bedada\n\n\n\nTraining Coordinator\n\n\n\n\nSisay Wendaya\n\n\n\nAuditor"
   },
   {
-    "objectID": "pages/about/ourteam.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board-1",
-    "href": "pages/about/ourteam.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board-1",
-    "title": "Home",
-    "section": "Executive Committee for EBS, IBS Ethiopia Region and Advisory Board",
-    "text": "Executive Committee for EBS, IBS Ethiopia Region and Advisory Board\n\n\n\nTilahun Ferede Asena\n\n\n\nPresident\n\n\n\n\nGezahegn Mekonnen WeldeMariam\n\n\n\nVice President\n\n\n\n\nBelachew Melese Hunde\n\n\n\nSecretary\n\n\n\n\nAnteneh Tessema Yalew\n\n\n\nIBS Ethiopia Region Secretary\n\n\n\n\nEskedar Girma\n\n\n\nMembership Coordinator\n\n\n\n\nFatuma Hassen\n\n\n\nFinance and Administrative Coordinator\n\n\n\n\nYebelay Berelie Berhan\n\n\n\nResearch and Project Coordinator\n\n\n\n\nDiribsa Tsegaye Bedada\n\n\n\nTraining Coordinator\n\n\n\n\nSisay Wendaya\n\n\n\nAuditor"
-  },
-  {
-    "objectID": "pages/about/commitee.html#compositions-of-members-for-each-committee-ibs-susan-2025-conference",
-    "href": "pages/about/commitee.html#compositions-of-members-for-each-committee-ibs-susan-2025-conference",
+    "objectID": "pages/Programmes/workshop.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board",
+    "href": "pages/Programmes/workshop.html#executive-committee-for-ebs-ibs-ethiopia-region-and-advisory-board",
     "title": "Home",
     "section": "",
-    "text": "Name\n\n\nCountry\n\n\nPosition/Role\n\n\n\n\n\n\nDr. Girma Taye\n\n\nEthiopia\n\n\nSUSAN Secretary and Chair of AC\n\n\n\n\nDr. Tilahun Asena\n\n\nEthiopia\n\n\nPresident of EBS and Secretary of AC\n\n\n\n\nMrs. Jemila Mohammed\n\n\nEthiopia\n\n\nDDG, Ethiopian Statistical Service (ESS)\n\n\n\n\nMr. Molla Asmare\n\n\nEthiopia\n\n\nUNECA ACS\n\n\n\n\nProf. Alhassan Abukari\n\n\nGhana\n\n\nSUSAN Coordinator\n\n\n\n\nDr. Nohlalnla Zuma\n\n\nSouth Africa\n\n\nSUSAN Mentor-Mentee Coordinator\n\n\n\n\nDr. Brenda Yankam\n\n\nCameroon\n\n\nSUSAN Students Forum Coordinator\n\n\n\n\nProf. Tarylee Reddy\n\n\nSouth Africa\n\n\nIBS Secretary & South African Medical Research Council\n\n\n\n\nProf. Nokoe Sagary\n\n\nGhana\n\n\nCo-founder of SUSAN\n\n\n\n\nProf. Atinuke Adebanji\n\n\nGhana\n\n\nSUSAN2023 Conference LOC Chair\n\n\n\n\nProf. Thomas Achia\n\n\nKenya\n\n\nFormer SUSAN Coordinator\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition/Role\n\n\nAffiliation\n\n\n\n\n\n\nDr. Tilahun Asena\n\n\nChair\n\n\nEPHI and President of EBS\n\n\n\n\nDr. Girma Taye\n\n\nVice Chair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMr. Anteneh Yalew\n\n\nSecretary\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\nYebelay Berehan\n\n\nWebsite\n\n\nDebre Markos University and C4ED, Ethiopia\n\n\n\n\nDr. Gezahegn Mekonnen\n\n\n-\n\n\nHawassa University, Ethiopia\n\n\n\n\nBelachew Hundie\n\n\n-\n\n\nArsi University, Ethiopia\n\n\n\n\nMinik Tsega\n\n\n-\n\n\nEthiopian Agricultural Research Institute\n\n\n\n\nDr. Merga Belina\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition\n\n\nAffiliation\n\n\n\n\n\n\nDr. Girma Taye\n\n\nChair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMr. Anteneh Yalew\n\n\nVice Chair\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\nMr. Diribsa Bedada\n\n\nSecretary\n\n\nUniversity of Waterloo, Canada\n\n\n\n\nDr. Tilahun Asena\n\n\n-\n\n\nEPHI and President of EBS\n\n\n\n\nDr. Gezahegn Mekonnen\n\n\n-\n\n\nHawassa University, Ethiopia\n\n\n\n\nProf. Tadesse Ayele\n\n\n-\n\n\nUniversity of Gondar, Ethiopia\n\n\n\n\nProf. Temesgen Zewotir\n\n\n-\n\n\nUniversity of KwaZulu-Natal, South Africa\n\n\n\n\nProf. Legesse Debusho\n\n\n-\n\n\nUniversity of South Africa, South Africa\n\n\n\n\nProf. Tobias Chirwa\n\n\n-\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\nProf. Henry Mwambi\n\n\n-\n\n\nUniversity of KwaZulu-Natal, South Africa\n\n\n\n\nProf. Tarylee Reddy\n\n\nIBS Secretary\n\n\nSouth African Medical Research Council, South Africa\n\n\n\n\nDr. Zeytu Asfaw\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Dejen Tesfaw\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Bisrat Misganaw\n\n\n-\n\n\nUniversity of Gondar, Ethiopia\n\n\n\n\nDr. Derebachew Asefaw\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Tigist Liulseged\n\n\n-\n\n\nMedical Research Lounge & Saint Paul’s Millennium Medical College, Ethiopia\n\n\n\n\nDr. Denekew Bitew\n\n\n-\n\n\nUniversity of Pretoria, South Africa\n\n\n\n\nDr. Innocent Maphosa\n\n\n-\n\n\nStellenbosch University, South Africa\n\n\n\n\nDr. Habte Tadesse\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Yegnanew Shiferaw\n\n\n-\n\n\nUniversity of Johannesburg, South Africa\n\n\n\n\nDr. Alemtsehai Turasie\n\n\n-\n\n\nAdelphi University, USA\n\n\n\n\nProf. Yihenew Getachew\n\n\n-\n\n\nUSA\n\n\n\n\nDr. Seyifemickael Amare\n\n\n-\n\n\nDebre Tabor University, Ethiopia\n\n\n\n\nDr. Taddesse Kassahun\n\n\n-\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nDr. Yonas Shuke\n\n\n-\n\n\nHawassa University, Ethiopia\n\n\n\n\nDr. Clarence Yah\n\n\n-\n\n\nUniversity of Witwatersrand, South Africa\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition\n\n\nAffiliation\n\n\n\n\n\n\nDr. Gezahegn Mekonnen\n\n\nChair\n\n\nHawassa University, Ethiopia\n\n\n\n\nDr. Girma Taye\n\n\nVice Chair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMrs. Eskedar Girma\n\n\nSecretary\n\n\nHaramaya University, Ethiopia\n\n\n\n\nDr. Tilahun Ferede\n\n\n-\n\n\nEthiopian Public Health Institute, Ethiopia\n\n\n\n\nDr. Asnake Worku\n\n\n-\n\n\nEthiopian Public Health Institute, Ethiopia\n\n\n\n\nProf. Nokoe Sagary\n\n\n-\n\n\nGhana\n\n\n\n\nProf. Tarylee Reddy\n\n\nIBS Secretary\n\n\nSouth African Medical Research Council, South Africa\n\n\n\n\nDr. Halima Twabi\n\n\nSUSAN Treasurer\n\n\nMalawi\n\n\n\n\nDr. Wende Safari\n\n\nFormer SUSAN Treasurer\n\n\nTanzania\n\n\n\n\n\n\n\n\n\n\n\n\nName\n\n\nPosition\n\n\nAffiliation\n\n\n\n\n\n\nDr. Sisay Wondaya\n\n\nChair\n\n\nEthiopian Public Health Institute, Ethiopia\n\n\n\n\nDr. Fatuma Hassen\n\n\nVice Chair\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMr. Awgchew Kiíe\n\n\nSecretary\n\n\nAddis Ababa University, Ethiopia\n\n\n\n\nMrs. Eskedar Girma\n\n\n-\n\n\nHaramaya University, Ethiopia\n\n\n\n\nMr. Yeblay Berelie\n\n\n-\n\n\nDebre Markos University and C4ED, Ethiopia\n\n\n\n\nMr. Belachew Melese\n\n\n-\n\n\nArsi University, Ethiopia"
+    "text": "Tilahun Asena (PhD)\n\n\n\nPresident\n\n\n\n\nGezahegn WeldeMariam (PhD)\n\n\n\nVice President\n\n\n\n\nBelachew Hunde\n\n\n\nSecretary\n\n\n\n\nAnteneh Yalew\n\n\n\nIBS Ethiopia Region Secretary\n\n\n\n\nEskedar Girma\n\n\n\nMembership Coordinator\n\n\n\n\nFatuma Hassen (PhD)\n\n\n\nFinance and Administrative Coordinator\n\n\n\n\nYebelay Berhan\n\n\n\nResearch and  Project Coordinator\n\n\n\n\nDiribsa Bedada\n\n\n\nTraining Coordinator\n\n\n\n\nSisay Wendaya\n\n\n\nAuditor"
+  },
+  {
+    "objectID": "pages/Registration.html",
+    "href": "pages/Registration.html",
+    "title": "Home",
+    "section": "",
+    "text": "Register for the 2025 SUSAN Conference\n\n\n\nRegister Here\n\n\n\n\nName:  \n\n\nEmail:  \n\n\nInstitution:  \n\n\n\nRegister"
+  },
+  {
+    "objectID": "index.html#ethiopiaan-biometry-society-ebs",
+    "href": "index.html#ethiopiaan-biometry-society-ebs",
+    "title": "\nWelcome to the Ethiopian Biometric Society\n",
+    "section": "Ethiopiaan Biometry Society (EBS)",
+    "text": "Ethiopiaan Biometry Society (EBS)\nThe Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.\nClick to learn more\n\n\nThis includes applications in agriculture, medical and health research, infectious diseases, environment and ecology, climate, and other applied sciences such as the areas of statistical genetics and bioinformatics.\n\nShow less"
   }
 ]
