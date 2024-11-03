@@ -1,0 +1,97 @@
+---
+title: ""
+---
+
+<div style="text-align: center;">
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> Call for Abstract: IBS SUSAN2025 Conference </p>
+
+<p style="color: red; font-size: 1.2em; font-weight: bold;"> The 19<sup>th</sup> Biennial Conference of the Sub-Saharan Network (SUSAN) of the International Biometrics Society (IBS) </p>
+
+<p> 
+Addis Ababa, Ethiopia<br>
+2-10 September 2025
+</p>
+
+<p style="font-weight: bold;"> Conference theme: Biometrics and data science for better health and agriculture in the new era </p>
+<p> Host: IBS Ethiopia Region/Ethiopian Biometric Society </p>
+</div>
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> About the Conference</p>
+
+The IBS Ethiopia Region/Ethiopian Biometric Society (EBS) is pleased to invite you to attend the Conference of the Sub-Saharan Network (SUSAN) of the International Biometrics Society (IBS). The Conference will cover a wide range of classical and Bayesian statistical theory and methods and data science, their applications in life sciences (health and agriculture). 
+
+The 19th Biennial IBS SUSAN 2025 Conference, an international event dedicated to advancements in biometrics and related fields. Organized in collaboration with the IBS, this conference aims to foster collaboration among researchers, academicians, practitioners, and students from around the globe. Participants will have the opportunity to share insights, discuss innovations, and explore future directions in these vital areas of study.
+
+Join us in promoting knowledge exchange and networking on an international scale.
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> Sub themes:</p>
+
+We invite original research papers and reviews on themes including, but not limited to:
+
+- Biostatistics methodologies
+-	Bioinformatics 
+-	Data science (machine learning, AI, big data analytics, predictive modelling) 
+-	Data analysis in biomedical and agriculture research
+-	Ethical considerations in biometrics
+-	Clinical trial study 
+-	Design of experiments 
+-	Bayesian methods 
+-	Categorical data analysis and discrete models
+-	Computation intensive methods and software development
+-	Longitudinal data analysis/mixed effects model
+-	Missing and incomplete data
+-	Time to event models and multistate models
+-	Joint outcome models
+-	Causal inference
+-	Mixture models
+-	Statistical approaches to omics data
+-	Small area estimation
+-	Spatio-temporal modelling
+-	Meta analysis
+-	Disease burden estimation
+-	Others
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> Submission Guidelines:</p>
+
+- **Abstract submission:** Please submit a maximum of a 300-word abstract by 31 March 2025.
+- **Full paper submission:** Accepted abstracts will be invited for full paper submission by 15 June 2025.
+- **Format:** Papers should be formatted according to the conference guidelines (details to be provided upon acceptance of abstracts).
+
+<div style="font-family: Arial, sans-serif;">
+
+<p style="font-weight: bold; color: green;">Important Dates</p>
+
+<p><strong>Abstract Submission:</strong> <span style="color: red;">4 November 2024 - 31 March 2025</span></p>
+<p><strong>Notification of Acceptance:</strong> <span style="color: red;">30 April 2025</span></p>
+<p><strong>Full Paper Submission Deadline:</strong> <span style="color: red;">15 June 2025</span></p>
+<p><strong>Conference Dates:</strong> <span style="color: red;">2-10 September 2025</span></p>
+
+<p style="font-weight: bold; color: green;">Registration</p>
+
+<p>Early bird registration will be available until <span style="color: red;">30 June 2025</span>. To register, please visit the following link: <a href="your-registration-link" style="color: blue; text-decoration: underline;">Register Here</a>.</p> 
+
+[Register Here &rarr;](pages/Registration.qmd)
+
+<p>A registration fee is available on the conference website <a href="your-fee-link" style="color: blue; text-decoration: underline;">Here</a>.</p>
+
+<p style="font-weight: bold; color: green;">Abstract Submission</p>
+
+<p>To submit your abstract, please use this link: <a href="your-abstract-link" style="color: purple; text-decoration: underline;">Submit Abstract</a>.</p>
+
+</div>
+
+<div style="font-family: Arial, sans-serif;">
+
+<p style="font-weight: bold; color: green;">Contact Information</p>
+
+<p>For inquiries, please contact the organizing committee at: <a href="mailto:ibsethiopiaregion@gmail.com" style="color: blue; text-decoration: underline;">ibsethiopiaregion@gmail.com</a> / <a href="mailto:ethiopianbiometricssociety@gmail.com" style="color: blue; text-decoration: underline;">ethiopianbiometricssociety@gmail.com</a></p>
+
+<p>For further information: +251 99 391 6717 / +251 94 938 9536 / +27 78 257 3673 / +251 92 553 9772</p>
+
+<p style="font-weight: bold; color: green;">Conference Website</p>
+
+<p>For more details and updates, please visit the conference <a href="your-website-link" style="color: purple; text-decoration: underline;">Website</a>.</p>
+
+<p>We look forward to your contributions and to an exciting conference in Addis Ababa.</p>
+
+</div>

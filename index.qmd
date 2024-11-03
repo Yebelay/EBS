@@ -8,7 +8,7 @@ title: ""
   <p class="welcome-subtitle">Advancing Life Sciences through Statistical Excellence</p>
 </section>
 
-## Ethiopiaan Biometry Society (EBS)
+## Ethiopian Biometric Society (EBS)
 
 The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.
 

@@ -6,41 +6,26 @@ title: ""
 
 ::: {style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;"}
 <div>
-
 <p>Tilahun Asena (PhD)</p>
-
 <img src="images/Tilahun.png" alt="Tilahun Ferede Asena" style="width: 150px; height: auto;"/>
-
 <p><strong style="color: blue;">President</strong></p>
-
 </div>
 
 <div>
-
 <p>Gezahegn WeldeMariam (PhD)</p>
-
 <img src="images/Gezahegn.png" alt="Gezahegn Mekonnen WeldeMariam" style="width: 150px; height: auto;"/>
-
 <p><strong style="color: blue;">Vice President</strong></p>
-
 </div>
 
 <div>
-
 <p>Belachew Hunde</p>
-
 <img src="images/belachew.png" alt="Belachew Melese Hunde" style="width: 150px; height: auto;"/>
-
 <p><strong style="color: blue;">Secretary</strong></p>
-
 </div>
 
 <div>
-
 <p>Anteneh Yalew</p>
-
 <img src="images/anteneh.png" alt="Anteneh Tessema Yalew" style="width: 150px; height: auto;"/>
-
 <p><strong style="color: blue;">IBS Ethiopia Region Secretary</strong></p>
 </div>
 
@@ -77,7 +62,7 @@ title: ""
 <div>
 <p>Girma Taye (Prof.)</p>
 <img src="images/girma.png" alt="Prof Girma" style="width: 150px; height: auto;"/>
-<p><strong style="color: blue;">IBS SUSAN Secretary & EBS Advisory Board </strong></p>
+<p><strong style="color: blue;">IBS SUSAN Secretary <br> and EBS Advisory Board </strong></p>
 </div>
 
 <div>

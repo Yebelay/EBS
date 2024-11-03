@@ -2,41 +2,53 @@
 title: ""
 --- 
 
-<h2>Register for the 2025 SUSAN Conference</h2>
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> 2025 SUSAN Conference Registration </p>
 
-<!-- The button to display the form -->
-<button id="showFormButton" onclick="showForm()">Register Here</button>
+Welcome to the registration page for the 2025 SUSAN Conference. Below are the registration fee details and a link to the registration form.
 
-<!-- The form, hidden by default, with increased width -->
-<form id="registerForm" name="contact" method="POST" data-netlify="true" action="/thank-you" style="display: none; margin-top: 20px; width: 80%;">
-  <p>
-    <label>Name: 
-      <input type="text" name="name" required style="width: 200%; padding: 10px; font-size: 16px;" />
-    </label>
-  </p>
-  <p>
-    <label>Email: 
-      <input type="email" name="email" required style="width: 200%; padding: 10px; font-size: 16px;" />
-    </label>
-  </p>
-  <p>
-    <label>Institution: 
-      <input type="text" name="institution" required style="width: 200%; padding: 10px; font-size: 16px;" />
-    </label>
-  </p>
-  <p>
-    <button type="submit">Register</button>
-  </p>
-</form>
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> Registration Fees</p>
 
-<!-- JavaScript to toggle form visibility -->
-<script>
-  function showForm() {
-    var form = document.getElementById("registerForm");
-    var button = document.getElementById("showFormButton");
+| Category                | Fee    |
+|-------------------------|--------|
+| **IBS Member**          | $220   |
+| **IBS Student Member**  | $30    |
+| **Non-IBS Member**      | $280   |
+| **Non-IBS Student Member** | $90 |
 
-    // Show the form and hide the button
-    form.style.display = "block";
-    button.style.display = "none";
-  }
-</script>
+*These fees cover conference materials, lunches, and access to all sessions.*
+
+---
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;">Register Now</p>
+
+
+To complete your registration, please click the button below to access the official registration form.
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9aLwBOHwqbfNaRiWK1fIE4xPIP1CQcd2aQD87cswl7NtUVw/viewform" target="_blank" style="background-color: #d9534f; color: white; padding: 15px 30px; font-size: 18px; text-decoration: none; border-radius: 5px;">
+    Register Here
+  </a>
+</div>
+
+---
+
+**Note:** Please ensure that you complete the Google Form linked above. You will receive a confirmation email once your registration is submitted.
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> Payment Options</p>
+
+
+1. **Bank Transfer**  
+   Account Name: 2025 SUSAN Conference  
+   Bank: Commercial Bank of Ethiopia  
+   Account Number: 123456789  
+   SWIFT Code: CBEAXXXXXX  
+   Reference: Your Full Name + Conference Registration
+
+2. **Online Payment**  
+   (Provide payment instructions )
+
+*Your registration will be confirmed only after payment is received.*
+
+---
+
+For any questions, please contact us at [ibsethiopiaregion@gmail.com](mailto:ibsethiopiaregion@gmail.com).

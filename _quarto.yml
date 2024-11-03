@@ -17,6 +17,8 @@ website:
             href: pages/about/commitee.qmd
       - href: pages/Registration.qmd
         text: "Registration"
+      - href: pages/CallForAbstracts.qmd
+        text: "Call for Abstracts"  
       - href: pages/Abstracts.qmd
       - text: "Programmes"
         menu:
