@@ -24,24 +24,7 @@ $border-color: $navbar-bg;
 $hover-color: darken($link-color, 15%);
 /*-- scss:rules --*/
 
-/* Target the "Call for Abstracts" link by text */
-a:contains("Call for Abstracts") {
-  color: red;
-  animation: pulse 1.5s infinite;
-}
 
-/* Pulse animation */
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.1);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
 /* Smart Button Styling */
 .submit-button {
   background: none;

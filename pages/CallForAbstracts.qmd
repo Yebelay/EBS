@@ -68,15 +68,13 @@ We invite original research papers and reviews on themes including, but not limi
 
 <p style="font-weight: bold; color: green;">Registration</p>
 
-<p>Early bird registration will be available until <span style="color: red;">30 June 2025</span>. To register, please visit the following link: <a href="your-registration-link" style="color: blue; text-decoration: underline;">Register Here</a>.</p> 
+<p>Early bird registration will be available until <span style="color: red;">30 June 2025</span>. 
 
-[Register Here &rarr;](pages/Registration.qmd)
-
-<p>A registration fee is available on the conference website <a href="your-fee-link" style="color: blue; text-decoration: underline;">Here</a>.</p>
+- To register, please visit our [Registration page →](Registration.qmd).
 
 <p style="font-weight: bold; color: green;">Abstract Submission</p>
 
-<p>To submit your abstract, please use this link: <a href="your-abstract-link" style="color: purple; text-decoration: underline;">Submit Abstract</a>.</p>
+- To submit your abstract, please go to the page: [Submit Abstract](Abstracts.qmd)
 
 </div>
 
