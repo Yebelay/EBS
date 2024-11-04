@@ -12,7 +12,9 @@ Addis Ababa, Ethiopia<br>
 2-10 September 2025
 </p>
 
-<p style="font-weight: bold;"> Conference theme: Biometrics and data science for better health and agriculture in the new era </p>
+<p style="color: green; font-size: 1.4em; font-weight: bold;"> Conference theme: Biometrics and data science to enhance health and agriculture in
+the developing world </p>
+
 <p> Host: IBS Ethiopia Region/Ethiopian Biometric Society </p>
 </div>
 
@@ -66,15 +68,17 @@ We invite original research papers and reviews on themes including, but not limi
 <p><strong>Full Paper Submission Deadline:</strong> <span style="color: red;">15 June 2025</span></p>
 <p><strong>Conference Dates:</strong> <span style="color: red;">2-10 September 2025</span></p>
 
+
+<p style="font-weight: bold; color: green;">Abstract Submission</p>
+
+- To submit your abstract, please go to the page: [Submit Abstract](Abstracts.qmd)
+
+
 <p style="font-weight: bold; color: green;">Registration</p>
 
 <p>Early bird registration will be available until <span style="color: red;">30 June 2025</span>. 
 
 - To register, please visit our [Registration page →](Registration.qmd).
-
-<p style="font-weight: bold; color: green;">Abstract Submission</p>
-
-- To submit your abstract, please go to the page: [Submit Abstract](Abstracts.qmd)
 
 </div>
 
@@ -88,7 +92,7 @@ We invite original research papers and reviews on themes including, but not limi
 
 <p style="font-weight: bold; color: green;">Conference Website</p>
 
-<p>For more details and updates, please visit the conference <a href="your-website-link" style="color: purple; text-decoration: underline;">Website</a>.</p>
+<p>For more details and updates, please visit the conference <a href="https://susan2025ethiopia.netlify.app/" style="color: purple; text-decoration: underline;">Website</a>.</p>
 
 <p>We look forward to your contributions and to an exciting conference in Addis Ababa.</p>
 

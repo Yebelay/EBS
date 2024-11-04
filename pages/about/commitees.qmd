@@ -1,0 +1,101 @@
+---
+title: ""
+---
+
+<div style="text-align: center;">
+<p style="color: red; font-size: 1.5em; font-weight: bold;"> Committees for SUSAN Conference</p>
+
+<p style="color: green; font-size: 1.3em; font-weight: bold;"> Advisory Committee (AC) </p>
+
+
+| Name                      | Country       | Position/Role                                      |
+|---------------------------|---------------|----------------------------------------------------|
+| Dr. Girma Taye           | Ethiopia      | SUSAN Secretary and Chair of AC                    |
+| Dr. Tilahun Asena        | Ethiopia      | President of EBS and Secretary of AC               |
+| Mrs. Jemila Mohammed      | Ethiopia      | DDG, Ethiopian Statistical Service (ESS)          |
+| Mr. Molla Asmare         | Ethiopia      | UNECA ACS                                         |
+| Prof. Alhassan Abukari   | Ghana         | SUSAN Coordinator                                   |
+| Dr. Nohlalnla Zuma       | South Africa  | SUSAN Mentor-Mentee Coordinator                     |
+| Dr. Brenda Yankam        | Cameroon      | SUSAN Students Forum Coordinator                    |
+| Prof. Tarylee Reddy      | South Africa  | IBS Secretary & South African MRC |
+| Prof. Nokoe Sagary       | Ghana         | Co-founder of SUSAN                                 |
+| Prof. Atinuke Adebanji   | Ghana         | SUSAN2023 Conference LOC Chair                      |
+| Prof. Thomas Achia       | Kenya         | Former SUSAN Coordinator                            |
+
+<p style="color: green; font-size: 1.3em; font-weight: bold;">Local Organizing Committee (LOC)</p>
+
+
+| Name                      | Position/Role | Affiliation                                       |
+|---------------------------|---------------|---------------------------------------------------|
+| Dr. Tilahun Asena         | Chair         | EPHI and President of EBS                         |
+| Dr. Girma Taye           | Vice Chair    | Addis Ababa University, Ethiopia                   |
+| Mr. Anteneh Yalew        | Secretary      | University of the Witwatersrand, South Africa     |
+| Yebelay Berehan          | Website        | Debre Markos University and C4ED, Ethiopia        |
+| Dr. Gezahegn Mekonnen    | Member        | Hawassa University, Ethiopia                       |
+| Belachew Hundie          | Member        | Arsi University, Ethiopia                          |
+| Minik Tsega              | Member        | Ethiopian Agricultural Research Institute          |
+| Dr. Merga Belina         | Member        | Addis Ababa University, Ethiopia                   |
+
+
+<p style="color: green; font-size: 1.3em; font-weight: bold;">Scientific Committee (SC)</p>
+
+
+| Name                     | Position       | Affiliation                                       |
+|--------------------------|----------------|---------------------------------------------------|
+| Dr. Girma Taye           | Chair          | Addis Ababa University, Ethiopia                  |
+| Mr. Anteneh Yalew        | Vice Chair     | University of the Witwatersrand, South Africa     |
+| Mr. Diribsa Bedada       | Secretary      | University of Waterloo, Canada                    |
+| Dr. Tilahun Asena        | Member         | EPHI and President of EBS                         |
+| Dr. Gezahegn Mekonnen    | Member         | Hawassa University, Ethiopia                      |
+| Prof. Tadesse Ayele      | Member         | University of Gondar, Ethiopia                    |
+| Prof. Temesgen Zewotir   | Member         | University of KwaZulu-Natal, South Africa         |
+| Prof. Legesse Debusho    | Member         | University of South Africa, South Africa          |
+| Prof. Tobias Chirwa      | Member         | University of the Witwatersrand, South Africa     |
+| Prof. Henry Mwambi       | Member         | University of KwaZulu-Natal, South Africa         |
+| Prof. Tarylee Reddy      | Member         | IBS Secretary MRC, South Africa                   |
+| Dr. Zeytu Asfaw          | Member         | Addis Ababa University, Ethiopia                  |
+| Dr. Dejen Tesfaw         | Member         | Addis Ababa University, Ethiopia                  |
+| Dr. Bisrat Misganaw      | Member         | University of Gondar, Ethiopia                    |
+| Dr. Derebachew Asefaw    | Member         | Addis Ababa University, Ethiopia                  |
+| Dr. Tigist Liulseged     | Member         | Saint Paul’s Millennium Medical College, Ethiopia |
+| Dr. Denekew Bitew        | Member         | University of Pretoria, South Africa              |
+| Dr. Innocent Maphosa     | Member         | Stellenbosch University, South Africa             |
+| Dr. Habte Tadesse        | Member         | Addis Ababa University, Ethiopia                  |
+| Dr. Yegnanew Shiferaw    | Member         | University of Johannesburg, South Africa          |
+| Dr. Alemtsehai Turasie   | Member         | Adelphi University, USA                           |
+| Prof. Yihenew Getachew   | Member         | USA                                               |
+| Dr. Seyifemickael Amare  | Member         | Debre Tabor University, Ethiopia                  |
+| Dr. Yonas Shuke          | Member         | Hawassa University, Ethiopia                      |
+| Dr. Clarence Yah         | Member         | University of the Witwatersrand, South Africa     |
+
+
+<p style="color: green; font-size: 1.3em; font-weight: bold;">Fund Raising and Resources Mobilization Committee (FRRMC)</p>
+
+
+| Name                      | Position       | Affiliation                                        |
+|---------------------------|----------------|--------------------------------------------------|
+| Dr. Gezahegn Mekonnen     | Chair          | Hawassa University, Ethiopia                     |
+| Dr. Girma Taye           | Vice Chair     | Addis Ababa University, Ethiopia                  |
+| Mrs. Eskedar Girma       | Secretary      | Haramaya University, Ethiopia                     |
+| Dr. Tilahun Ferede       | Member         | Ethiopian Public Health Institute, Ethiopia       |
+| Dr. Asnake Worku         | Member         | Ethiopian Public Health Institute, Ethiopia       |
+| Prof. Nokoe Sagary       | Member         | Ghana                                             |
+| Prof. Tarylee Reddy      | Member         | IBS Secretary, South Africa                       |
+| Dr. Halima Twabi         | Member         | SUSAN Treasurer, Malawi                           |
+| Dr. Wende Safari         | Member         | Former SUSAN Treasurer, Tanzania                  |
+
+
+<p style="color: green; font-size: 1.3em; font-weight: bold;">Transport and Accommodation Service Committee (TASC)</p>
+
+| Name                      | Position       | Affiliation                                      |
+|---------------------------|----------------|--------------------------------------------------|
+| Dr. Sisay Wondaya        | Chair          | Ethiopian Public Health Institute, Ethiopia       |
+| Dr. Fatuma Hassen        | Vice Chair     | Addis Ababa University, Ethiopia                  |
+| Mr. Awgchew Kiíe        | Secretary       | Addis Ababa University, Ethiopia                  |
+| Mrs. Eskedar Girma       | Member         | Haramaya University, Ethiopia                     |
+| Mr. Yeblay Berelie       | Member         | Debre Markos University and C4ED, Ethiopia        |
+| Mr. Belachew Melese      | Member         | Arsi University, Ethiopia                         |
+
+</div>
+
+---
