@@ -2,11 +2,13 @@
 title: ""
 ---
 
-# Conference Program
+<p style="color: red; font-size: 1.7em; font-weight: bold;">Conference Program</p>
 
-## Schedule at a Glance
+<p style="color: green; font-size: 1.5em; font-weight: bold;">Schedule at a Glance</p>
 
-## Pre-Conference Workshop: 2-4 September 2025
+
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">Pre-Conference Workshop: 2-4 September 2025</p>
+
 
 | Day                          | Date                    | Events                     |
 |------------------------------|-------------------------|----------------------------|
@@ -15,7 +17,11 @@ title: ""
 | **Day 2: Wednesday**         | 3 September 2025        | Short Courses              |
 | **Day 3: Thursday**          | 4 September 2025        | Short Courses              |
 
-## Conference and AGM: 5-10 September 2025
+
+---
+
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">Conference and AGM: 5-10 September 2025</p>
+
 
 | Day                          | Date                    | Events                               |
 |------------------------------|-------------------------|--------------------------------------|

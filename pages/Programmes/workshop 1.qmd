@@ -1,13 +1,16 @@
 ---
-title: "Health Data Science: Data Visualizations and Wrangling with R"
-description: "Short course by the UKZN Data Science Group on data wrangling and visualization with R for health data science."
-format: html
+title: ""
 ---
 
-# Health Data Science: Data Visualizations and Wrangling with R
+<p style="color: green; font-size: 1.6em; font-weight: bold;">Workshop 1: Health Data Science: Data Visualizations and Wrangling with R</p>
 
-**Presented by:** UKZN Data Science Group  
-**Instructors:**  
+- Short course by the UKZN Data Science Group on data wrangling and visualization with R for health data science.
+
+
+**Presented by:** <p style="color: red; font-size: 1.3em; font-weight: bold;">UKZN Data Science Group</p>  
+
+<p style="color: red; font-size: 1.2em; font-weight: bold;">Instructors:</p> 
+
 - Prof. Temesgen Zewotir  
 - Prof. Henry Mwambi  
 - Prof. Retius Chifurira  
@@ -16,10 +19,14 @@ format: html
 - Dr. Jesca Batidzirai  
 - Dr. Mohanad Mohammed  
 
-## Course Description
+<p style="color: green; font-size: 1.3em; font-weight: bold;">Course Description</p>
+
+
 This intensive short course introduces essential skills in health data science, focusing on data wrangling and visualization using R. Participants will learn to clean, manipulate, and prepare health data for analysis, create compelling visualizations, and effectively communicate findings. Through hands-on exercises, students will gain practical experience with popular R packages such as `dplyr` and `ggplot2`, enabling them to transform complex datasets into clear insights. This course is ideal for beginners and healthcare professionals looking to enhance their data skills.
 
-## Main Objectives
+<p style="color: green; font-size: 1.3em; font-weight: bold;">Main Objectives</p>
+
+
 - **Understand the Role of Data Analysis:** Grasp how data analysis informs healthcare decisions and policies.
 - **Foundational R Programming Skills:** Develop skills in R and become familiar with RStudio as a development environment.
 - **Data Import and Export:** Learn efficient methods for importing and exporting data in various formats.
@@ -31,7 +38,10 @@ This intensive short course introduces essential skills in health data science, 
 - **Ethics in Data Presentation:** Understand the ethical implications, including privacy, bias, and responsible data use.
 - **Continuous Learning:** Foster a mindset of continuous improvement, encouraging collaboration and providing resources for further study.
 
-## Course Topics
+
+
+<p style="color: green; font-size: 1.3em; font-weight: bold;">Course Topics</p>
+
 1. **Introduction to R for Health Data Science**
    - Setting up R and RStudio
    - Basic R syntax and data structures (vectors, data frames, lists)
