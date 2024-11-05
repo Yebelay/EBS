@@ -23,7 +23,7 @@ title: ""
 
 ---
 
-<p style="color: green; font-size: 1.5em; font-weight: bold;">Register Now</p>
+<p style="color: red; font-size: 1.5em; font-weight: bold;">Register link will be active here soon!</p>
 
 <!--
 <div style="text-align: center; margin-top: 20px;">

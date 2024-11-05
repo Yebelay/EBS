@@ -23,7 +23,7 @@ website:
       - text: "Programmes"
         menu:
           - text: "Conference programme"
-            href: pages/Programmes/conference.qmd
+            href: pages/Programmes/conferece.qmd
           - text: "Workshop Overview"
             href: pages/Programmes/workshop-overview.qmd
           - text: "Workshop 1"
