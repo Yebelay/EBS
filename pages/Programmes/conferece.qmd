@@ -2,5 +2,32 @@
 title: ""
 ---
 
-## Conference program
+# Conference Program
 
+## Schedule at a Glance
+
+## Pre-Conference Workshop: 2-4 September 2025
+
+| Day                          | Date                    | Events                     |
+|------------------------------|-------------------------|----------------------------|
+| **Day 1: Tuesday**           | 2 September 2025        | Registration               |
+|                              |                         | Short Courses              |
+| **Day 2: Wednesday**         | 3 September 2025        | Short Courses              |
+| **Day 3: Thursday**          | 4 September 2025        | Short Courses              |
+
+## Conference and AGM: 5-10 September 2025
+
+| Day                          | Date                    | Events                               |
+|------------------------------|-------------------------|--------------------------------------|
+| **Day 4: Friday**            | 5 September 2025        | Invited Sessions                     |
+|                              |                         | Contributed Sessions                 |
+| **Day 5: Saturday**          | 6 September 2025        | Invited Sessions                     |
+|                              |                         | Contributed Sessions                 |
+| **Day 6: Sunday**            | 7 September 2025        | Invited Sessions                     |
+|                              |                         | Contributed Sessions                 |
+| **Day 7: Monday**            | 8 September 2025       | Special Addis Ababa Tours & Excursions (no sessions today) |
+| **Day 8: Tuesday**           | 9 September 2025        | SUSAN AGM                            |
+|                              |                         | Invited Sessions                     |
+|                              |                         | Contributed Sessions                 |
+| **Day 9: Wednesday**         | 10 September 2025       | Contributed Sessions                 |
+|                              |                         | Closing Ceremony                     |

@@ -24,8 +24,12 @@ website:
         menu:
           - text: "Conference programme"
             href: pages/Programmes/conference.qmd
-          - text: "Workshop programme"
-            href: pages/Programmes/workshop.qmd
+          - text: "Workshop Overview"
+            href: pages/Programmes/workshop-overview.qmd
+          - text: "Workshop 1"
+            href: pages/Programmes/workshop 1.qmd
+          - text: "Workshop 2"
+            href: pages/Programmes/workshop 2.qmd
           - text: "other program"
             href: pages/Programmes/other.qmd
 

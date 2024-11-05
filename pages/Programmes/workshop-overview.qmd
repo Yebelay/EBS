@@ -1,0 +1,21 @@
+---
+title: "Workshop Overview"
+description: "Explore our workshops in health data science."
+format: html
+---
+
+# Workshop Overview
+
+## Data Visualizations and Wrangling with R
+**Instructors:** Prof. Temesgen Zewotir, Prof. Henry Mwambi, Dr. Zelalem Getahun, etc.  
+**Description:** This intensive short course introduces essential skills in health data science...
+
+[Learn more about Data Visualizations and Wrangling with R](workshop 1.qmd)
+
+---
+
+## Geospatial Mapping with R
+**Instructors:** Prof. Temesgen Zewotir, Prof. Henry Mwambi, Dr. Zelalem Getahun, etc.  
+**Description:** This course introduces participants to geospatial mapping in health data science...
+
+[Learn more about Geospatial Mapping with R](workshop 2.qmd)
