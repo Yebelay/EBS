@@ -54,7 +54,7 @@ title: ""
 </div>
 
 <div>
-<p>Sisay Wendaya</p>
+<p>Sisay Wendaya (PhD)</p>
 <img src="images/sisay.png" alt="Sisay Wendaya" style="width: 150px; height: auto;"/>
 <p><strong style="color: blue;">Auditor</strong></p>
 </div>
