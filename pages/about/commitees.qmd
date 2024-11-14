@@ -61,7 +61,7 @@ title: ""
 | Dr. Denekew Bitew        | Member         | University of Pretoria, South Africa              |
 | Dr. Innocent Maphosa     | Member         | Stellenbosch University, South Africa             |
 | Dr. Habte Tadesse        | Member         | Addis Ababa University, Ethiopia                  |
-| Dr. Yegnanew Shiferaw    | Member         | University of Johannesburg, South Africa          |
+| Prof. Yegnanew Shiferaw  | Member         | University of Johannesburg, South Africa          |
 | Dr. Alemtsehai Turasie   | Member         | Adelphi University, USA                           |
 | Prof. Yihenew Getachew   | Member         | USA                                               |
 | Dr. Seyifemickael Amare  | Member         | Debre Tabor University, Ethiopia                  |
