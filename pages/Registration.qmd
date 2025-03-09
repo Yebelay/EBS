@@ -70,7 +70,7 @@ title: ""
  - Account Number: 0025003193004
  - Reference: sure name + Abstruct number
 
-*Your registration will be confirmed only after payment is received.*
+*[Your registration will be confirmed only after payment is received.]{style="color: red"}*
 
 ---
 
