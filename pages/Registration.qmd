@@ -29,6 +29,7 @@ title: ""
 | **Two Full Days**   | $75 |
 
 
+<!--  
 <p style="color: green; font-size: 1.2em; font-weight: bold;"> C). National Payments (Ethiopian Participants)</p>
 
 | Category | Fee (Birr) |
@@ -37,6 +38,7 @@ title: ""
 | **Category 2** | -  |
 | **Category 3** | -  |
 
+-->
 
 *These fees cover conference materials, lunches, and access to all sessions.*
 
