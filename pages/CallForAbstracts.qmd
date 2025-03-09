@@ -9,7 +9,7 @@ title: ""
 
 <p> 
 Addis Ababa, Ethiopia<br>
-2-10 September 2025
+03-08 September 2025
 </p>
 
 <p style="color: green; font-size: 1.4em; font-weight: bold;"> Conference theme: Biometrics and data science to enhance health and agriculture in
@@ -66,7 +66,7 @@ We invite original research papers and reviews on themes including, but not limi
 <p><strong>Abstract Submission:</strong> <span style="color: red;">4 November 2024 - 31 March 2025</span></p>
 <p><strong>Notification of Acceptance:</strong> <span style="color: red;">30 April 2025</span></p>
 <p><strong>Full Paper Submission Deadline:</strong> <span style="color: red;">15 June 2025</span></p>
-<p><strong>Conference Dates:</strong> <span style="color: red;">2-10 September 2025</span></p>
+<p><strong>Conference Dates:</strong> <span style="color: red;">03-08 September 2025</span></p>
 
 
 <p style="font-weight: bold; color: green;">Abstract Submission</p>

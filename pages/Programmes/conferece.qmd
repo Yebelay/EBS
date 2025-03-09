@@ -12,10 +12,10 @@ title: ""
 
 | Day                          | Date                    | Events                     |
 |------------------------------|-------------------------|----------------------------|
-| **Day 1: Tuesday**           | 2 September 2025        | Registration               |
+| **Day 1: Wednesday**         | 03 September 2025       | Registration               |
 |                              |                         | Short Courses              |
-| **Day 2: Wednesday**         | 3 September 2025        | Short Courses              |
-| **Day 3: Thursday**          | 4 September 2025        | Short Courses              |
+| **Day 2: Thursday**          | 04 September 2025       | Short Courses              |
+| **Day 3: Friday**            | 05 September 2025       | Short Courses              |
 
 
 ---

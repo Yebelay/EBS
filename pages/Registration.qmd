@@ -2,30 +2,50 @@
 title: ""
 --- 
 
-<!--
-
 <p style="color: green; font-size: 1.5em; font-weight: bold;"> 2025 SUSAN Conference Registration </p>
 
 <p style="color: red; font-size: 1.2em; font-weight: bold;"> Welcome to the registration page for the 2025 SUSAN Conference. Below are the registration fee details and a link to the registration form. </p>
 
 <p style="color: green; font-size: 1.5em; font-weight: bold;"> Registration Fees</p>
 
-| Category                | Fee    |
-|-------------------------|--------|
-| **IBS Member**          | $220   |
-| **IBS Student Member**  | $30    |
-| **Non-IBS Member**      | $280   |
-| **Non-IBS Student Member** | $90 |
 
-<!--
+
+<p style="color: green; font-size: 1.2em; font-weight: bold;"> A). Conference Payments</p>
+
+| Category               | Early Bird Registration | Late Registration |
+|------------------------|-------------------------|-------------------|
+| **Regular Member**     | $300                    | $350              |
+| **Non-Regular Member** | $350                    | $400              |
+| **Non-Regular Student**| $200                    | $250              |
+| **Student**            | $150                    | $200              |
+
+
+<p style="color: green; font-size: 1.2em; font-weight: bold;"> B). Workshop Payments (Both Students & Regulars)</p>
+
+| Workshop Type       | Fee |
+|---------------------|-----|
+| **Half Day**        | $40 |
+| **Full Day**        | $60 |
+| **Two Full Days**   | $75 |
+
+
+<p style="color: green; font-size: 1.2em; font-weight: bold;"> C). National Payments (Ethiopian Participants)</p>
+
+| Category | Fee (Birr) |
+|----------|-----------|
+| **Category 1** | 1500  |
+| **Category 2** | 2500  |
+| **Category 3** | 3500  |
+
+
 *These fees cover conference materials, lunches, and access to all sessions.*
--->
+
 
 ---
 
 <p style="color: red; font-size: 1.5em; font-weight: bold;">Register link will be active here soon!</p>
 
-<!--
+
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9aLwBOHwqbfNaRiWK1fIE4xPIP1CQcd2aQD87cswl7NtUVw/viewform" target="_blank" style="background-color: #d9534f; color: white; padding: 15px 30px; font-size: 18px; text-decoration: none; border-radius: 5px;">
     Register Here
@@ -37,17 +57,13 @@ title: ""
 
 **Note:** The registrtion link will be avaliable soon. 
 
-<p style="color: green; font-size: 1.5em; font-weight: bold;"> Payment Options</p>
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> Payment Option</p>
 
-1. **Bank Transfer**  
-   Account Name: 2025 SUSAN Conference  
-   Bank: Commercial Bank of Ethiopia  
-   Account Number: 123456789  
-   SWIFT Code: CBEAXXXXXX  
+ **Bank Account**  
+   Account Holder.: Ethiopian Biometrics Society 
+   Bank: Dashen Bank  
+   Account Number: 0025003193004
    Reference: Your Full Name + Conference Registration
-
-2. **Online Payment**  
-   (Provide payment instructions )
 
 *Your registration will be confirmed only after payment is received.*
 
@@ -55,4 +71,3 @@ title: ""
 
 For any questions, please contact us at [ibsethiopiaregion@gmail.com](mailto:ibsethiopiaregion@gmail.com).
 
--->

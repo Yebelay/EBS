@@ -1,5 +1,8 @@
 ---
 title: ""
+about: 
+  image: logo.png
+  template: jolla
 ---
 
 <!-- Welcome Section with large, stylish text -->
@@ -8,7 +11,7 @@ title: ""
   <p class="welcome-subtitle">Advancing Life Sciences through Statistical Excellence</p>
 </section>
 
-## Ethiopian Biometry Society (EBS)
+## [Ethiopian Biometry Society (EBS)]{style="color: blue"}
 
 The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan Africa countries who promote the advancement of life sciences through development, application, and dissemination of effective mathematical and statistical methods.
 
@@ -21,7 +24,7 @@ The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition t
   <a href="#" onclick="toggleSection('intro-details', 'learn-more-intro'); return false;">Show less</a>
 </div>
 
-## About the Conference
+## [About the Conference]{style="color: blue"}
 
 The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will provide a platform for sharing cutting-edge research, fostering collaboration, and advancing knowledge in the fields of mathematical and statistical methodologies within the life sciences, with a particular focus on the diverse challenges and opportunities in Sub-Saharan Africa.
 
@@ -42,12 +45,23 @@ The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will p
     margin: 0;
   }
 
-  .welcome-section {
-    background-color: #10A5F5; /* Background color */
-    padding: 60px; /* Increased padding for more emphasis */
+img { 
+    display: block;
+    margin: 0 auto;
+    max-width: 100%; 
+    height: auto; 
+    margin-bottom: -20px; /* Reduce space below the logo */
+    margin-top: -30; /* Remove or reduce the space above the logo */
+}
+
+
+.welcome-section {
+    background-color: #10A5F5;
+    padding: 20px; /* Reduce padding to bring text closer */
     text-align: center;
-    border-bottom: 2px solid #ddd; /* Optional border for separation */
-  }
+    margin-top: -60px; /* Pull section up */
+}
+
 
   .welcome-heading {
     font-size: 2em; /* Larger text for the heading */
@@ -58,6 +72,7 @@ The IBS SUSAN Sept 2025 Conference will be hosted in Ethiopia. This event will p
   .welcome-subtitle {
     font-size: 1em; /* Larger text for the subtitle */
     margin-top: 15px;
+    text-align: center;
     color: white; /* Changed text color to white */
   }
 </style>
