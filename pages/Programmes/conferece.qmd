@@ -23,9 +23,11 @@ title: ""
 
 | Day                          | Date                    | Events                               |
 |------------------------------|-------------------------|--------------------------------------|
-| **Day 3: Friday**            | 5 September 2025        | Invited Sessions                     |
+| **Day 3: Friday**            | 5 September 2025        | Registration, Invited Sessions   |
 |                              |                         | Contributed Sessions                 |
 | **Day 4: Saturday**          | 6 September 2025        | Invited Sessions                     |
 |                              |                         | Contributed Sessions                 |
 | **Day 5: Sunday**            | 7 September 2025        | Special Addis Ababa Tours & Excursions (no sessions today)                     |
-| **Day 6: Monday**            | 8 September 2025        | Closing Ceremony  |
+| **Day 6: Monday**            | 8 September 2025        | Invited Sessions, Contributed Sessions |
+|                              |                         | Closing Ceremony     |
+
