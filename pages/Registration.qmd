@@ -15,9 +15,9 @@ title: ""
 | Category               | Early Bird Registration | Late Registration |
 |------------------------|-------------------------|-------------------|
 | **Regular Member**     | $300                    | $350              |
-| **Non-Regular Member** | $350                    | $400              |
-| **Non-Regular Student**| $200                    | $250              |
+| **Non-Member**         | $350                    | $400              |
 | **Student**            | $150                    | $200              |
+| **Non-member Student** | $200                    | $250              |
 
 
 <p style="color: green; font-size: 1.2em; font-weight: bold;"> B). Workshop Payments (Both Students & Regulars)</p>
