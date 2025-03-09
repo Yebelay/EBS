@@ -33,9 +33,9 @@ title: ""
 
 | Category | Fee (Birr) |
 |----------|-----------|
-| **Category 1** | 1500  |
-| **Category 2** | 2500  |
-| **Category 3** | 3500  |
+| **Category 1** | -  |
+| **Category 2** | -  |
+| **Category 3** | -  |
 
 
 *These fees cover conference materials, lunches, and access to all sessions.*
