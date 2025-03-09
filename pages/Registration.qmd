@@ -2,6 +2,8 @@
 title: ""
 --- 
 
+
+
 <p style="color: green; font-size: 1.5em; font-weight: bold;"> 2025 SUSAN Conference Registration </p>
 
 <p style="color: red; font-size: 1.2em; font-weight: bold;"> Welcome to the registration page for the 2025 SUSAN Conference. Below are the registration fee details and a link to the registration form. </p>
@@ -38,7 +40,6 @@ title: ""
 | **Category 2** | -  |
 | **Category 3** | -  |
 
--->
 
 *These fees cover conference materials, lunches, and access to all sessions.*
 
@@ -54,6 +55,7 @@ title: ""
   </a>
 </div>
 
+-->
 
 ---
 
@@ -61,11 +63,12 @@ title: ""
 
 <p style="color: green; font-size: 1.5em; font-weight: bold;"> Payment Option</p>
 
- **Bank Account**  
-   Account Holder.: Ethiopian Biometrics Society 
-   Bank: Dashen Bank  
-   Account Number: 0025003193004
-   Reference: Your Full Name + Conference Registration
+**[Bank Account]{style="color: blue"}**
+ 
+ - Account Holder.: Ethiopian Biometrics Society 
+ - Bank: Dashen Bank  
+ - Account Number: 0025003193004
+ - Reference: sure name + Abstruct number
 
 *Your registration will be confirmed only after payment is received.*
 
@@ -73,3 +76,4 @@ title: ""
 
 For any questions, please contact us at [ibsethiopiaregion@gmail.com](mailto:ibsethiopiaregion@gmail.com).
 
+-->
