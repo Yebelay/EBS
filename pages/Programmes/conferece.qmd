@@ -7,7 +7,7 @@ title: ""
 <p style="color: green; font-size: 1.5em; font-weight: bold;">Schedule at a Glance</p>
 
 
-<p style="color: blue; font-size: 1.3em; font-weight: bold;">Pre-Conference Workshop: 2-4 September 2025</p>
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">Pre-Conference Workshop: 3-4 September 2025</p>
 
 
 | Day                          | Date                    | Events                     |
@@ -15,25 +15,17 @@ title: ""
 | **Day 1: Wednesday**         | 03 September 2025       | Registration               |
 |                              |                         | Short Courses              |
 | **Day 2: Thursday**          | 04 September 2025       | Short Courses              |
-| **Day 3: Friday**            | 05 September 2025       | Short Courses              |
-
 
 ---
 
-<p style="color: blue; font-size: 1.3em; font-weight: bold;">Conference and AGM: 5-10 September 2025</p>
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">Conference and AGM: 5-8 September 2025</p>
 
 
 | Day                          | Date                    | Events                               |
 |------------------------------|-------------------------|--------------------------------------|
-| **Day 4: Friday**            | 5 September 2025        | Invited Sessions                     |
+| **Day 3: Friday**            | 5 September 2025        | Invited Sessions                     |
 |                              |                         | Contributed Sessions                 |
-| **Day 5: Saturday**          | 6 September 2025        | Invited Sessions                     |
+| **Day 4: Saturday**          | 6 September 2025        | Invited Sessions                     |
 |                              |                         | Contributed Sessions                 |
-| **Day 6: Sunday**            | 7 September 2025        | Invited Sessions                     |
-|                              |                         | Contributed Sessions                 |
-| **Day 7: Monday**            | 8 September 2025        | Special Addis Ababa Tours & Excursions (no sessions today) |
-| **Day 8: Tuesday**           | 9 September 2025        | SUSAN AGM                            |
-|                              |                         | Invited Sessions                     |
-|                              |                         | Contributed Sessions                 |
-| **Day 9: Wednesday**         | 10 September 2025       | Contributed Sessions                 |
-|                              |                         | Closing Ceremony                     |
+| **Day 5: Sunday**            | 7 September 2025        | Special Addis Ababa Tours & Excursions (no sessions today)                     |
+| **Day 6: Monday**            | 8 September 2025        | Closing Ceremony  |
