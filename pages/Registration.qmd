@@ -65,15 +65,19 @@ title: ""
 
 **[Bank Account]{style="color: blue"}**
  
+ [The account details will be available soon]{style="color: darkred"}.
+ 
+<!--  
  - Account Holder.: Ethiopian Biometrics Society 
  - Bank: Dashen Bank  
  - Account Number: 0025003193004
- - Reference: sure name + Abstruct number
-
+ - Reference: Surename + Abstract number
+ 
+-->
 *[Your registration will be confirmed only after payment is received.]{style="color: red"}*
 
 ---
 
 For any questions, please contact us at [ibsethiopiaregion@gmail.com](mailto:ibsethiopiaregion@gmail.com).
 
--->
+
