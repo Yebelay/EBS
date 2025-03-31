@@ -175,8 +175,20 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div style="text-align: center;">
-<p style="color: blue; font-size: 1.8em; font-weight: bold;">
+<style>
+@keyframes borderFlash {
+    0% { border-color: red; }
+    50% { border-color: yellow; }
+    100% { border-color: red; }
+}
+.border-flash {
+    border: 3px solid red;
+    padding: 10px;
+    display: inline-block;
+    animation: borderFlash 1s infinite;
+}
+</style>
+<p class="border-flash" style="color: blue; font-size: 1.8em; font-weight: bold; text-align: center;">
 Deadline Extended to 15 April 2025, 23:59, CEST
 </p>
 <ul>
@@ -294,7 +306,6 @@ We look forward to your contributions and to an exciting conference in Addis Aba
 </div>
 
 
-</div>
 </main></div>
 
  <!-- /main -->
