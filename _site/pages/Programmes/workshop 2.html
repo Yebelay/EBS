@@ -176,133 +176,124 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
-Workshop 2: Health Data Science - Geospatial Mapping with R
+Workshop 2: Geospatial Mapping with R for Health Data R
 </p>
 <p style="color: red; font-size: 1.2em; font-weight: bold;">
-Instructors:
+One- Day Training Course Outline
 </p>
-<ul>
-<li>Prof Temesgen Zewotir<br>
-</li>
-<li>Prof Henry Mwambi<br>
-</li>
-<li>Prof Retius Chifurira<br>
-</li>
-<li>Prof Faustin Habyarimana<br>
-</li>
-<li>Dr.&nbsp;Zelalem Getahun<br>
-</li>
-<li>Dr.&nbsp;Jesca Batidzirai<br>
-</li>
-<li>Dr.&nbsp;Mohanad Mohammed</li>
-</ul>
-<p style="color: green; font-size: 1.3em; font-weight: bold;">
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
 Course Description
 </p>
-<p>This short course introduces participants to the principles and techniques of geospatial mapping in health data science using R. Participants will learn to visualize and analyze spatial data to uncover health trends and disparities. The course covers essential topics such as data preparation, the use of geospatial packages like <code>sf</code> and <code>ggmap</code>, and creating informative maps to communicate findings effectively. Through hands-on exercises with real-world health datasets, students will gain the skills to integrate geographic information into their analyses, making this course ideal for public health professionals, researchers, and data enthusiasts interested in spatial analysis.</p>
-<p style="color: green; font-size: 1.3em; font-weight: bold;">
+<p>This course introduces geospatial data analysis and mapping using R, a powerful programming language for statistical computing and data visualization. Participants will learn to work with geospatial data, analyze spatial relationships, and create informative maps for visualizing geographic information in public health contexts. Through hands-on exercises, attendees will explore techniques for identifying spatial patterns, overlaying datasets, and communicating insights effectively.</p>
+<p style="color: red; font-size: 1.2em; font-weight: bold;">
+Course Prerequisites
+</p>
+<ul>
+<li>Basic familiarity with R and RStudio (e.g., data structures, scripts).</li>
+<li>Experience importing data (CSV, Excel, databases) into R.</li>
+</ul>
+<p style="color: green; font-size: 1.2em; font-weight: bold;">
+Course Outcomes
+</p>
+<ul>
+<li>Load, manipulate, and visualize spatial data in R.</li>
+<li>Apply common geospatial analysis techniques.</li>
+<li>Create visually compelling maps to communicate health insights.</li>
+</ul>
+<p style="color: blue; font-size: 1.2em; font-weight: bold;">
 Course Objectives
 </p>
 <ul>
-<li>Grasp fundamental concepts in geospatial analysis, including geographic data types, coordinate systems, and spatial relationships.</li>
-<li>Gain familiarity with R programming and relevant packages (<code>sf</code>, <code>sp</code>, <code>ggmap</code>) for handling and visualizing geospatial data.</li>
-<li>Learn to import, clean, and manipulate geospatial datasets for mapping and analysis.</li>
-<li>Master techniques for creating maps (e.g., choropleth, point, heatmaps) to communicate health-related information.</li>
-<li>Explore methods for identifying spatial patterns and trends in health data, such as clustering and hotspots.</li>
-<li>Learn to overlay additional datasets (e.g., demographic, environmental) on maps to enhance analysis.</li>
-<li>Develop skills to interpret map results and communicate findings to stakeholders and policymakers.</li>
-<li>Understand ethical issues in geospatial analysis, including privacy concerns and responsible data usage in health contexts.</li>
-<li>Apply learned techniques to real-world health datasets, working on case studies demonstrating the impact of spatial analysis on public health decisions.</li>
-<li>Foster a collaborative learning environment, encouraging participants to share insights and resources.</li>
+<li>Understand geospatial data types: vector (points, lines, polygons) and raster data.</li>
+<li>Work with formats like Shapefiles, GeoJSON, and raster datasets.</li>
+<li>Use R packages (<code>sf</code>, <code>sp</code>, <code>raster</code>, <code>ggmap</code>) for geospatial workflows.</li>
+<li>Clean, transform, and reproject spatial data (including handling missing values).</li>
+<li>Perform spatial joins, buffer analysis, and nearest neighbor calculations.</li>
+<li>Create choropleth maps, point maps, and interactive visualizations.</li>
+<li>Overlay demographic/environmental data to enrich health analyses.</li>
 </ul>
-<p style="color: green; font-size: 1.3em; font-weight: bold;">
-Course Topics
+<p style="color: blue; font-size: 1.2em; font-weight: bold;">
+Course Outline
 </p>
-<ol type="1">
-<li><strong>Introduction to Geospatial Analysis in Health Data Science</strong></li>
-</ol>
+<section id="course-outline" class="level2">
+<h2 class="anchored" data-anchor-id="course-outline">Course Outline</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 3%">
+<col style="width: 20%">
+<col style="width: 75%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>No.</th>
+<th>Topic</th>
+<th>Sub-topic</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Introduction to Geospatial Data</td>
+<td><ul>
+<li>Geospatial data types: vector (points, lines, polygons) and raster data</li>
+<li>Working with common formats like Shapefiles, GeoJSON, and raster datasets</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>R Tools for Geospatial Analysis</td>
+<td><ul>
+<li>Using essential R packages: <code>sf</code> (simple features), <code>raster</code>, <code>sp</code>, and <code>ggplot2</code><br>- Importing and exporting geospatial data into R</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Data Manipulation and Preprocessing</td>
+<td><ul>
+<li>Cleaning and transforming spatial data</li>
+<li>Handling missing or incomplete spatial data by applying appropriate methods for imputation or removal</li>
+<li>Coordinate reference systems and projections</li>
+<li>Reprojecting spatial data into different coordinate systems for consistent analysis</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Geospatial Analysis Techniques</td>
+<td><ul>
+<li>Spatial joins and overlays</li>
+<li>Buffer analysis</li>
+<li>Nearest neighbour analysis</li>
+<li>Spatial interpolation</li>
+<li>Geospatial statistics and spatial econometrics</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Visualization of Geospatial Data</td>
+<td><ul>
+<li>Creating maps with <code>ggplot2</code> and <code>tmap</code></li>
+<li>Adding map layers, styling, and customizing map elements (labels, legends, and scales)</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+<p style="color: blue; font-size: 1.2em; font-weight: bold;">
+Facilitators
+</p>
+<p><strong>UKZN Data Science Group:</strong></p>
 <ul>
-<li>Importance of spatial analysis in public health</li>
-<li>Overview of geospatial concepts and terminology</li>
-</ul>
-<ol start="2" type="1">
-<li><strong>Getting Started with R and Geospatial Packages</strong></li>
-</ol>
-<ul>
-<li>Setting up R and RStudio for geospatial analysis</li>
-<li>Key packages: <code>sf</code>, <code>sp</code>, <code>ggmap</code>, <code>tmap</code>, and <code>leaflet</code></li>
-</ul>
-<ol start="3" type="1">
-<li><strong>Importing and Preparing Geospatial Data</strong></li>
-</ol>
-<ul>
-<li>Sources of geospatial data (e.g., shapefiles, GeoJSON)</li>
-<li>Importing data using <code>sf</code> and <code>sp</code></li>
-<li>Data cleaning and transformation for geospatial analysis</li>
-</ul>
-<ol start="4" type="1">
-<li><strong>Understanding Coordinate Systems and Projections</strong></li>
-</ol>
-<ul>
-<li>Basics of coordinate reference systems (CRS)</li>
-<li>Transforming and reprojecting spatial data</li>
-</ul>
-<ol start="5" type="1">
-<li>**Creating Basic Geospatial Visualizations</li>
-</ol>
-<ul>
-<li>Mapping points, lines, and polygons</li>
-<li>Customizing with colors, labels, and themes using <code>ggplot2</code></li>
-</ul>
-<ol start="6" type="1">
-<li><strong>Choropleth Maps and Thematic Mapping</strong></li>
-</ol>
-<ul>
-<li>Creating choropleth maps for health indicators</li>
-<li>Techniques for data classification and color scaling</li>
-</ul>
-<ol start="7" type="1">
-<li><strong>Exploring Spatial Patterns and Trends</strong></li>
-</ol>
-<ul>
-<li>Identifying and visualizing spatial patterns (e.g., clustering, hotspots)</li>
-<li>Spatial analysis techniques to investigate health data distributions</li>
-</ul>
-<ol start="8" type="1">
-<li><strong>Integrating Additional Datasets for Enhanced Analysis</strong></li>
-</ol>
-<ul>
-<li>Overlaying demographic, environmental, or other relevant data</li>
-<li>Working with raster data (e.g., satellite imagery)</li>
-</ul>
-<ol start="9" type="1">
-<li><strong>Interactive Mapping with Leaflet</strong></li>
-</ol>
-<ul>
-<li>Creating interactive maps for web applications</li>
-<li>Features like pop-ups, markers, and layers</li>
-</ul>
-<ol start="10" type="1">
-<li><strong>Case Studies in Health Geospatial Analysis</strong></li>
-</ol>
-<ul>
-<li>Real-world health datasets (e.g., disease outbreaks, healthcare access)</li>
-<li>Group projects on specific health issues using geospatial methods</li>
-</ul>
-<ol start="11" type="1">
-<li><strong>Ethical Considerations in Geospatial Analysis</strong></li>
-</ol>
-<ul>
-<li>Privacy, data security, and ethical implications in mapping health data</li>
-</ul>
-<ol start="12" type="1">
-<li><strong>Resources for Further Learning</strong></li>
-</ol>
-<ul>
-<li>Recommended books, online courses, and communities for continued exploration in health data science</li>
+<li>Prof Temesgen Zewotir</li>
+<li>Prof Henry Mwambi</li>
+<li>Prof Knowledge Chinhamu</li>
+<li>Prof Retius Chifurira</li>
+<li>Prof Faustin Habyarimana</li>
+<li>Dr.&nbsp;Zelalem Getahun</li>
+<li>Dr.&nbsp;Jesca Batidzirai</li>
+<li>Dr.&nbsp;Mohanad Mohammed</li>
 </ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

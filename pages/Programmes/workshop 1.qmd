@@ -2,86 +2,87 @@
 title: ""
 ---
 
-<p style="color: green; font-size: 1.6em; font-weight: bold;">Workshop 1: Health Data Science: Data Visualizations and Wrangling with R</p>
+<p style="color: green; font-size: 1.6em; font-weight: bold;">
+Workshop: Data Wrangling and Data Visualizations in Health Data Science with R
+</p>
 
-- Short course by the UKZN Data Science Group on data wrangling and visualization with R for health data science.
+<p style="color: red; font-size: 1.2em; font-weight: bold;">
+One- Day Training Course Outline
+</p>
 
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Course Description
+</p>
 
-**Presented by:** <p style="color: red; font-size: 1.3em; font-weight: bold;">UKZN Data Science Group</p>  
+This hands-on course provides a comprehensive introduction to data manipulation and visualization using R, specifically tailored for health data science. Participants will learn essential skills for cleaning, transforming, and visualizing healthcare datasets including patient records, clinical trials, and public health data. Through practical exercises, attendees will gain proficiency in using R's Tidyverse ecosystem to derive insights from complex health data.
 
-<p style="color: red; font-size: 1.2em; font-weight: bold;">Instructors:</p> 
+<p style="red: green; font-size: 1.2em; font-weight: bold;">
+Course Prerequisites
+</p>
 
-- Prof. Temesgen Zewotir  
-- Prof. Henry Mwambi  
-- Prof. Retius Chifurira  
-- Prof. Faustin Habyarimana  
-- Dr. Zelalem Getahun  
-- Dr. Jesca Batidzirai  
-- Dr. Mohanad Mohammed  
+-   Basic familiarity with R syntax and RStudio interface
+-   Understanding of fundamental data types (vectors, data frames)
 
-<p style="color: green; font-size: 1.3em; font-weight: bold;">Course Description</p>
+<p style="color: green; font-size: 1.2em; font-weight: bold;">
+Course Outcomes
+</p>
 
+-   Clean and prepare messy health datasets for analysis
+-   Perform advanced data transformations using dplyr and tidyr
+-   Create publication-quality visualizations with ggplot2
+-   Handle temporal health data and categorical variables effectively
 
-This intensive short course introduces essential skills in health data science, focusing on data wrangling and visualization using R. Participants will learn to clean, manipulate, and prepare health data for analysis, create compelling visualizations, and effectively communicate findings. Through hands-on exercises, students will gain practical experience with popular R packages such as `dplyr` and `ggplot2`, enabling them to transform complex datasets into clear insights. This course is ideal for beginners and healthcare professionals looking to enhance their data skills.
+<p style="color: green; font-size: 1.2em; font-weight: bold;">
+Course Objectives
+</p>
 
-<p style="color: green; font-size: 1.3em; font-weight: bold;">Main Objectives</p>
+-   Master RStudio for health data analysis workflows
+-   Develop strategies for handling missing values in medical datasets
+-   Implement efficient data merging/joining techniques for multi-source health data
+-   Create diagnostic visualizations for health metrics (blood pressure, age distributions, etc.)
+-   Transform data between wide/long formats for different analytical needs
+-   Generate time-series visualizations for patient monitoring and trend analysis
 
+<p style="color: red; font-size: 1.2em; font-weight: bold;">
+Course Outline
+</p>
 
-- **Understand the Role of Data Analysis:** Grasp how data analysis informs healthcare decisions and policies.
-- **Foundational R Programming Skills:** Develop skills in R and become familiar with RStudio as a development environment.
-- **Data Import and Export:** Learn efficient methods for importing and exporting data in various formats.
-- **Data Manipulation with dplyr and tidyr:** Clean and manipulate health data by filtering, summarizing, and reshaping datasets.
-- **Handling Missing Data:** Identify missing values and apply strategies for imputation to maintain data integrity.
-- **Creating Visualizations with ggplot2:** Produce visualizations such as bar charts, scatter plots, and heatmaps to effectively communicate insights.
-- **Interpreting and Communicating Results:** Convey findings clearly to diverse audiences, emphasizing context and implications.
-- **Case Studies in Health Data:** Apply learned techniques to real-world health data sets in public health and clinical practice.
-- **Ethics in Data Presentation:** Understand the ethical implications, including privacy, bias, and responsible data use.
-- **Continuous Learning:** Foster a mindset of continuous improvement, encouraging collaboration and providing resources for further study.
++--------------+------------------------------------+---------------------------------------------------+
+| **Sessions** | **Topic**                          | **Sub-Topics**                                    |
++==============+====================================+===================================================+
+| 1            | **R Fundamentals for Health Data** | -   RStudio setup & workflow                      |
+|              |                                    | -   Importing health data (CSV, Excel, databases) |
+|              |                                    | -   Exploring public health datasets              |
++--------------+------------------------------------+---------------------------------------------------+
+| 2            | **Health Data Wrangling**          | -   Handling missing values                       |
+|              |                                    | -   Filtering/selecting medical data              |
+|              |                                    | -   Merging clinical datasets                     |
++--------------+------------------------------------+---------------------------------------------------+
+| 3            | **Advanced Transformations**       | -   dplyr pipelines (%\>%)                        |
+|              |                                    | -   Grouped aggregations                          |
+|              |                                    | -   Date/time handling                            |
+|              |                                    | -   Factor management                             |
++--------------+------------------------------------+---------------------------------------------------+
+| 4            | **Visualization Foundations**      | -   ggplot2 grammar of graphics                   |
+|              |                                    | -   Health metric distributions                   |
+|              |                                    | -   Temporal visualization techniques             |
++--------------+------------------------------------+---------------------------------------------------+
+| 5            | **Specialized Health Visuals**     | -   Faceted plots by demographics                 |
+|              |                                    | -   Custom themes for medical reporting           |
+|              |                                    | -   Interactive exploration                       |
++--------------+------------------------------------+---------------------------------------------------+
 
+<p style="color: blue; font-size: 1.2em; font-weight: bold;">
+Facilitators
+</p>
 
+**UKZN Data Science Group:**
 
-<p style="color: green; font-size: 1.3em; font-weight: bold;">Course Topics</p>
-
-1. **Introduction to R for Health Data Science**
-   - Setting up R and RStudio
-   - Basic R syntax and data structures (vectors, data frames, lists)
-
-2. **Data Import and Export**
-   - Importing data from various sources (CSV, Excel, databases)
-   - Exporting cleaned data for analysis or reporting
-
-3. **Data Wrangling Techniques**
-   - Introduction to the tidyverse package
-   - Using dplyr for data manipulation (filtering, selecting, arranging, summarizing)
-   - Reshaping data with tidyr (pivoting, gathering, spreading)
-
-4. **Handling Missing Data**
-   - Identifying and understanding missing data
-   - Strategies for imputation and data cleaning
-
-5. **Data Visualization Principles**
-   - Importance of visualization in health data science
-   - Choosing the right type of visualization for different data types
-
-6. **Creating Visualizations with ggplot2**
-   - Introduction to ggplot2 syntax and structure
-   - Creating basic plots: bar charts, histograms, scatter plots
-   - Customizing visualizations (colors, labels, themes)
-
-7. **Advanced Visualization Techniques**
-   - Faceting and combining multiple plots
-   - Visualizing time series data
-   - Heatmaps and correlation plots
-
-8. **Interpreting and Communicating Results**
-   - Best practices for presenting visualizations
-   - Writing effective captions and annotations
-   - Ethical considerations in data presentation
-
-9. **Case Studies and Applications**
-   - Analyzing real-world health datasets (e.g., public health data, clinical trials)
-   - Group projects on specific health issues
-
-10. **Resources for Further Learning**
-   - Recommended books, online courses, and communities
-   - Exploring additional R packages for health data analysis
+-   Prof Temesgen Zewotir
+-   Prof Henry Mwambi
+-   Prof Knowledge Chinhamu
+-   Prof Retius Chifurira
+-   Prof Faustin Habyarimana
+-   Dr. Zelalem Getahun
+-   Dr. Jesca Batidzirai
+-   Dr. Mohanad Mohammed
