@@ -17,7 +17,7 @@ title: ""
 </style>
 
 <p class="border-flash" style="color: blue; font-size: 1.8em; font-weight: bold; text-align: center;">
-    Deadline Extended to 15 April 2025, 23:59, CEST
+    Deadline Extended to 30 April 2025, 23:59, CEST
 </p>
 
 - We are happy to announce that the deadline for Abstract submissions has been extended to 15 April 2025, 23:59, CEST.
@@ -77,7 +77,7 @@ We invite original research papers and reviews on themes including, but not limi
 
 <p style="color: green; font-size: 1.5em; font-weight: bold;"> Submission Guidelines:</p>
 
-- **Abstract submission:** Please submit a maximum of a 300-word abstract by 31 March 2025. <span style="color: red; font-weight: bold;">(Extended to: 15 April 2025)</span>
+- **Abstract submission:** Please submit a maximum of a 300-word abstract by 31 March 2025. <span style="color: red; font-weight: bold;">(Extended to: 30 April 2025)</span>
 
 - **Full paper submission:** Accepted abstracts will beinvited for full paper submission by 15 June 2025.
 - **Format:** Papers should be formatted according to the conference guidelines (details to be provided upon acceptance of abstracts).
