@@ -33,8 +33,7 @@ website:
             href: pages/conferenceatglance/Sessions.qmd
           - text: "Schedule"
             href: pages/conferenceatglance/Schedule.qmd
-      
-      - text: "Programmes"
+      - text: "Workshops"
         menu:
           - text: "Conference programme"
             href: pages/Programmes/conferece.qmd

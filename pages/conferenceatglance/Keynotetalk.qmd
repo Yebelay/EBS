@@ -2,13 +2,10 @@
 title: ""
 ---
 
-<p style="color: green; font-size: 1.6em; font-weight: bold;">
-  Keynote Talk and Contributed Presentations on Biostatistics and Data Science
+<p style="color: green; font-size: 1.2em; font-weight: bold;">
+  Keynote Talk: Contemporary Research Methods and Applications in Biostatistics and Data Science- Keynote Talk
 </p>
 
-<p style="color: black; font-size: 1.3em; font-weight: bold;">
-  Keynote Talk
-</p>
 
 <ul style="font-size: 1.1em;">
   <li><strong>Topic:</strong> Contemporary Research Methods and Applications in Biostatistics and Data Science</li>
