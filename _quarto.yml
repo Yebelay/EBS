@@ -20,6 +20,18 @@ website:
       - href: pages/CallForAbstracts.qmd
         text: "Call for Abstracts"  
       - href: pages/Abstracts.qmd
+        text: "Submit Abstract"
+      - text: "Conference at Glance"
+        menu:
+          - text: "Capacity building"
+            href: pages/conferenceatglance/capacitybuilding.qmd
+          - text: "Keynote talk"
+            href: pages/conferenceatglance/Keynotetalk.qmd
+          - text: "Sessions and Topics"
+            href: pages/conferenceatglance/Sessions.qmd
+          - text: "Schedule"
+            href: pages/conferenceatglance/Schedule.qmd
+      
       - text: "Programmes"
         menu:
           - text: "Conference programme"
@@ -30,6 +42,8 @@ website:
             href: pages/Programmes/workshop 1.qmd
           - text: "Workshop 2"
             href: pages/Programmes/workshop 2.qmd
+          - text: "Workshop 3"
+            href: pages/Programmes/workshop 3.qmd
           - text: "other program"
             href: pages/Programmes/other.qmd
 

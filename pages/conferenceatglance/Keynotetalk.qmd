@@ -1,0 +1,45 @@
+---
+title: ""
+---
+
+<p style="color: green; font-size: 1.6em; font-weight: bold;">
+  Keynote Talk and Contributed Presentations on Biostatistics and Data Science
+</p>
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+  Keynote Talk
+</p>
+
+<ul style="font-size: 1.1em;">
+  <li><strong>Topic:</strong> Contemporary Research Methods and Applications in Biostatistics and Data Science</li>
+  <li><strong>Presenter:</strong> Senior Principal Investigator, SSACAB Consortium</li>
+</ul>
+
+<p style="font-size: 1.1em;">
+  Join us for an insightful keynote address focusing on the latest research methods and applications in biostatistics and data science within the SSACAB Consortium. This talk will highlight innovative approaches and their implications for advancing the field in Africa.
+</p>
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+  Contributed Talks
+</p>
+
+<p style="font-size: 1.1em;">
+  Following the keynote, we will feature a series of contributed talks presented by our fellows and researchers within the SSACAB Consortium. These shorter presentations will showcase cutting-edge research and contributions in biostatistics and data science from across Africa.
+</p>
+
+<p style="color: red; font-size: 1.2em; font-weight: bold;">
+  Session Highlights
+</p>
+
+<ul style="font-size: 1.1em;">
+  <li><strong>Keynote Address:</strong> Gain insights into contemporary research methodologies from a leading expert in the field.</li>
+  <li><strong>Contributed Presentations:</strong> Discover a variety of research topics presented by emerging scholars and professionals, emphasizing the impact and growth of biostatistics and data science in the region.</li>
+</ul>
+
+<p style="color: blue; font-size: 1.0em; font-weight: bold;">
+  Join Us
+</p>
+
+<p style="font-size: 1.1em;">
+  This session promises to be a valuable opportunity for learning, collaboration, and networking among researchers dedicated to advancing biostatistics and data science in Africa. Don’t miss out on this chance to engage with pioneering work in the field!
+</p>
