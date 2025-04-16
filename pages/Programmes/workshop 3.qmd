@@ -6,7 +6,7 @@ title: ""
 Workshop 3: Linear Mixed Model Analysis of Correlated Data
 </p>
 
-<p><strong>Presented by:</strong> Dr. Alison Kelly and Clayton Forknall<br>
+<p><strong>Presented by:</strong> Dr. Alison Kelly change by Prof. Alison Kelly<br>
                          The University of Queensland, Australia</p>
 
 <p style="color: red; font-size: 1.2em; font-weight: bold;">
