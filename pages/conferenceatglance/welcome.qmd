@@ -1,0 +1,44 @@
+---
+title: ""
+---
+
+<p style="color: green; font-size: 1.6em; font-weight: bold;">
+Welcome Speech by the President of IBS Ethiopian Region<br>
+for Participants of the 19th Biennial SUSAN Conference – Addis Ababa, Ethiopia
+</p>
+
+<p style="font-size: 1.1em; color: gray; font-style: italic;">
+03 September 2025
+</p>
+
+<p style="font-size: 1.1em;">
+Honorable guests, esteemed colleagues, and distinguished members of the International Biometrics Society,
+</p>
+
+<p style="font-size: 1.1em;">
+It is an immense privilege to welcome you all to the <strong>19th Biennial Conference of the Sub-Saharan Network (SUSAN)</strong> of the IBS—a gathering that stands as a testament to our shared commitment to advancing biometrics and data science for the betterment of health and agriculture across the developing world.
+</p>
+
+<p style="font-size: 1.1em;">
+As we convene here in <strong>Addis Ababa, Ethiopia</strong>, we embark on a journey of knowledge exchange, collaboration, and innovation. The Ethiopian Biometric Society, alongside our partners at IBS, is deeply honored to host this distinguished event, bringing together some of the brightest minds in biostatistics, bioinformatics, artificial intelligence, and data science.
+</p>
+
+<p style="font-size: 1.1em;">
+Our <em><strong>conference theme—"Biometrics and data science to enhance health and agriculture in the developing world"</strong></em>—reminds us of our duty to harness the power of data and analytics in solving real-world challenges. In an era marked by rapid technological evolution, the ability to analyze, predict, and optimize solutions has never been more critical. From addressing disease burden estimation to pioneering machine learning applications in agriculture, the insights shared over the next few days will shape the future of biometrics in vital sectors.
+</p>
+
+<p style="font-size: 1.1em;">
+We extend our sincere gratitude to all researchers, academicians, practitioners, and students who have joined us for this occasion. The diversity of perspectives and expertise in this room serves as the driving force of innovation. As we move forward, let us remain committed to fostering ethical research, embracing collaboration, and ensuring that our work translates into tangible progress for communities in need.
+</p>
+
+<p style="font-size: 1.1em;">
+Let this conference be a catalyst for change. Let it inspire groundbreaking discoveries, strengthen professional networks, and reinforce our shared vision for a data-driven future that uplifts societies across Africa and beyond.
+</p>
+
+<p style="font-size: 1.1em; font-weight: bold; color: navy;">
+Together, we shape tomorrow. Together, we build a legacy.
+</p>
+
+<p style="color: blue; font-size: 1.2em; font-weight: bold;">
+Welcome to IBS SUSAN 2025!
+</p>

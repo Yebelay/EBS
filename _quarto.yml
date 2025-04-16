@@ -23,6 +23,8 @@ website:
         text: "Submit Abstract"
       - text: "Conference at Glance"
         menu:
+          - text: "Welcome Speech"
+            href: pages/conferenceatglance/welcome.qmd
           - text: "Capacity building"
             href: pages/conferenceatglance/capacitybuilding.qmd
           - text: "Keynote talk"
