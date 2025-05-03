@@ -27,8 +27,6 @@ website:
             href: pages/conferenceatglance/capacitybuilding.qmd
           - text: "Keynote Address"
             href: pages/conferenceatglance/Keynotetalk.qmd
-          - text: "Schedule"
-            href: pages/conferenceatglance/Schedule.qmd
           - text: "Pre-conference Workshops"
             href: pages/Programmes/workshop-overview.qmd
       - text: "Conference Information"

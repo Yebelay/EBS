@@ -1,0 +1,35 @@
+---
+title: ""
+format: html
+---
+
+<p style="font-size: 1.1em; margin-bottom: 20px;">
+Addis Ababa, Ethiopia’s vibrant capital, seamlessly blends ancient traditions with modern innovation. As the diplomatic heart of Africa, it boasts historical treasures like the National Museum of Ethiopia, the Holy Trinity Cathedral, etc. Visitors can immerse themselves in a rich tapestry of culture, cuisine, and warm hospitality. Whether exploring centuries-old churches or contemporary art galleries, Addis Ababa offers unforgettable experiences at every turn.
+</p>
+
+<p style="color: red; font-size: 1.5em; font-weight: bold; margin-top: 40px;">
+Tours and Excursions
+</p>
+
+<p style="font-size: 1.1em; margin-bottom: 20px;">
+Below are some recommended tour and excursion options available through third-party providers. Please click on the links for more details and registration instructions.
+<br><br>
+
+
+<ul style="font-size: 1.1em; margin-left: 20px;">
+  <li><a href="https://momaa.org/directory/national-museum-of-ethiopia/" target="_blank"><b>National Museum of Ethiopia</b></a> — Home to the famous fossil "Lucy" and a remarkable collection of Ethiopia’s archaeological and historical treasures.</li>
+  <li><a href="https://eotc-htc.org/e/" target="_blank"><b>Holy Trinity Cathedral</b></a> — One of Ethiopia’s most important religious sites, known for its stunning stained-glass windows and imperial history.</li>
+  <li><a href="https://unitypark.et/" target="_blank"><b>Unity Park at the National Palace</b></a> — A beautifully restored historic site showcasing Ethiopia’s cultural, natural, and political heritage.</li>
+  <li><a href="https://momaa.org/directory/ethnological-museum-addis-ababa/" target="_blank"><b>Ethnological Museum</b></a> — Located within Haile Selassie’s former palace, this museum offers fascinating insights into Ethiopia’s diverse cultures.</li>
+  <li><a href="https://www.cipdh.gob.ar/memorias-situadas/en/lugar-de-memoria/museo-memorial-de-los-martires-del-terror-rojo/" target="_blank"><b>Red Terror Martyrs’ Memorial Museum</b></a> — A moving memorial documenting Ethiopia’s modern political history.</li>
+
+<li><a href="https://adwavictorymemorial.et/" target="_blank"><b>Victory Memorial Museum (Adwa Victory Memorial Museum)</b></a> — A new and impressive museum honoring Ethiopia's victory at the Battle of Adwa, showcasing Ethiopia’s proud history and heritage.</li>
+
+<li><a href="	https://www.entoto-natural-park.org/" target="_blank"><b>Entoto Park</b></a> — A massive eco-park offering adventure sports, restaurants, cultural centers, and breathtaking scenery atop Mount Entoto.</li>
+
+
+</ul>
+
+<p style="font-size: 1.0em; margin-top: 30px;">
+<b>We encourage visitors to plan ahead</b> — spaces on popular tours may be limited. Immerse yourself in the beauty, resilience, and energy of Addis Ababa during your stay!
+</p>

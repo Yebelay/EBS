@@ -7,13 +7,13 @@ about:
 
 <!-- Welcome Section with large, stylish text -->
 <section id="welcome" class="welcome-section">
-  <h1 class="welcome-heading">Welcome to the Ethiopian Biometric Society</h1>
+  <h1 class="welcome-heading">Welcome to the IBS Ethiopian Region / Ethiopian Biometric Society</h1>
   <p class="welcome-subtitle">Advancing Life Sciences through Statistical Excellence</p>
 </section>
 
-## [Ethiopian Biometry Society (EBS)]{style="color: blue"}
+## [IBS Ethiopian Region]{style="color: blue"}
 
-The Ethiopian Region, founded in 1999, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan African countries that promote the advancement of life sciences through the development, application, and dissemination of effective mathematical and statistical methods.
+The Ethiopian Region, founded in 1994, is an active Region of IBS. In addition to this, they are a member of the Sub-Sahara African Network, or SUSAN, which is a network of national biometric groups of the Sub-Saharan African countries that promote the advancement of life sciences through the development, application, and dissemination of effective mathematical and statistical methods.
 
 <a href="#" id="learn-more-intro" onclick="toggleSection('intro-details', 'learn-more-intro'); return false;">Click to learn more</a>
 

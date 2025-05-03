@@ -7,7 +7,8 @@ format: html
 |---------------------------------------------|--------------------------|
 |  Abstract Submission                        | **Passed**               |
 |  Notification of Acceptance                 | 20 March – 20 May 2025   |
-|  Full Paper Submission Deadline             | 15 June 2025             |
-|  Conference Dates                           | 03–08 September 2025     |
+|  Full Paper Submission Deadline             | 20 July 2025             |
+|  Conference Dates                           | 3–8 September 2025       |
 |  Submit your abstract [here](Abstracts.qmd) | 30 April 2025            |
 |  Registration                               | To be announced          |
+
