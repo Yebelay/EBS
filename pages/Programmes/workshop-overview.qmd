@@ -6,7 +6,7 @@ title: ""
 
 <p><strong>The 19th Biennial Conference of the Sub-Saharan Network (SUSAN) of the International Biometrics Society (IBS)</strong><br>
 Pre-Workshops at the SUSAN Conference<br>
-<strong>Dates:</strong> September 3–4, 2025<br>
+<strong>Dates:</strong> 3–4 September 2025<br>
 <strong>Location:</strong> Elilly International Hotel, Addis Ababa, Ethiopia
 </p>
 
@@ -14,7 +14,7 @@ Pre-Workshops at the SUSAN Conference<br>
 
 **Instructors:** Prof. Temesgen Zewotir, Prof. Henry Mwambi, Prof. Knowledge Chinhamu, Prof. Retius Chifurira, Prof. Faustin Habyarimana, Dr. Zelalem Getahun, Dr. Jesca Batidzirai, Dr. Mohanad Mohammed.  
 **Description:** This one-day workshop provides intensive training on data wrangling and data visualization techniques in health data science using R.  
-**Date:** September 3, 2025  
+**Date:** 3 September 2025  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
 [Learn more about Workshop 1](workshop 1.qmd)
@@ -25,7 +25,7 @@ Pre-Workshops at the SUSAN Conference<br>
 
 **Instructors:** Professor Alison Kelly and and Professor Clayton Forknall from the University of Queensland, Australia.  
 **Description:** This two-day workshop focuses on linear mixed models for the analysis of correlated health data, including theory and practical applications.  
-**Dates:** September 3–4, 2025  
+**Dates:** 3–4 September 2025  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
 [Learn more about Workshop 2](workshop 2.qmd)
@@ -36,7 +36,7 @@ Pre-Workshops at the SUSAN Conference<br>
 
 **Instructors:** Dr. Rudradev Sengupta (rudradev.sengupta@one2treat.com) and Prof. Dr. Ziv Shkedy (ziv.shkedy@uhasselt.be).  
 **Description:** This one-day workshop covers data analysis, modeling, report generation, and online content development using R.  
-**Date:** September 4, 2025  
+**Date:** 4 September 2025  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
 [Learn more about Workshop 3](workshop 3.qmd)
@@ -47,7 +47,7 @@ Pre-Workshops at the SUSAN Conference<br>
 
 **Instructors:** Prof. Temesgen Zewotir, Prof. Henry Mwambi, Prof. Knowledge Chinhamu, Prof. Retius Chifurira, Prof. Faustin Habyarimana, Dr. Zelalem Getahun, Dr. Jesca Batidzirai, Dr. Mohanad Mohammed.  
 **Description:** This one-day workshop introduces participants to geospatial mapping techniques for health data science using R.  
-**Date:** September 4, 2025  
+**Date:** 4 September 2025  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
 [Learn more about Workshop 4](workshop 4.qmd)
@@ -58,18 +58,18 @@ Pre-Workshops at the SUSAN Conference<br>
 
 **Instructors:** Professor Ding-Geng Chen, Fellow of ASA and Distinguished Professor at UNC-Chapel Hill.  
 **Description:** This one-day workshop explores the handling of time-varying covariates in statistical modeling, essential for longitudinal health studies.  
-**Date:** (Details to be confirmed)  
+**Date:** 3 or 4 (Details to be confirmed)  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
 [Learn more about Workshop 5](workshop 5.qmd)
 
 ---
 
-<p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 6: How to Prepare a Manuscript for Publication</p>
+<p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 6: How to Prepare a Manuscript for Publication (*to be confirmed*)</p>
 
 **Instructors:** Professor Andreas Ziegler, University of Kassel.  
 **Description:** This workshop offers practical guidance on preparing scientific manuscripts for successful publication in peer-reviewed journals.  
-**Date:** September 7, 2025 (2 PM to 6 PM)  
+**Date:** 3 or 4 September 2025 
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
 [Learn more about Workshop 6](workshop 6.qmd)

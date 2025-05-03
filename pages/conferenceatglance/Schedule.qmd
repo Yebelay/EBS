@@ -1,4 +1,32 @@
 ---
-title: "Schedule"
-editor: visual
+title: ""
 ---
+
+<p style="color: red; font-size: 1.7em; font-weight: bold;">Conference Information</p>
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;">Schedule at a Glance</p>
+
+
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">Pre-Conference Workshop: 3-4 September 2025</p>
+
+
+| Day                          | Date                    | Events                     |
+|------------------------------|-------------------------|----------------------------|
+| **Day 1: Wednesday**         | 03 September 2025       | Registration               |
+|                              |                         | Short Courses              |
+| **Day 2: Thursday**          | 04 September 2025       | Short Courses              |
+
+---
+
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">Conference and AGM: 5-8 September 2025</p>
+
+
+| Day                          | Date                    | Events                               |
+|------------------------------|-------------------------|--------------------------------------|
+| **Day 3: Friday**            | 5 September 2025        | Registration, Invited Sessions   |
+|                              |                         | Contributed Sessions                 |
+| **Day 4: Saturday**          | 6 September 2025        | Invited Sessions                     |
+|                              |                         | Contributed Sessions                 |
+| **Day 5: Sunday**            | 7 September 2025        | Special Addis Ababa Tours & Excursions (no sessions today)                     |
+| **Day 6: Monday**            | 8 September 2025        | Invited Sessions, Contributed Sessions |
+|                              |                         | Closing Ceremony     |
