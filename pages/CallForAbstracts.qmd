@@ -2,6 +2,7 @@
 title: ""
 ---
 
+<!--
 <style>
 @keyframes borderFlash {
     0% { border-color: red; }
@@ -16,12 +17,14 @@ title: ""
 }
 </style>
 
+
 <p class="border-flash" style="color: blue; font-size: 1.8em; font-weight: bold; text-align: center;">
     Deadline Extended to 30 April 2025, 23:59, CEST
 </p>
 
 - We are happy to announce that the deadline for Abstract submissions has been extended to 30 April 2025, 23:59, CEST.
 
+-->
 
 <div style="text-align: center;">
 <p style="color: green; font-size: 1.5em; font-weight: bold;"> Call for Abstract: IBS SUSAN2025 Conference </p>
@@ -77,17 +80,17 @@ We invite original research papers and reviews on themes including, but not limi
 
 <p style="color: green; font-size: 1.5em; font-weight: bold;"> Submission Guidelines:</p>
 
-- **Abstract submission:** Please submit a maximum of a 300-word abstract by 31 March 2025. <span style="color: red; font-weight: bold;">(Extended to: 30 April 2025)</span>
+- **Abstract submission:** Please submit a maximum of a 300-word abstract by 30 April 2025. 
 
-- **Full paper submission:** Accepted abstracts will beinvited for full paper submission by 15 June 2025.
+- **Full paper submission:** Accepted abstracts will be invited for full paper submission by 15 June 2025.
 - **Format:** Papers should be formatted according to the conference guidelines (details to be provided upon acceptance of abstracts).
 
 <div style="font-family: Arial, sans-serif;">
 
 <p style="font-weight: bold; color: green;">Important Dates</p>
 
-<p><strong>Abstract Submission:</strong> <span style="color: red;">4 November 2024 - 15 April 2025</span></p>
-<p><strong>Notification of Acceptance:</strong> <span style="color: red;">30 April 2025</span></p>
+<p><strong>Abstract Submission:</strong> <span style="color: red;">4 November 2024 - 30 April 2025</span></p>
+<p><strong>Notification of Acceptance:</strong> <span style="color: red;">20 March - May 20, 2025</span></p>
 <p><strong>Full Paper Submission Deadline:</strong> <span style="color: red;">15 June 2025</span></p>
 <p><strong>Conference Dates:</strong> <span style="color: red;">03-08 September 2025</span></p>
 
@@ -120,3 +123,15 @@ We invite original research papers and reviews on themes including, but not limi
 <p>We look forward to your contributions and to an exciting conference in Addis Ababa.</p>
 
 </div>
+
+## Submit Your Abstract
+
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSctE-TraV6rwvSbSsNBMxo4UbAVS5Cb9h77wYsUff8BquOSgA/viewform1" target="_blank">
+
+<button type="submit" class="submit-button">
+
+Submit Abstract
+
+</button>
+
+</form>

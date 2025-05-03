@@ -1,38 +1,69 @@
 ---
 title: ""
+format: html
 ---
 
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
-Workshop 3: Linear Mixed Model Analysis of Correlated Data
+Workshop 3: Data Analysis, Modeling, Reporting, Output Production and Online Content Development Using R
 </p>
 
-<p><strong>Presented by:</strong> Dr. Alison Kelly change by Prof. Alison Kelly<br>
-                         The University of Queensland, Australia</p>
-
 <p style="color: red; font-size: 1.2em; font-weight: bold;">
-Two- Day Training Course Outline
+One-Day Training Course Outline
 </p>
 
 <p style="color: black; font-size: 1.3em; font-weight: bold;">
 Course Description
 </p>
 
-- **Introduction to Linear Mixed Models:** Understand the framework and its advantages for analyzing data from designed experiments.
+A modern data analysis requires not only analyzing a dataset but also communicating the data analysis and modeling results, and producing high-quality outputs that can be shared with clients, students, colleagues, etc. In many cases, the data analyst is also asked to develop software to conduct the data analysis and provide training materials for the developed software.
 
-- **Progressive Development:** Start with simple linear models and gradually incorporate more complex fixed and random effects using Residual Maximum Likelihood (REML) estimation.
+The course covers examples of data analysis and the methods/approaches to produce different types of outputs related to data analysis that can be shared online and offline with data providers, colleagues, and students.
 
-- **Complex Variance Structures:** Learn how to extend models to fit complex variance structures that account for dependencies over time and space.
+For all the examples covered in the course, we use the R software.
 
-- **Practical Sessions:** Engage in hands-on activities using the R statistical software package, allowing participants to analyze their own research data.
-Who Should Attend?
-
-This workshop is ideal for researchers and practitioners in biological sciences who are looking to enhance their data analysis skills using linear mixed models. Whether you are new to the topic or seeking to deepen your understanding, this workshop will provide valuable insights and practical experience.
-
-
-<p style="color: blue; font-size: 1.0em; font-weight: bold;">
-Don’t miss this opportunity to learn from experts and improve your data analysis capabilities!
+<p style="color: green; font-size: 1.2em; font-weight: bold;">
+Course Prerequisites
 </p>
 
+- Basic familiarity with R, RStudio, and R Markdown
+- Basic knowledge of `ggplot2`
+- Participants are encouraged to follow Workshop 1 on 03/09/25
 
+<p style="color: green; font-size: 1.2em; font-weight: bold;">
+For Whom?
+</p>
 
+The course was developed for the following groups:
 
+- Professional data scientists and (bio)statisticians, and PhD students who need to conduct analysis as part of a research project or data analysis task
+- Academic staff who need to teach a course, either as part of a curriculum or as a short training course
+- BSc and MSc students in data science, (bio)statistics, bioinformatics, and epidemiology
+
+<p style="color: red; font-size: 1.2em; font-weight: bold;">
+Course Outline
+</p>
+
+The course consists of two parts:
+
+- **Morning Sessions (3–3.5 hours):**  
+  Covering basic data analysis using R (both inference and modeling) and how to produce outputs that can be uploaded online (or used offline) based on the examples covered.
+
+- **Afternoon Sessions (3–3.5 hours):**  
+  Shifting gears to illustrate how the methods/approaches from the morning can be used to produce online materials for a website, online (and offline) books, publications, etc.
+
+<p style="color: green; font-size: 1.2em; font-weight: bold;">
+Course Materials
+</p>
+
+We follow an “open source” approach, and all course materials will be available for free online.  
+This includes:
+- Slides for the course
+- HTML files with the outputs produced for the examples
+- R Markdown files with the code for all examples covered in the course
+
+<p style="color: blue; font-size: 1.2em; font-weight: bold;">
+Teachers
+</p>
+
+- Dr. Rudradev Sengupta (rudradev.sengupta@one2treat.com)
+- Prof. Dr. Ziv Shkedy (ziv.shkedy@uhasselt.be)

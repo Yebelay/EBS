@@ -3,85 +3,36 @@ title: ""
 ---
 
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
-Workshop 2: Geospatial Mapping with R for Health Data R</p>
+Workshop 2: Linear Mixed Model Analysis of Correlated Data
+</p>
+
+<p><strong>Presented by:</strong> Prof. Alison Kelly and Professor Clayton Forknall <br>
+                         The University of Queensland, Australia</p>
 
 <p style="color: red; font-size: 1.2em; font-weight: bold;">
-One- Day Training Course Outline </p>
+Two- Day Training Course Outline
+</p>
 
 <p style="color: black; font-size: 1.3em; font-weight: bold;">
 Course Description
 </p>
 
-This course introduces geospatial data analysis and mapping using R, a powerful programming language for statistical computing and data visualization. Participants will learn to work with geospatial data, analyze spatial relationships, and create informative maps for visualizing geographic information in public health contexts. Through hands-on exercises, attendees will explore techniques for identifying spatial patterns, overlaying datasets, and communicating insights effectively.
+- **Introduction to Linear Mixed Models:** Understand the framework and its advantages for analyzing data from designed experiments.
 
-<p style="color: red; font-size: 1.2em; font-weight: bold;">
-Course Prerequisites
+- **Progressive Development:** Start with simple linear models and gradually incorporate more complex fixed and random effects using Residual Maximum Likelihood (REML) estimation.
+
+- **Complex Variance Structures:** Learn how to extend models to fit complex variance structures that account for dependencies over time and space.
+
+- **Practical Sessions:** Engage in hands-on activities using the R statistical software package, allowing participants to analyze their own research data.
+Who Should Attend?
+
+This workshop is ideal for researchers and practitioners in biological sciences who are looking to enhance their data analysis skills using linear mixed models. Whether you are new to the topic or seeking to deepen your understanding, this workshop will provide valuable insights and practical experience.
+
+
+<p style="color: blue; font-size: 1.0em; font-weight: bold;">
+Don’t miss this opportunity to learn from experts and improve your data analysis capabilities!
 </p>
 
--   Basic familiarity with R and RStudio (e.g., data structures, scripts).
--   Experience importing data (CSV, Excel, databases) into R.
-
-<p style="color: green; font-size: 1.2em; font-weight: bold;">
-Course Outcomes
-</p>
-
--   Load, manipulate, and visualize spatial data in R.
--   Apply common geospatial analysis techniques.
--   Create visually compelling maps to communicate health insights.
-
-<p style="color: blue; font-size: 1.2em; font-weight: bold;">
-Course Objectives
-</p>
-
--   Understand geospatial data types: vector (points, lines, polygons) and raster data.
--   Work with formats like Shapefiles, GeoJSON, and raster datasets.
--   Use R packages (`sf`, `sp`, `raster`, `ggmap`) for geospatial workflows.
--   Clean, transform, and reproject spatial data (including handling missing values).
--   Perform spatial joins, buffer analysis, and nearest neighbor calculations.
--   Create choropleth maps, point maps, and interactive visualizations.
--   Overlay demographic/environmental data to enrich health analyses.
-
-<p style="color: blue; font-size: 1.2em; font-weight: bold;">
-Course Outline
-</p>
-
-## Course Outline
-
-+-----+-------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-| No. | Topic                               | Sub-topic                                                                                                                                 |
-+=====+=====================================+===========================================================================================================================================+
-| 1   | Introduction to Geospatial Data     | -   Geospatial data types: vector (points, lines, polygons) and raster data                                                               |
-|     |                                     | -   Working with common formats like Shapefiles, GeoJSON, and raster datasets                                                             |
-+-----+-------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-| 2   | R Tools for Geospatial Analysis     | -   Using essential R packages: `sf` (simple features), `raster`, `sp`, and `ggplot2`<br>- Importing and exporting geospatial data into R |
-+-----+-------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-| 3   | Data Manipulation and Preprocessing | -   Cleaning and transforming spatial data                                                                                                |
-|     |                                     | -   Handling missing or incomplete spatial data by applying appropriate methods for imputation or removal                                 |
-|     |                                     | -   Coordinate reference systems and projections                                                                                          |
-|     |                                     | -   Reprojecting spatial data into different coordinate systems for consistent analysis                                                   |
-+-----+-------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-| 4   | Geospatial Analysis Techniques      | -   Spatial joins and overlays                                                                                                            |
-|     |                                     | -   Buffer analysis                                                                                                                       |
-|     |                                     | -   Nearest neighbour analysis                                                                                                            |
-|     |                                     | -   Spatial interpolation                                                                                                                 |
-|     |                                     | -   Geospatial statistics and spatial econometrics                                                                                        |
-+-----+-------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-| 5   | Visualization of Geospatial Data    | -   Creating maps with `ggplot2` and `tmap`                                                                                               |
-|     |                                     | -   Adding map layers, styling, and customizing map elements (labels, legends, and scales)                                                |
-+-----+-------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
 
 
-<p style="color: blue; font-size: 1.2em; font-weight: bold;">
-Facilitators
-</p>
 
-**UKZN Data Science Group:**
-
--   Prof Temesgen Zewotir
--   Prof Henry Mwambi
--   Prof Knowledge Chinhamu
--   Prof Retius Chifurira
--   Prof Faustin Habyarimana
--   Dr. Zelalem Getahun
--   Dr. Jesca Batidzirai
--   Dr. Mohanad Mohammed

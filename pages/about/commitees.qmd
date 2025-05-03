@@ -8,11 +8,11 @@ title: ""
 <p style="color: green; font-size: 1.3em; font-weight: bold;"> Advisory Committee (AC) </p>
 
 
-| Name                      | Country       | Position/Role                                      |
-|---------------------------|---------------|----------------------------------------------------|
+| Name                     | Country       | Position/Role                                      |
+|--------------------------|---------------|----------------------------------------------------|
 | Dr. Girma Taye           | Ethiopia      | SUSAN Secretary and Chair of AC                    |
 | Dr. Tilahun Asena        | Ethiopia      | President of EBS and Secretary of AC               |
-| Mrs. Jemila Mohammed      | Ethiopia      | DDG, Ethiopian Statistical Service (ESS)          |
+| Mrs. Jemila Mohammed     | Ethiopia      | DDG, Ethiopian Statistical Service (ESS)          |
 | Mr. Molla Asmare         | Ethiopia      | UNECA ACS                                         |
 | Prof. Alhassan Abukari   | Ghana         | SUSAN Coordinator                                   |
 | Dr. Nohlalnla Zuma       | South Africa  | SUSAN Mentor-Mentee Coordinator                     |
@@ -25,16 +25,20 @@ title: ""
 <p style="color: green; font-size: 1.3em; font-weight: bold;">Local Organizing Committee (LOC)</p>
 
 
-| Name                      | Position/Role | Affiliation                                       |
-|---------------------------|---------------|---------------------------------------------------|
-| Dr. Tilahun Asena         | Chair         | EPHI and President of EBS                         |
-| Dr. Girma Taye           | Vice Chair    | Addis Ababa University, Ethiopia                   |
-| Mr. Anteneh Yalew        | Secretary      | University of the Witwatersrand, South Africa     |
-| Yebelay Berehan          | Website        | Debre Markos University and C4ED, Ethiopia        |
-| Dr. Gezahegn Mekonnen    | Member        | Hawassa University, Ethiopia                       |
-| Belachew Hundie          | Member        | Arsi University, Ethiopia                          |
-| Minik Tsega              | Member        | Ethiopian Agricultural Research Institute          |
-| Dr. Merga Belina         | Member        | Addis Ababa University, Ethiopia                   |
+| Name                     | Position/Role | Affiliation                                       |
+|--------------------------|---------------|---------------------------------------------------|
+| Dr. Tilahun Asena        | Chair         | EPHI and President of EBS                         |
+| Dr. Girma Taye           | Vice Chair    | Addis Ababa University, Ethiopia                  |
+| Mr. Anteneh Yalew        | Secretary     | University of the Witwatersrand, South Africa     |
+| Mr. Yebelay Berehan      | Website       | Debre Markos University and C4ED, Ethiopia        |
+| Dr. Gezahegn Mekonnen    | Member        | Hawassa University, Ethiopia                      |
+| Mr. Belachew Hundie      | Member        | Arsi University, Ethiopia                         |
+| Mr. Diribsa Bedada       | Member        | University of Waterloo, Canada                    |
+| Dr. Sisay Wondaya        | Member        | Ethiopian Public Health Institute, Ethiopia       |
+| Dr. Fatuma Hassen        | Member        | Addis Ababa University, Ethiopia                  |
+| Mrs. Eskedar Girma       | Member        | Haramaya University, Ethiopia                     |
+| Minik Tsega              | Member        | Ethiopian Agricultural Research Institute         |
+| Dr. Merga Belina         | Member        | Addis Ababa University, Ethiopia                  |
 
 
 <p style="color: green; font-size: 1.3em; font-weight: bold;">Scientific Committee (SC)</p>
@@ -89,12 +93,12 @@ title: ""
 
 | Name                      | Position       | Affiliation                                      |
 |---------------------------|----------------|--------------------------------------------------|
-| Dr. Sisay Wondaya        | Chair          | Ethiopian Public Health Institute, Ethiopia       |
-| Dr. Fatuma Hassen        | Vice Chair     | Addis Ababa University, Ethiopia                  |
-| Mr. Awgchew Kiíe        | Secretary       | Addis Ababa University, Ethiopia                  |
-| Mrs. Eskedar Girma       | Member         | Haramaya University, Ethiopia                     |
-| Mr. Yeblay Berelie       | Member         | Debre Markos University and C4ED, Ethiopia        |
-| Mr. Belachew Melese      | Member         | Arsi University, Ethiopia                         |
+| Dr. Sisay Wondaya         | Chair          | Ethiopian Public Health Institute, Ethiopia      |
+| Dr. Fatuma Hassen         | Vice Chair     | Addis Ababa University, Ethiopia                 |
+| Mr. Awgchew Kiíe          | Secretary      | Addis Ababa University, Ethiopia                 |
+| Mrs. Eskedar Girma        | Member         | Haramaya University, Ethiopia                    |
+| Mr. Yeblay Berelie        | Member         | Debre Markos University and C4ED, Ethiopia       |
+| Mr. Belachew Melese       | Member         | Arsi University, Ethiopia                        |
 
 </div>
 

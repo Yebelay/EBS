@@ -1,0 +1,70 @@
+---
+title: ""
+format: html
+---
+
+<p style="color: red; font-size: 1.8em; font-weight: bold;">
+Hotel Information
+</p>
+
+<p style="color: green; font-size: 1.6em; font-weight: bold;">
+Ellely International Hotel
+</p>
+
+<p><strong>Address:</strong> Kazanchis, Kirkos Subcity 17/18, Addis Ababa, Ethiopia<br>
+<strong>Contact info:</strong> +251 0000-0000 | [www.elillyhotel.com](https://elillyhotel.com/ethiopian-biometric-society/)</a></p>
+
+
+<p style="color: red; font-size: 1.4em; font-weight: bold;">
+Conference Details
+</p>
+
+<p>The Ellely International Hotel is the host hotel for the IBS SUSAN2025 Conference. All scientific sessions will take place at this location. We highly encourage all attendees to book their stay at the host hotel.</p>
+
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">
+Rates
+</p>
+
+<p><strong>Price:</strong> $75.00 USD per night, plus taxes & fees.</p>
+
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">
+Booking Information
+</p>
+
+<ul>
+  <li><strong>Book Online:</strong> <a href="[BOOK YOUR STAY HERE]">BOOK YOUR STAY HERE</a></li>
+  <li><strong>Phone:</strong> +251 0000-000 (use code <strong>IBS SUSAN2025</strong>)</li>
+</ul>
+
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">
+Important Dates
+</p>
+
+<p><strong>Hotel Cut-off Date:</strong> August 30, 2025<br>
+After this date, our group rate is not guaranteed.</p>
+
+<p style="color: blue; font-size: 1.3em; font-weight: bold;">
+Early Arrival or Extended Stay
+</p>
+
+<p>Interested in arriving up to 3 days early or extending your stay for 3 days after the conference (03-08 September 2025) at the group rate?</p>
+
+<p>Please contact our IBS SUSAN2025 Group Bookings Coordinator at the Ellely International Hotel:</p>
+
+<ul>
+  <li><strong>Name:</strong> Mr. Belachew Melese</li>
+  <li><strong>Email:</strong> <a href="mailto:belachewmelese3@gmail.com">belachewmelese3@gmail.com</a></li>
+</ul>
+
+<p style="color: red; font-size: 1.4em; font-weight: bold;">
+Other Hotel Options
+</p>
+
+<p>If you prefer alternative accommodations, consider the following nearby hotels:</p>
+
+<ul>
+  <li>Inter Luxury Hotel</li>
+  <li>Radisson Blu Hotel, Addis Ababa</li>
+</ul>
+
+<p>Both options are conveniently located near the Ellely International Hotel. You can book your stay at either hotel if you prefer.</p>

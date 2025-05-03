@@ -15,38 +15,34 @@ website:
             href: pages/about/ourteam.qmd
           - text: "Committees for SUSAN Conference"
             href: pages/about/commitees.qmd
-      - href: pages/Registration.qmd
-        text: "Registration"
       - href: pages/CallForAbstracts.qmd
         text: "Call for Abstracts"  
-      - href: pages/Abstracts.qmd
-        text: "Submit Abstract"
-      - text: "Conference at Glance"
+      - text: "Scientific Program"
         menu:
+          - text: "Schedule at Glance"
+            href: pages/conferenceatglance/Schedule.qmd
           - text: "Welcome Speech"
             href: pages/conferenceatglance/welcome.qmd
-          - text: "Capacity building"
+          - text: "Capacity Building"
             href: pages/conferenceatglance/capacitybuilding.qmd
-          - text: "Keynote talk"
+          - text: "Keynote Address"
             href: pages/conferenceatglance/Keynotetalk.qmd
-          - text: "Sessions and Topics"
-            href: pages/conferenceatglance/Sessions.qmd
           - text: "Schedule"
             href: pages/conferenceatglance/Schedule.qmd
-      - text: "Workshops"
-        menu:
-          - text: "Conference programme"
-            href: pages/Programmes/conferece.qmd
-          - text: "Workshop Overview"
+          - text: "Pre-conference Workshops"
             href: pages/Programmes/workshop-overview.qmd
-          - text: "Workshop 1"
-            href: pages/Programmes/workshop 1.qmd
-          - text: "Workshop 2"
-            href: pages/Programmes/workshop 2.qmd
-          - text: "Workshop 3"
-            href: pages/Programmes/workshop 3.qmd
-          - text: "other program"
-            href: pages/Programmes/other.qmd
+      - text: "Conference Information"
+        menu:
+          - text: "Conference Deadlines"
+            href: pages/Programmes/deadline.qmd
+          - text: "Registration"
+            href: pages/Programmes/registration.qmd
+          - text: "Hotel Information"
+            href: pages/Programmes/hotel.qmd
+          - text: "Visa Information"
+            href: pages/Programmes/visa.qmd
+          - text: "Tours and Excursions"
+            href: pages/Programmes/tours.qmd
 
     right:
       - href: contact.qmd

@@ -23,10 +23,26 @@ title: ""
 </p>
 
 <ul style="font-size: 1.1em;">
-  <li><strong>Prof. Tobias Chirwa</strong> (University of the Witwatersrand, South Africa) will provide an overview of the <em>SSACAB consortium</em>, which aims to strengthen biostatistics education in sub-Saharan Africa.</li>
-  <li><strong>Prof. Ann Mwangi</strong> (Moi University, Kenya) will discuss the long-term <em>Moi-Brown collaboration</em> focused on HIV biostatistics research training and capacity development activities.</li>
-  <li><strong>Prof. Ziv Shkedy</strong> (Hasselt University, Belgium) will present an open-source E-learning platform, <em>eR-Biostat</em>, designed to support researchers, teachers, and students in statistics and data science.</li>
-  <li><strong>Prof. Tarylee Reddy</strong> (SA-MRC, South Africa) will give an overview of the <em>International Biometric Society's (IBS)</em> mentoring program and its activities in sub-Saharan Africa.</li>
+  <li>
+    <strong>Prof. Tobias Chirwa</strong> (University of the Witwatersrand, South Africa)  
+    <br><img src="ChirwaTF.jpg" alt="Prof. Tobias Chirwa" style="width:150px; margin-top:10px;">
+    <br>Overview of the <em>SSACAB consortium</em> strengthening biostatistics education in sub-Saharan Africa.
+  </li>
+  <li>
+    <strong>Prof. Ann Mwangi</strong> (Moi University, Kenya)  
+    <br><img src="Ann.jpg" alt="Prof. Ann Mwangi" style="width:150px; margin-top:10px;">
+    <br>Discussing the long-term <em>Moi-Brown collaboration</em> on HIV biostatistics research training.
+  </li>
+  <li>
+    <strong>Prof. Ziv Shkedy</strong> (Hasselt University, Belgium)  
+    <br><img src="ziv.png" alt="Prof. Ziv Shkedy" style="width:150px; margin-top:10px;">
+    <br>Presenting <em>eR-Biostat</em>, an open-source E-learning platform for data science education.
+  </li>
+  <li>
+    <strong>Prof. Tarylee Reddy</strong> (SA-MRC, South Africa)  
+    <br><img src="tarylee.jpg" alt="Prof. Tarylee Reddy" style="width:150px; margin-top:10px;">
+    <br>Overview of the <em>International Biometric Society's</em> mentoring program in sub-Saharan Africa.
+  </li>
 </ul>
 
 <p style="font-size: 1.1em;">
@@ -38,8 +54,14 @@ title: ""
 </p>
 
 <ul style="font-size: 1.1em;">
-  <li><strong>Chair:</strong> Prof. Samuel Manda (University of Pretoria, South Africa)</li>
-  <li><strong>Discussant:</strong> Prof. Misrak Gezmu (NIH, USA)</li>
+  <li>
+    <strong>Chair:</strong> Prof. Samuel Manda (University of Pretoria, South Africa)  
+    <br><img src="manda.jpg" alt="Prof. Samuel Manda" style="width:150px; margin-top:10px;">
+  </li>
+  <li>
+    <strong>Discussant:</strong> Prof. Misrak Gezmu (NIH, USA)  
+    <br><img src="misrak_gezmu.jpg" alt="Prof. Misrak Gezmu" style="width:150px; margin-top:10px;">
+  </li>
   <li><strong>Discussion:</strong> A 30-minute discussion will follow, focusing on developing sustainable education and research pathways in the region.</li>
 </ul>
 

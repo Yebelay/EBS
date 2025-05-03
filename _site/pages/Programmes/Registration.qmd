@@ -1,0 +1,83 @@
+---
+title: ""
+--- 
+
+
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> 2025 SUSAN Conference Registration </p>
+
+<p style="color: red; font-size: 1.2em; font-weight: bold;"> Welcome to the registration page for the 2025 SUSAN Conference. Below are the registration fee details and a link to the registration form. </p>
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> Registration Fees</p>
+
+
+
+<p style="color: green; font-size: 1.2em; font-weight: bold;"> A). Conference Payments</p>
+
+| Category               | Early Bird Registration | Late Registration |
+|------------------------|-------------------------|-------------------|
+| **Regular Member**     | $300                    | $350              |
+| **Non-Member**         | $350                    | $400              |
+| **Student**            | $150                    | $200              |
+| **Non-member Student** | $200                    | $250              |
+
+
+<p style="color: green; font-size: 1.2em; font-weight: bold;"> B). Workshop Payments (Both Students & Regulars)</p>
+
+| Workshop Type       | Fee |
+|---------------------|-----|
+| **Half Day**        | $40 |
+| **Full Day**        | $60 |
+| **Two Full Days**   | $75 |
+
+
+<!--  
+<p style="color: green; font-size: 1.2em; font-weight: bold;"> C). National Payments (Ethiopian Participants)</p>
+
+| Category | Fee (Birr) |
+|----------|-----------|
+| **Category 1** | -  |
+| **Category 2** | -  |
+| **Category 3** | -  |
+
+
+*These fees cover conference materials, lunches, and access to all sessions.*
+
+
+---
+
+<p style="color: red; font-size: 1.5em; font-weight: bold;">Register link will be active here soon!</p>
+
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9aLwBOHwqbfNaRiWK1fIE4xPIP1CQcd2aQD87cswl7NtUVw/viewform" target="_blank" style="background-color: #d9534f; color: white; padding: 15px 30px; font-size: 18px; text-decoration: none; border-radius: 5px;">
+    Register Here
+  </a>
+</div>
+
+-->
+
+---
+
+[**Note:** The registration link will be available soon]{style="color: darkred"}. 
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> Payment Option</p>
+
+**[Bank Account]{style="color: blue"}**
+ 
+ [The account details will be available soon]{style="color: darkred"}.
+ 
+<!--  
+ - Account Holder.: Ethiopian Biometrics Society 
+ - Bank: Dashen Bank  
+ - Account Number: 0025003193004
+ - Reference: Surename + Abstract number
+ 
+-->
+*[Your registration will be confirmed only after payment is received.]{style="color: red"}*
+
+---
+
+For any questions, please contact us at [ibsethiopiaregion@gmail.com](mailto:ibsethiopiaregion@gmail.com).
+
+
