@@ -5,7 +5,7 @@ format: html
 
 | **Call to Action**                          | **Deadline Date**        |
 |---------------------------------------------|--------------------------|
-|  Abstract Submission                        | <p style="font-weight: bold; color: green;">Passed</p>                   |
+|  Abstract Submission                        | **Passed**               |
 |  Notification of Acceptance                 | 20 March – 20 May 2025   |
 |  Full Paper Submission Deadline             | 15 June 2025             |
 |  Conference Dates                           | 03–08 September 2025     |
