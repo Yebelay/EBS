@@ -1,10 +1,13 @@
 ---
-title: "Plan your tour to Addia Ababa"
+title: ""
 format: html
 ---
 
-
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
+Plan your tour to Addia Ababa
+</p>
+
+<p style="color: green; font-size: 1.4em; font-weight: bold;">
 General Information About Addis Ababa and Visa Information
 </p>
 
@@ -16,7 +19,7 @@ Travel experts consider Addis Ababa a vibrant and important destination in Afric
 
 ---
 
-<p style="color: red; font-size: 1.6em; font-weight: bold;">
+<p style="color: red; font-size: 1.4em; font-weight: bold;">
 Steps for Visa Application to Ethiopia
 </p>
 
@@ -54,7 +57,7 @@ Typically, you will apply for a **Conference Visa (CV)** or a **Tourist Visa (TV
 
 ---
 
-<p style="color: red; font-size: 1.6em; font-weight: bold;">
+<p style="color: red; font-size: 1.4em; font-weight: bold;">
 Important Information About Ethiopian Visa Applications
 </p>
 
@@ -86,7 +89,7 @@ Types of Visas
 
 ---
 
-<p style="color: red; font-size: 1.6em; font-weight: bold;">
+<p style="color: red; font-size: 1.4em; font-weight: bold;">
 Required Documents for Visa Application
 </p>
 
@@ -104,7 +107,7 @@ Make sure that the name on your visa application exactly matches the name on you
 
 ---
 
-<p style="color: red; font-size: 1.6em; font-weight: bold;">
+<p style="color: red; font-size: 1.4em; font-weight: bold;">
 Additional Notes
 </p>
 
@@ -115,7 +118,7 @@ Additional Notes
 
 ---
 
-<p style="color: green; font-size: 1.6em; font-weight: bold;">
+<p style="color: green; font-size: 1.4em; font-weight: bold;">
 For More Information
 </p>
 
