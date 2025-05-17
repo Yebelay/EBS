@@ -1,5 +1,74 @@
 ---
-title: "workshop 7"
+title: ""
 format: html
 ---
 
+<p style="color: green; font-size: 1.4em; font-weight: bold;">
+Workshop 7: Computationally Efficient Bayesian Inference for Complex Biomedical Follow-Up Data: A Semiparametric Joint Modeling with INLA
+</p>
+
+<p><strong>Presented by:</strong> Dr. Melkamu Molla Ferede and Professor Ding-Geng (Din) Chen<br>
+University of Gondar, University of Pretoria, and Arizona State University</p>
+
+<p style="color: red; font-size: 1.2em; font-weight: bold;">
+Half-Day Training Workshop
+</p>
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Course Description
+</p>
+
+- This half-day workshop provides a comprehensive introduction to semiparametric joint modeling of competing risks survival and skewed longitudinal data using the Integrated Nested Laplace Approximation (INLA) approach in R.
+
+- The course is designed to offer computationally efficient Bayesian inference for complex biomedical follow-up data, where traditional MCMC techniques may be limited by high dimensionality, large dataset, or computational cost. 
+
+- Participants will learn to flexibly model nonlinear longitudinal trajectories, accommodate skewed distributions and competing risks in survival processes, and link these components within a joint modeling framework—incorporating smoothing splines, flexible distributions, and various association structures.
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Prerequisites
+</p>
+
+- Prior knowledge of survival analysis and longitudinal data analysis  
+- Basic understanding of Bayesian inference  
+- Basic experience with R and RStudio  
+- Laptop with pre-installed software: R, RStudio, INLA  
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Learning Objectives
+</p>
+
+- Understand the basic concept of joint modelling of longitudinal and time-to-event data  
+- Model nonlinear (skewed) longitudinal outcomes using semiparametric mixed-effects models with flexible distributional assumptions  
+- Model survival data with competing risks failure times with flexible hazard shapes  
+- Employ various association structures in joint modeling formulations  
+- Approximate Bayesian inference using the INLA approach, INLAjoint in R  
+- Evaluate the computational efficiency and estimation performance of INLA and MCMC  
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Software Requirements
+</p>
+
+Participants are requested to bring a laptop with the following pre-installed software:  
+- Latest version of R: <a href="https://cloud.r-project.org/">https://cloud.r-project.org/</a>  
+- RStudio: <a href="https://posit.co/download/rstudio-desktop/">https://posit.co/download/rstudio-desktop/</a>  
+- R-INLA: <a href="https://www.r-inla.org/download-install">https://www.r-inla.org/download-install</a>  
+
+(Note: Practical sample data and scripts will be shared before the session)
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+About the Instructors
+</p>
+
+<strong>Dr. Melkamu Molla Ferede</strong>  
+Postdoctoral Fellow in Biostatistics, University of Pretoria, South Africa  
+Assistant Professor of Statistics, University of Gondar, Ethiopia  
+
+<strong>Professor Ding-Geng (Din) Chen</strong>  
+SARChI Chair in Biostatistics (Tier 1), NRF B1-Rated  
+Extraordinary Professor, Department of Statistics, University of Pretoria, South Africa  
+Executive Director and Professor in Biostatistics, College of Health Solutions, Arizona State University, USA  
+Fellow of the American Statistical Association, Member of the Academy of Science of South Africa  
+
+<p style="color: blue; font-size: 1.0em; font-weight: bold;">
+Don't miss this opportunity to explore fast, flexible Bayesian methods with real-world biomedical data!
+</p>
