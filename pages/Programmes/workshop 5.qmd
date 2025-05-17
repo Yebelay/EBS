@@ -1,0 +1,85 @@
+---
+title: ""
+format: html
+---
+
+<p style="color: green; font-size: 1.6em; font-weight: bold;">
+Workshop 5: Modeling Longitudinal Data with Time-Dependent Covariates
+</p>
+
+<p><strong>Presented by:</strong> Dr. Jeffrey R. Wilson and Dr. Ding-Geng (Din) Chen <br>
+Arizona State University, USA</p>
+
+<p style="color: red; font-size: 1.2em; font-weight: bold;">
+Two-Day Training Course Outline
+</p>
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Course Description
+</p>
+
+- **This applied workshop introduces practical strategies** for modeling longitudinal data with time-dependent covariates, using real-world examples from health, behavioral, and policy research.
+
+- **Time-dependent covariates**—such as changing medication use, behavioral exposures, or symptom scores—pose unique challenges in longitudinal studies.
+
+- **Participants will learn how to recognize and model** these variables using marginal models (e.g., GEE), mixed-effects models, and joint modeling frameworks.
+
+- **Through a combination of lecture and live coding demonstrations**, the workshop will emphasize modeling approaches that address feedback, covariate timing, and dynamic exposure-outcome relationships.
+
+- **Hands-on examples** will guide attendees through the implementation of these models in both SAS and R, with optional demonstrations using Stan for Bayesian extensions.
+
+- **By the end of the workshop**, participants will be equipped to build, estimate, and interpret longitudinal models that incorporate time-dependent covariates in both continuous and binary outcome contexts.
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Prerequisites
+</p>
+
+- A course in regression  
+- Familiarity with longitudinal data structure and basic statistical inference  
+- Prior experience using R or SAS is helpful but not required  
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Learning Objectives
+</p>
+
+By the end of the workshop, participants will be able to:
+
+1. Differentiate between time-independent and time-dependent covariates in longitudinal data.  
+2. Understand the implications of using time-dependent covariates in marginal, conditional, and joint models.  
+3. Identify situations involving feedback, endogeneity, and measurement timing.  
+4. Implement marginal models using Generalized Estimating Equations (GEE) and linear mixed-effects models.  
+5. Fit models with time-dependent covariates using SAS and R.  
+6. Interpret model results for time-varying effects and provide insight into dynamic change processes.  
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Textbook (Recommended)
+</p>
+
+Wilson, J., Vazquez, E. and Chen, D. G. (2020). *Marginal Models in Analysis of Correlated Binary Data with Time-Dependent Covariates*. Springer.  
+(https://www.springer.com/gp/book/9783030489038)
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Laptop Requirement
+</p>
+
+Yes. Participants should bring a laptop with:  
+- R and RStudio pre-installed  
+- SAS (if available)  
+Workshop materials and code examples will be provided in advance.
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+About the Instructors
+</p>
+
+<strong>Dr. Jeffrey R. Wilson</strong>  
+Professor of Statistics and Biostatistics, Arizona State University  
+Dr. Wilson’s research spans correlated binary models, longitudinal data analysis, and public health analytics. He has authored over 100 peer-reviewed papers in journals such as *Statistics in Medicine* and *Management Science* and consults extensively in health care, law, and social policy.
+
+<strong>Dr. Ding-Geng (Din) Chen</strong>  
+Executive Director and Professor of Biostatistics, College of Health Solutions, Arizona State University  
+Extraordinary Professor of Statistics, University of Pretoria, South Africa  
+Dr. Chen is a global leader in biostatistics and statistical methodology with over 200 peer-reviewed publications and 42 co-authored or co-edited books in areas including data science, meta-analysis, causal inference, and longitudinal modeling. He currently holds appointments in the U.S. and South Africa and is an elected member of the Academy of Science of South Africa and an elected fellow of the American Statistical Association.
+
+<p style="color: blue; font-size: 1.0em; font-weight: bold;">
+Don’t miss this opportunity to learn from experts and improve your data analysis capabilities!
+</p>

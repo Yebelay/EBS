@@ -43,11 +43,34 @@ title: ""
 
 *These fees cover conference materials, lunches, and access to all sessions.*
 
+-->
 
 ---
 
-<p style="color: red; font-size: 1.5em; font-weight: bold;">Register link will be active here soon!</p>
 
+
+<p style="color: green; font-size: 1.5em; font-weight: bold;"> Registration Payment and procedures: </p>
+
+ 
+1. Download the app **Cashgo** a blue colored app from either playstor/Appstore
+2. Select **Bank Transfer** and select **Bank of Abyssinia** from the lists of banks displayed 
+3. Enter the amount of transfer and press **Enter**
+4. Enter the Societies account number **226579036** and sender's name **your name** and click the button **next**.
+5. check that the societies name **ETHIOPIAN BIOMETRICS SOCIETY** appeared as confirmation of deposit account  and enter reason of payment **Registration**
+6. confirm the details and amount and continue. 
+7. Fill out all your bank details correctly and select your card either **Visa** or **Master Card** and pay it then.
+8. Finally confirm your payment
+9. Take the screenshot of **successfully Sent** message for evidence
+
+<!--  
+ - Account Holder: ETHIOPIAN BIOMETRICS SOCIETY 
+ - Bank: Bank of Abyssinia  
+ - Account Number: 226579036
+ - Reference: Surename + Abstract number
+ 
+-->
+
+<p style="color: red; font-size: 1.5em; font-weight: bold;">To Register click the following link!</p>
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9aLwBOHwqbfNaRiWK1fIE4xPIP1CQcd2aQD87cswl7NtUVw/viewform" target="_blank" style="background-color: #d9534f; color: white; padding: 15px 30px; font-size: 18px; text-decoration: none; border-radius: 5px;">
@@ -55,25 +78,6 @@ title: ""
   </a>
 </div>
 
--->
-
----
-
-[**Note:** The registration link will be available soon]{style="color: darkred"}. 
-
-<p style="color: green; font-size: 1.5em; font-weight: bold;"> Payment Option</p>
-
-**[Bank Account]{style="color: blue"}**
- 
- [The account details will be available soon]{style="color: darkred"}.
- 
-<!--  
- - Account Holder.: Ethiopian Biometrics Society 
- - Bank: Dashen Bank  
- - Account Number: 0025003193004
- - Reference: Surename + Abstract number
- 
--->
 *[Your registration will be confirmed only after payment is received.]{style="color: red"}*
 
 ---
