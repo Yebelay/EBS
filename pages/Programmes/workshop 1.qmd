@@ -3,7 +3,7 @@ title: ""
 ---
 
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
-Workshop 1: Data Wrangling and Data Visualizations in Health Data Science with R
+Workshop 1 (WS1): Data Wrangling and Data Visualizations in Health Data Science with R
 </p>
 
 <p style="color: red; font-size: 1.2em; font-weight: bold;">

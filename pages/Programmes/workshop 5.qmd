@@ -4,7 +4,7 @@ format: html
 ---
 
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
-Workshop 5: Modeling Longitudinal Data with Time-Dependent Covariates
+Workshop 5 (WS5): Modeling Longitudinal Data with Time-Dependent Covariates
 </p>
 
 <p><strong>Presented by:</strong> Dr. Jeffrey R. Wilson and Dr. Ding-Geng (Din) Chen <br>

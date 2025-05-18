@@ -60,7 +60,7 @@ title: ""
 6. Confirm the details and amount and continue. 
 7. Fill out all your bank details correctly and select your card either **Visa** or **MasterCard** and pay it then.
 8. Finally confirm your payment
-9. Take the screenshot of **successfully Sent** message for evidence
+9. Take the screenshot of **successfully sent** message for evidence
 
 <!--  
  - Account Holder: ETHIOPIAN BIOMETRICS SOCIETY 

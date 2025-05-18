@@ -4,7 +4,7 @@ format: html
 ---
 
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
-Workshop 6: Small Area Estimation using Official Statistics for Health Indicators
+Workshop 6 (WS6): Small Area Estimation using Official Statistics for Health Indicators
 </p>
 
 <p><strong>Presented by:</strong> Seyifemickael Amare Yilema and Professor Ding-Geng Chen <br>

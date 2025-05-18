@@ -4,7 +4,7 @@ format: html
 ---
 
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
-Workshop 3: Data Analysis, Modeling, Reporting, Output Production and Online Content Development Using R
+Workshop 3 (WS3): Data Analysis, Modeling, Reporting, Output Production and Online Content Development Using R
 </p>
 
 <p style="color: red; font-size: 1.2em; font-weight: bold;">

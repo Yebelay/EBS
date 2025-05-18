@@ -3,7 +3,7 @@ title: ""
 ---
 
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
-Workshop 2: Linear Mixed Model Analysis of Correlated Data
+Workshop 2 (WS2): Linear Mixed Model Analysis of Correlated Data
 </p>
 
 <p><strong>Presented by:</strong> Prof. Alison Kelly and Professor Clayton Forknall <br>

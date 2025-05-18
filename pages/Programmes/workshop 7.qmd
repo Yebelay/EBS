@@ -4,7 +4,7 @@ format: html
 ---
 
 <p style="color: green; font-size: 1.4em; font-weight: bold;">
-Workshop 7: Computationally Efficient Bayesian Inference for Complex Biomedical Follow-Up Data: A Semiparametric Joint Modeling with INLA
+Workshop 7 (WS7): Computationally Efficient Bayesian Inference for Complex Biomedical Follow-Up Data: A Semiparametric Joint Modeling with INLA
 </p>
 
 <p><strong>Presented by:</strong> Dr. Melkamu Molla Ferede and Professor Ding-Geng (Din) Chen<br>

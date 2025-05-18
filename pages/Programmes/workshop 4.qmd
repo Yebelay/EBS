@@ -3,7 +3,7 @@ title: ""
 ---
 
 <p style="color: green; font-size: 1.6em; font-weight: bold;">
-Workshop 4: Geospatial Mapping with R for Health Data R</p>
+Workshop 4 (WS4): Geospatial Mapping with R for Health Data R</p>
 
 <p style="color: red; font-size: 1.2em; font-weight: bold;">
 One- Day Training Course Outline </p>
