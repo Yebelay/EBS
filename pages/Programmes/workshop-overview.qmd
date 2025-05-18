@@ -13,7 +13,7 @@ Pre-Workshops at the SUSAN Conference<br>
 <p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 1: Data Wrangling and Data Visualizations in Health Data Science with R</p>
 
 **Instructors:** Prof. Temesgen Zewotir, Prof. Henry Mwambi, Prof. Knowledge Chinhamu, Prof. Retius Chifurira, Prof. Faustin Habyarimana, Dr. Zelalem Getahun, Dr. Jesca Batidzirai, Dr. Mohanad Mohammed.  
-**Description:** This one-day workshop provides intensive training on data wrangling and data visualization techniques in health data science using R.  
+**Description:** This **one-day** workshop provides intensive training on data wrangling and data visualization techniques in health data science using R.  
 **Date:** 3 September 2025  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
@@ -24,7 +24,7 @@ Pre-Workshops at the SUSAN Conference<br>
 <p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 2: Linear Mixed Model Analysis of Correlated Data</p>
 
 **Instructors:** Professor Alison Kelly and and Professor Clayton Forknall from the University of Queensland, Australia.  
-**Description:** This two-day workshop focuses on linear mixed models for the analysis of correlated health data, including theory and practical applications.  
+**Description:** This **two-day** workshop focuses on linear mixed models for the analysis of correlated health data, including theory and practical applications.  
 **Dates:** 3–4 September 2025  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
@@ -35,7 +35,7 @@ Pre-Workshops at the SUSAN Conference<br>
 <p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 3: Data Analysis, Modeling, Reporting, Output Production, and Online Content Development Using R</p>
 
 **Instructors:** Dr. Rudradev Sengupta (rudradev.sengupta@one2treat.com) and Prof. Dr. Ziv Shkedy (ziv.shkedy@uhasselt.be).  
-**Description:** This one-day workshop covers data analysis, modeling, report generation, and online content development using R.  
+**Description:** This **one-day** workshop covers data analysis, modeling, report generation, and online content development using R.  
 **Date:** 4 September 2025  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
@@ -46,7 +46,7 @@ Pre-Workshops at the SUSAN Conference<br>
 <p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 4: Geospatial Mapping with R for Health Data</p>
 
 **Instructors:** Prof. Temesgen Zewotir, Prof. Henry Mwambi, Prof. Knowledge Chinhamu, Prof. Retius Chifurira, Prof. Faustin Habyarimana, Dr. Zelalem Getahun, Dr. Jesca Batidzirai, Dr. Mohanad Mohammed.  
-**Description:** This one-day workshop introduces participants to geospatial mapping techniques for health data science using R.  
+**Description:** This **one-day** workshop introduces participants to geospatial mapping techniques for health data science using R.  
 **Date:** 4 September 2025  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
@@ -57,8 +57,8 @@ Pre-Workshops at the SUSAN Conference<br>
 <p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 5: Modeling Longitudinal Data with Time-Dependent Covariates</p>
 
 **Instructors:** Professor Ding-Geng Chen, Fellow of ASA and Distinguished Professor at UNC-Chapel Hill.  
-**Description:** This one-day workshop explores the handling of time-varying covariates in statistical modeling, essential for longitudinal health studies.  
-**Date:** 3 September 2025  
+**Description:** This **half-day** workshop explores the handling of time-varying covariates in statistical modeling, essential for longitudinal health studies.  
+**Date:** 3 September 2025  (Afternoon).
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
 [Learn more about Workshop 5](workshop 5.qmd)
