@@ -11,7 +11,7 @@ Workshop 5: Modeling Longitudinal Data with Time-Dependent Covariates
 Arizona State University, USA</p>
 
 <p style="color: red; font-size: 1.2em; font-weight: bold;">
-Two-Day Training Course Outline
+Half-Day Training Course Outline
 </p>
 
 <p style="color: black; font-size: 1.3em; font-weight: bold;">
