@@ -57,9 +57,9 @@ Pre-Workshops at the SUSAN Conference<br>
 <p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 5: Modeling Longitudinal Data with Time-Dependent Covariates</p>
 
 **Instructors:** Professor Jeffrey Wilson, Professor of Statistics and Biostatistics, Associate Dean for Research and Associate Dean for Inclusive Excellence, W. P. Carey School of Business, Arizona State University, USA.
+
 Professor Ding-Geng Chen,
-Elected Member of the Academy of Science of South Africa (MASSAf) and Elected Fellow of the American Statistical Association 
-South Africa SARChI Chair in Biostatistics and Extraordinary Professor, University of Pretoria, South Africa, Executive Director and Professor in Biostatistics, College of Health Solutions, Arizona State University, USA
+Elected Member of the Academy of Science of South Africa (MASSAf) and Elected Fellow of the American Statistical Association South Africa SARChI Chair in Biostatistics and Extraordinary Professor, University of Pretoria, South Africa, Executive Director and Professor in Biostatistics, College of Health Solutions, Arizona State University, USA
 
 **Description:** This **half-day** workshop explores the handling of time-varying covariates in statistical modeling, essential for longitudinal health studies.  
 **Date:** 3 September 2025  (Afternoon).
