@@ -30,7 +30,7 @@ title: ""
 | Dr. Tilahun Asena        | Chair         | University of KwaZulu-Natal, South Africa and President of EBS                         |
 | Dr. Girma Taye           | Vice Chair    | Addis Ababa University, Ethiopia                  |
 | Mr. Anteneh Yalew        | Secretary     | University of the Witwatersrand, South Africa     |
-| Mr. Yebelay Berehan      | Website       | Debre Markos University and C4ED, Ethiopia        |
+| Mr. Yebelay Berehan      | Website       | Debre Markos University, Ethiopia        |
 | Dr. Gezahegn Mekonnen    | Member        | Hawassa University, Ethiopia                      |
 | Mr. Belachew Hundie      | Member        | Arsi University, Ethiopia                         |
 | Mr. Diribsa Bedada       | Member        | University of Waterloo, Canada                    |
@@ -63,22 +63,24 @@ title: ""
 | Prof. Yegnanew Shiferaw  | Member         | University of Johannesburg, South Africa          |
 | Dr. Seyifemickael Amare  | Member         | Debre Tabor University, Ethiopia                  |
 | Dr. Clarence Yah         | Member         | University of the Witwatersrand, South Africa     |
-
+| Prof. Tadesse Awoke Ayele| Member         | University of Gondar, Ethiopia                    |
+| Dr. Habte Tadesse        | Member         | Arizona State University, USA                     |
+| Dr. Yonas Shuke          | Member         | Hawassa University, Ethiopia                      |
 
 <p style="color: green; font-size: 1.3em; font-weight: bold;">Fund Raising and Resources Mobilization Committee (FRRMC)</p>
 
 
-| Name                      | Position       | Affiliation                                        |
-|---------------------------|----------------|--------------------------------------------------|
-| Dr. Gezahegn Mekonnen     | Chair          | Hawassa University, Ethiopia                     |
-| Dr. Girma Taye           | Vice Chair     | Addis Ababa University, Ethiopia                  |
-| Mrs. Eskedar Girma       | Secretary      | Haramaya University, Ethiopia                     |
+| Name                     | Position       | Affiliation                                      |
+|--------------------------|----------------|--------------------------------------------------|
+| Dr. Gezahegn Mekonnen    | Chair          | Hawassa University, Ethiopia                     |
+| Dr. Girma Taye           | Vice Chair     | Addis Ababa University, Ethiopia                 |
+| Mrs. Eskedar Girma       | Secretary      | Haramaya University, Ethiopia                    |
 | Dr. Tilahun Ferede       | Member         | University of KwaZulu-Natal, South Africa,       |
-| Dr. Asnake Worku         | Member         | Ethiopian Public Health Institute, Ethiopia       |
-| Prof. Nokoe Sagary       | Member         | Ghana                                             |
-| Prof. Tarylee Reddy      | Member         | IBS Secretary, South Africa                       |
-| Dr. Halima Twabi         | Member         | SUSAN Treasurer, Malawi                           |
-| Dr. Wende Safari         | Member         | Former SUSAN Treasurer, Tanzania                  |
+| Dr. Asnake Worku         | Member         | Ethiopian Public Health Institute, Ethiopia      |
+| Prof. Nokoe Sagary       | Member         | Ghana                                            |
+| Prof. Tarylee Reddy      | Member         | IBS Secretary, South Africa                      |
+| Dr. Halima Twabi         | Member         | SUSAN Treasurer, Malawi                          |
+| Dr. Wende Safari         | Member         | Former SUSAN Treasurer, Tanzania                 |
 
 
 <p style="color: green; font-size: 1.3em; font-weight: bold;">Transport and Accommodation Service Committee (TASC)</p>
@@ -89,7 +91,7 @@ title: ""
 | Dr. Fatuma Hassen         | Vice Chair     | Addis Ababa University, Ethiopia                 |
 | Mr. Awgchew Kiíe          | Secretary      | Addis Ababa University, Ethiopia                 |
 | Mrs. Eskedar Girma        | Member         | Haramaya University, Ethiopia                    |
-| Mr. Yeblay Berelie        | Member         | Debre Markos University and C4ED, Ethiopia       |
+| Mr. Yeblay Berehan        | Member         | Debre Markos University, Ethiopia                |
 | Mr. Belachew Melese       | Member         | Arsi University, Ethiopia                        |
 
 </div>
