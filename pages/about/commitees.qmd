@@ -27,7 +27,7 @@ title: ""
 
 | Name                     | Position/Role | Affiliation                                       |
 |--------------------------|---------------|---------------------------------------------------|
-| Dr. Tilahun Asena        | Chair         | EPHI and President of EBS                         |
+| Dr. Tilahun Asena        | Chair         | University of KwaZulu-Natal, South Africa and President of EBS                         |
 | Dr. Girma Taye           | Vice Chair    | Addis Ababa University, Ethiopia                  |
 | Mr. Anteneh Yalew        | Secretary     | University of the Witwatersrand, South Africa     |
 | Mr. Yebelay Berehan      | Website       | Debre Markos University and C4ED, Ethiopia        |
@@ -37,7 +37,6 @@ title: ""
 | Dr. Sisay Wondaya        | Member        | Ethiopian Public Health Institute, Ethiopia       |
 | Dr. Fatuma Hassen        | Member        | Addis Ababa University, Ethiopia                  |
 | Mrs. Eskedar Girma       | Member        | Haramaya University, Ethiopia                     |
-| Minik Tsega              | Member        | Ethiopian Agricultural Research Institute         |
 | Dr. Merga Belina         | Member        | Addis Ababa University, Ethiopia                  |
 
 
@@ -49,27 +48,20 @@ title: ""
 | Dr. Girma Taye           | Chair          | Addis Ababa University, Ethiopia                  |
 | Mr. Anteneh Yalew        | Vice Chair     | University of the Witwatersrand, South Africa     |
 | Mr. Diribsa Bedada       | Secretary      | University of Waterloo, Canada                    |
-| Dr. Tilahun Asena        | Member         | EPHI and President of EBS                         |
+| Dr. Tilahun Asena        | Member         | University of KwaZulu-Natal, South Africa and President of EBS                         |
 | Dr. Gezahegn Mekonnen    | Member         | Hawassa University, Ethiopia                      |
-| Prof. Tadesse Ayele      | Member         | University of Gondar, Ethiopia                    |
 | Prof. Temesgen Zewotir   | Member         | University of KwaZulu-Natal, South Africa         |
 | Prof. Legesse Debusho    | Member         | University of South Africa, South Africa          |
 | Prof. Tobias Chirwa      | Member         | University of the Witwatersrand, South Africa     |
 | Prof. Henry Mwambi       | Member         | University of KwaZulu-Natal, South Africa         |
 | Prof. Tarylee Reddy      | Member         | IBS Secretary MRC, South Africa                   |
 | Dr. Zeytu Asfaw          | Member         | Addis Ababa University, Ethiopia                  |
-| Dr. Dejen Tesfaw         | Member         | Addis Ababa University, Ethiopia                  |
-| Dr. Bisrat Misganaw      | Member         | University of Gondar, Ethiopia                    |
 | Dr. Derebachew Asefaw    | Member         | Addis Ababa University, Ethiopia                  |
 | Dr. Tigist Liulseged     | Member         | Saint Paul’s Millennium Medical College, Ethiopia |
 | Dr. Denekew Bitew        | Member         | University of Pretoria, South Africa              |
 | Dr. Innocent Maphosa     | Member         | Stellenbosch University, South Africa             |
-| Dr. Habte Tadesse        | Member         | Addis Ababa University, Ethiopia                  |
 | Prof. Yegnanew Shiferaw  | Member         | University of Johannesburg, South Africa          |
-| Dr. Alemtsehai Turasie   | Member         | Adelphi University, USA                           |
-| Prof. Yihenew Getachew   | Member         | USA                                               |
 | Dr. Seyifemickael Amare  | Member         | Debre Tabor University, Ethiopia                  |
-| Dr. Yonas Shuke          | Member         | Hawassa University, Ethiopia                      |
 | Dr. Clarence Yah         | Member         | University of the Witwatersrand, South Africa     |
 
 
@@ -81,7 +73,7 @@ title: ""
 | Dr. Gezahegn Mekonnen     | Chair          | Hawassa University, Ethiopia                     |
 | Dr. Girma Taye           | Vice Chair     | Addis Ababa University, Ethiopia                  |
 | Mrs. Eskedar Girma       | Secretary      | Haramaya University, Ethiopia                     |
-| Dr. Tilahun Ferede       | Member         | Ethiopian Public Health Institute, Ethiopia       |
+| Dr. Tilahun Ferede       | Member         | University of KwaZulu-Natal, South Africa,       |
 | Dr. Asnake Worku         | Member         | Ethiopian Public Health Institute, Ethiopia       |
 | Prof. Nokoe Sagary       | Member         | Ghana                                             |
 | Prof. Tarylee Reddy      | Member         | IBS Secretary, South Africa                       |
