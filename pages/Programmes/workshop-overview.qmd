@@ -34,7 +34,7 @@ Pre-Workshops at the SUSAN Conference<br>
 
 <p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 3: Data Analysis, Modeling, Reporting, Output Production, and Online Content Development Using R</p>
 
-**Instructors:** Dr. Rudradev Sengupta (rudradev.sengupta@one2treat.com) and Prof. Dr. Ziv Shkedy (ziv.shkedy@uhasselt.be).  
+**Instructors:** Prof. Dr. Ziv Shkedy (ziv.shkedy@uhasselt.be), Dr. Rudradev Sengupta (rudradev.sengupta@one2treat.com) and Dr. Julia Duda (julia.duda@uhasselt.be).  
 **Description:** This **one-day** workshop covers data analysis, modeling, report generation, and online content development using R.  
 **Date:** 4 September 2025  
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
