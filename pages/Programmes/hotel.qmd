@@ -11,60 +11,94 @@ Hotel Information
 Ellely International Hotel
 </p>
 
-<p><strong>Address:</strong> Kazanchis, Kirkos Subcity 17/18, Addis Ababa, Ethiopia<br>
-<strong>Contact info:</strong> Tel: +251911451211;  **Email**: tigist.temesgen@elillyhotel.com | [www.elillyhotel.com](https://elillyhotel.com/ethiopian-biometric-society/)</a></p>
-
+<p><strong>Address:</strong> <span style="color: #333;">Kazanchis, Kirkos Subcity 17/18, Addis Ababa, Ethiopia</span><br>
+<strong>Contact info:</strong> Tel: <span style="color: blue;">+251911451211</span>; <strong>Email</strong>: <span style="color: blue;">tigist.temesgen@elillyhotel.com</span> | <a href="https://elillyhotel.com/ethiopian-biometric-society/" style="color: darkorange;"><strong>www.elillyhotel.com</strong></a></p>
 
 <p style="color: red; font-size: 1.4em; font-weight: bold;">
 Conference Details
 </p>
 
-<p>The Ellely International Hotel is the host hotel for the IBS SUSAN2025 Conference. All scientific sessions will take place at this location. We highly encourage all attendees to book their stay at the host hotel.</p>
+<p>The <strong>Ellely International Hotel</strong> is the <span style="color: darkblue;"><u>host hotel</u></span> for the <strong>IBS SUSAN2025 Conference</strong>. All <span style="color: darkred;">scientific sessions</span> will take place at this location. We <em><strong>highly encourage</strong></em> all attendees to <span style="background-color: #ffff99;"><strong>book their stay</strong></span> at the host hotel.</p>
 
 <p style="color: blue; font-size: 1.3em; font-weight: bold;">
 Rates
 </p>
 
-<p><strong>Price:</strong> $75.00 USD per night, including taxes & fees.</p>
+<p><strong>Price:</strong> <span style="color: green;"><strong>$75.00 USD</strong></span> per night, <em>including taxes & fees</em>.</p>
 
 <p style="color: blue; font-size: 1.3em; font-weight: bold;">
 Booking Information
 </p>
 
 <ul>
-  <li><strong>Book Online:</strong> [BOOK YOUR STAY HERE](https://elillyhotel.com/ethiopian-biometric-society/)</li>
-  <li><strong>Email:</strong> tigist.temesgen@elillyhotel.com (use code <strong>IBS SUSAN2025</strong>)</li>
+  <li><strong>Book Online:</strong> <a href="https://elillyhotel.com/ethiopian-biometric-society/" style="color: darkorange;"><strong>BOOK YOUR STAY HERE</strong></a></li>
+  <li><strong>Email:</strong> <span style="color: blue;">tigist.temesgen@elillyhotel.com</span> (use code <span style="color: red;"><strong>IBS SUSAN2025</strong></span>)</li>
 </ul>
 
 <p style="color: blue; font-size: 1.3em; font-weight: bold;">
 Important Dates
 </p>
 
-<p><strong>Hotel Cut-off Date:</strong> August 30, 2025<br>
-After this date, our group rate is not guaranteed.</p>
+<p><strong>Hotel Cut-off Date:</strong> <span style="color: red; font-weight: bold;">August 30, 2025</span><br>
+After this date, our group rate is <u>not guaranteed</u>.</p>
 
 <p style="color: blue; font-size: 1.3em; font-weight: bold;">
 Early Arrival or Extended Stay
 </p>
 
-<p>Interested in arriving up to 3 days early or extending your stay for 3 days after the conference (03-08 September 2025) at the group rate?</p>
-
-<p>Please contact our IBS SUSAN2025 Group Bookings Coordinator at the Ellely International Hotel:</p>
-
-<ul>
-  <li><strong>Name:</strong> Mr. Belachew Melese</li>
-  <li><strong>Email:</strong> <a href="mailto:belachewmelese3@gmail.com">belachewmelese3@gmail.com</a></li>
-</ul>
+<p>Interested in arriving up to <strong>3 days early</strong> or extending your stay for <strong>3 days after the conference</strong> (<span style="color: green;">03–08 September 2025</span>) at the group rate?</p>
 
 <p style="color: red; font-size: 1.4em; font-weight: bold;">
 Other Hotel Options
 </p>
 
-<p>If you prefer alternative accommodations, consider the following nearby hotels:</p>
+<p>If you prefer <strong>alternative accommodations</strong>, consider the following nearby hotels. All are located within a short distance of the Ellely International Hotel, the <strong>IBS SUSAN2025 Conference</strong> venue.</p>
 
-<ul>
-  <li>Inter Luxury Hotel</li>
-  <li>Radisson Blu Hotel, Addis Ababa</li>
-</ul>
+<!-- Jano Hotel -->
+<p style="color: green; font-size: 1.6em; font-weight: bold;">
+Jano Addis Hotel – Booking Information
+</p>
 
-<p>Both options are conveniently located near the Ellely International Hotel. You can book your stay at either hotel if you prefer.</p>
+<p><strong>Location:</strong> Jano Addis Hotel is a <span style="color: blue;">4-star luxury hotel</span> located just <strong>1 km from Bole International Airport</strong> and <strong>5 minutes</strong> from Adey Ababa Stadium. It is <strong>11 minutes (4.2 km)</strong> by car from Ellely Hotel.</p>
+
+<p><strong>Room Rate & Booking Details:</strong><br>
+• <span style="color: green;"><strong>Special Group Rate:</strong> $30.00 USD</span> per night (includes taxes & fees)<br>
+• <strong>Booking Deadline:</strong> <span style="color: red;"><strong>August 15, 2025</strong></span> (rate not guaranteed after this date)</p>
+
+<p><strong>Booking Methods:</strong><br>
+Website: <a href="http://www.janohotel.com" target="_blank" style="color: darkorange;">www.janohotel.com</a><br>
+Email: <a href="mailto:reservation@janohotel.com" style="color: blue;">reservation@janohotel.com</a></p>
+
+<!-- New Day Hotel -->
+<p style="color: green; font-size: 1.6em; font-weight: bold;">
+New Day Hotel – Booking Information
+</p>
+
+<p><strong>Location & Features:</strong> New Day Hotel, located in Addis Ababa, offers <strong>modern, family-friendly accommodations</strong> just <strong>2 km</strong> from Bole International Airport and <strong>8 minutes (3.2 km)</strong> by car from Ellely Hotel. It is also within walking distance of <strong>Matti Multiplex Theatre</strong> and near <strong>UNECA</strong> and the <strong>Addis Ababa Museum</strong>.</p>
+
+<p><strong>Hotel Highlights:</strong><br>
+- Family rooms with private bathrooms, city views, minibar, desk, and <strong>free WiFi</strong><br>
+- On-site restaurant with <strong>Ethiopian, international & European cuisine</strong><br>
+- Breakfast options include <strong>continental, American, and local specialties</strong><br>
+- <span style="color: darkgreen;">Free airport shuttle</span>, bar, lounge, 24-hour front desk, concierge, tour desk, and free on-site parking</p>
+
+<p><strong>Room Rate & Booking:</strong><br>
+- <span style="color: green;"><strong>Special Group Rate:</strong> $27 USD</span> per night (includes taxes & fees)<br>
+- <strong>Booking Deadline:</strong> <span style="color: red;"><strong>August 10, 2025</strong></span> (rate not guaranteed after this date)</p>
+
+<p><strong>Booking Method:</strong><br>
+Email: <a href="mailto:gm@newdayhotels.com" style="color: blue;">gm@newdayhotels.com</a> | <a href="mailto:info@newdayhotels.com" style="color: blue;">info@newdayhotels.com</a><br>
+Cell phone: <span style="color: blue;">+251 993 821 442 / +251 993 821 440</span><br>
+<strong>Discount Code:</strong> <span style="color: red; font-weight: bold;">IBS SUSAN2025 conference</span><br>
+<em>Please book directly via email to receive the discounted group rate. Avoid third-party platforms like Booking.com.</em></p>
+
+<p><strong>Extended Stay Options:</strong><br>
+Planning to arrive up to <strong>3 days early</strong> or stay <strong>3 days after</strong> the conference (<span style="color: green;">September 3–8, 2025</span>)? <u>The same group rate applies!</u></p>
+
+<p>Please contact our <strong>IBS SUSAN2025 Group Bookings Coordinator</strong> at the Ellely International Hotel:</p>
+
+Name: <strong>Mr. Belachew Melese</strong><br>
+Email: <a href="mailto:ethiopianbiometricssociety@gmail.com" style="color: blue;">ethiopianbiometricssociety@gmail.com</a><br>
+WhatsApp: <span style="color: blue;">+251 949 389 536</span></p>
+
+<p><strong>Reminder:</strong> Use the discount code <span style="color: red; font-weight: bold;">IBS SUSAN2025 conference</span> and <u>book directly</u> to secure the special group rate.</p>
