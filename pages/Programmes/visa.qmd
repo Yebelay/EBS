@@ -16,7 +16,7 @@ format: html
 <img src="AA2.jpeg" class="fullpage-img">
  
 <p style="color: red; font-size: 1.6em; font-weight: bold;">
-Plan your tour to Addia Ababa
+Plan your tour to Addis Ababa
 </p>
 
 
