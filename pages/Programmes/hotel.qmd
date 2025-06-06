@@ -22,7 +22,7 @@ Conference Details
 Rates
 </p>
 
-<p><strong>Price:</strong> <span style="color: green;"><strong>$75.00</strong></span> per night, <em>including taxes & fees</em>.</p>
+<p><strong>Price:</strong> <span style="color: green;"><strong>$75</strong></span> per night, <em>including taxes & fees</em>.</p>
 
 <p style="color: blue; font-size: 1.3em; font-weight: bold;">
 Booking Information
@@ -77,7 +77,7 @@ Email: <a href="mailto:reservation@janohotel.com" style="color: blue;">reservati
 - <strong>Booking Deadline:</strong> <span style="color: red;"><strong>August 10, 2025</strong></span> (rate not guaranteed after this date)</p>
 
 <p><strong>Booking Method:</strong><br>
-- Email: <a href="mailto:gm@newdayhotels.com" style="color: blue;">gm@newdayhotels.com</a> | <a href="mailto:info@newdayhotels.com" style="color: blue;">info@newdayhotels.com</a><br>
+- Email: <a href="mailto:info@newdayhotels.com" style="color: blue;">info@newdayhotels.com</a><br>
 - Cell phone: <span style="color: blue;">+251 993 821 442 / +251 993 821 440</span><br>
 <em>Please book directly via email to receive the discounted group rate. Avoid third-party platforms like Booking.com.</em></p>
 
@@ -113,3 +113,5 @@ Email: <a href="mailto:ethiopianbiometricssociety@gmail.com" style="color: blue;
 WhatsApp: <span style="color: blue;">+251 949 389 536</span></p>
 
 <p><strong>Note:</strong> Use the discount code <span style="color: red; font-weight: bold;">IBS SUSAN2025 conference</span> and <u>book directly</u> to secure the special group rate.</p>
+
+
