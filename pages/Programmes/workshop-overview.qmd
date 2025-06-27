@@ -52,6 +52,7 @@ Pre-Workshops at the SUSAN Conference<br>
 
 [Learn more about Workshop 4](workshop 4.qmd)
 
+<!--  
 ---
 
 <p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 5: Modeling Longitudinal Data with Time-Dependent Covariates</p>
@@ -67,6 +68,7 @@ Elected Member of the Academy of Science of South Africa (MASSAf) and Elected Fe
 **Location:** Elilly International Hotel, Addis Ababa, Ethiopia
 
 [Learn more about Workshop 5](workshop 5.qmd)
+-->
 
 ---
 
