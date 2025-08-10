@@ -1,0 +1,75 @@
+---
+title: ""
+format: html
+---
+
+<p style="color: green; font-size: 1.4em; font-weight: bold;">
+Workshop 8 (WS8): An Open-Source E-Learning System for Biostatistics and Data Science: the eR-BioStat Platform
+</p>
+
+<p><strong>Presented by:</strong> Prof. Dr. Ziv Shkedy and the eR-BioStat team</p>
+
+<p style="color: red; font-size: 1.2em; font-weight: bold;">
+Half-Day Training Course
+</p>
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Course Description
+</p>
+
+- This workshop is developed for lecturers in academia who teach courses in (bio)statistics and data science at undergraduate and graduate levels or need to give service courses in (bio)statistics in their universities.  
+
+- The eR-BioStat platform (<a href="https://erbiostat.wixsite.com/erbiostat">https://erbiostat.wixsite.com/erbiostat</a>) offers fully developed core courses in (bio)statistics and data science. As the eR-BioStat platform follows a policy of open education, it provides not just the slides for the class but all the source files (PowerPoint, TeX, R Markdown) that were used to prepare the course, available online for free.  
+
+- In the workshop, we will not cover new topics in statistics and data science but will give an overview of the platform and focus on a few courses as examples.  
+
+- Date: 3 September 2025 (Morning)  
+- Location: Elilly International Hotel, Addis Ababa, Ethiopia  
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Prerequisites
+</p>
+
+- Basic familiarity with R, RStudio, and R Markdown  
+- Basic knowledge of ggplot2  
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+For Whom?
+</p>
+
+- Academic staff that give courses in education programs in (bio)statistics, epidemiology, data science at undergraduate and graduate levels  
+- Academic staff that give short courses as part of training programs in their universities (such as PhD schools or service courses for life science students)  
+- Academic staff who need to teach a course, either as part of the curriculum or as a short training course  
+- Academic staff who are looking for a way to strengthen their courses with applied topics  
+- PhD, BSc, and MSc students in data science, (bio)statistics, bioinformatics, and epidemiology  
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Course Outline
+</p>
+
+- The eR-BioStat initiative  
+- Open education: main concepts  
+- Global vs local eR-BioStat websites  
+- Overview of the eR-BioStat platform and available courses  
+- Examples of courses and their corresponding course materials:  
+  - Introduction to R  
+  - Introduction to statistical modeling using R  
+  - Basic concepts of statistical inference  
+  - Visualization using R  
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+Course Materials
+</p>
+
+We follow an “open source” approach and all course materials will be available for free online. This includes the slides for the course, HTML files with the output produced for the examples covered in the course, and R Markdown files with the code for all the examples we cover in the course.
+
+<p style="color: black; font-size: 1.3em; font-weight: bold;">
+About the Instructors
+</p>
+
+<strong>Prof. Dr. Ziv Shkedy</strong> (ziv.shkedy@uhasselt.be) and the eR-BioStat team
+
+<p style="color: blue; font-size: 1.0em; font-weight: bold;">
+Don't miss this opportunity to explore open-source, ready-to-use teaching materials for (bio)statistics and data science!
+</p>
+

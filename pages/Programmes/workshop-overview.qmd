@@ -91,3 +91,12 @@ Elected Member of the Academy of Science of South Africa (MASSAf) and Elected Fe
 
 [Learn more about Workshop 7](workshop 7.qmd)
 
+<p style="color: green; font-size: 1.4em; font-weight: bold;">Workshop 8: An Open-Source E-Learning System for Biostatistics and Data Science: the eR-BioStat Platform</p>
+
+**Instructors:** Prof. Dr. Ziv Shkedy and the eR-BioStat team  
+**Description:** This **half-day** workshop is developed for lecturers in academia who teach (bio)statistics and data science courses at undergraduate and graduate levels or provide service courses in these subjects at their universities. It introduces the eR-BioStat platform (<a href="https://erbiostat.wixsite.com/erbiostat">https://erbiostat.wixsite.com/erbiostat</a>), which offers fully developed core courses in (bio)statistics and data science, including slides and all source files (PowerPoint, TeX, R Markdown) available online for free. The workshop will focus on an overview of the platform and selected example courses.  
+**Date:** 3 September 2025 (Morning)  
+**Location:** Elilly International Hotel, Addis Ababa, Ethiopia
+
+[Learn more about Workshop 8](workshop 8.qmd)
+
